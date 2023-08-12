@@ -17,7 +17,7 @@ description: >
             text-align: center;
             color: white;
         }
-
+    
         .description {
             margin: 20px auto;
             padding: 20px;
@@ -26,7 +26,7 @@ description: >
             text-align: center; /* Center the description text */
         }
     
-        a {
+        .linkedin, .github, .resume {
             display: block;
             margin: 10px auto;
             padding: 10px 15px;
@@ -35,11 +35,11 @@ description: >
             border-radius: 5px;
             width: fit-content;
         }
-
+    
         .linkedin {
             background-color: #007BFF;
         }
-
+    
         .github {
             background-color: gray;
         }
@@ -48,10 +48,11 @@ description: >
             background-color: #4CAF50;
         }
     
-        a:hover {
+        .linkedin:hover, .github:hover, .resume:hover {
             opacity: 0.9;
         }
     </style>
+
 
     <div id="name-box">The Data Dude:</div>
     
