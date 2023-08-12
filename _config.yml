@@ -1,5 +1,5 @@
-title: Sam Celarek # your name (or website title) here
-logo: "/images/Circle Sam.png?raw=true" # your photo (or logo) here
+title: Sam Celarek
+logo: "/images/Circle Sam.png?raw=true"
 description: >
     <style>
         body {
@@ -15,11 +15,7 @@ description: >
             display: block;
             margin: 20px auto;
             text-align: center;
-            color: blue;
-        }
-    
-        #name-box:hover {
-            color: black;
+            color: white;
         }
 
         .description {
@@ -27,6 +23,7 @@ description: >
             padding: 20px;
             border-radius: 5px;
             background-color: rgba(240, 240, 240, 0.7);
+            text-align: center; /* Center the description text */
         }
     
         a {
@@ -48,7 +45,7 @@ description: >
         }
         
         .resume {
-            background-color: #4CAF50; /* A different color, such as green, to distinguish from other links */
+            background-color: #4CAF50;
         }
     
         a:hover {
@@ -69,4 +66,4 @@ description: >
 remote_theme: pages-themes/minimal@v0.2.0
 plugins:
 - jekyll-remote-theme
-google_analytics: G-Y2C3F7G3VW # your Google Analytics tracking ID here
+google_analytics: G-Y2C3F7G3VW
