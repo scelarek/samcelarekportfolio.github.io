@@ -1,13 +1,16 @@
-title: Sam Celarek # your name (or website title) here
-logo: "/images/Sam-Celarek-5---Data-Science---May-2023-fixed (1).jpg?raw=true" # your photo (or logo) here
-description: > # your text below (remove <br> elements if you don't need line breaks)
-  The Data Dude: Lovely Dude, Loving Data
-  <br><br>
-  Hello! I've been a nurse for the past 8 years working on teams and using data to improve the hospitals KPI's or optimize floor staffing. Recently, I completed my BrainStation Data Science Diploma and now I'm looking for my first job in the industry. 
-  Check out some of the outputs of my data science projects below and get in touch with me at! 
-  <br><br>
-  <a href="https://www.linkedin.com/in/sam-celarek/">View My LinkedIn Profile</a> 
-  <a href="https://github.com/scelarek">View My GitHub Profile</a> 
+# Personal Details
+title: Sam Celarek
+logo: "/images/Circle Sam.png?raw=true"
+description: |  # Using pipe (|) for multi-line strings, which also preserves newlines
+  The Data Dude:
+  
+  Hello! I've been a nurse for the past 8 years, working on teams and leveraging data to enhance hospital KPIs and optimize floor staffing. After completing my BrainStation Data Science Diploma, I'm on the lookout for my first role in the industry. Take a glance at some of my data science projects below and feel free to connect!
+
+  - [View My LinkedIn Profile](https://www.linkedin.com/in/sam-celarek/)
+  - [View My GitHub Profile](https://github.com/scelarek)
+
+# Additional configurations can be added below this line as needed
+
 
   
 remote_theme: pages-themes/minimal@v0.2.0
