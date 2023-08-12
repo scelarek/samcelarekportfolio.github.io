@@ -1,71 +1,62 @@
 title: Sam Celarek # your name (or website title) here
 logo: "/images/Circle Sam.png?raw=true" # your photo (or logo) here
-description: > # your text below (remove <br> elements if you don't need line breaks)
-  The Data Dude:
-  <br><br>
-  Hello! I've been a nurse for the past 8 years working on teams and using data to improve the hospitals KPI's or optimize floor staffing. Recently, I completed my BrainStation Data Science Diploma and now I'm looking for my first job in the industry. 
-  Check out some of the outputs of my data science projects below and get in touch with me at! 
-  <br><br>
-  <a href="https://www.linkedin.com/in/sam-celarek/">View My LinkedIn Profile</a> 
-  <a href="https://github.com/scelarek">View My GitHub Profile</a> 
+description: >
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #f5f5f5;
+        }
+    
+        #name-box {
+            background-color: gray;
+            padding: 5px 20px;
+            font-weight: bold;
+            border-radius: 5px;
+            display: block;
+            margin: 20px auto;
+            text-align: center;
+            color: white;
+        }
+    
+        .description {
+            margin: 20px auto;
+            padding: 20px;
+            border-radius: 5px;
+            background-color: rgba(240, 240, 240, 0.7);
+        }
+    
+        a {
+            display: block;
+            margin: 10px auto;
+            padding: 10px 15px;
+            color: white;
+            text-decoration: none;
+            border-radius: 5px;
+            width: fit-content;
+        }
 
+        .linkedin {
+            background-color: #007BFF;
+        }
+
+        .github {
+            background-color: gray;
+        }
     
-    <head>
-        <meta charset="UTF-8">
-        <meta http-equiv="X-UA-Compatible" content="IE=edge">
-        <meta name="viewport" content="width=device-width, initial-scale=1.0">
-        <title>Sam Celarek's Portfolio</title>
-        <style>
-            body {
-                font-family: Arial, sans-serif;
-                background-color: #f5f5f5;
-                padding: 20px;
-            }
-    
-            #name-box {
-                background-color: gray;
-                padding: 5px 20px;
-                font-weight: bold;
-                border-radius: 5px;
-                display: inline-block;
-                color: white;
-            }
-    
-            .centered {
-                text-align: center;
-                margin-top: 20px;
-            }
-    
-            .description {
-                margin-bottom: 20px;
-            }
-    
-            a {
-                display: block;
-                margin: 10px 0;
-                color: #007BFF;
-                text-decoration: none;
-            }
-    
-            a:hover {
-                text-decoration: underline;
-            }
-        </style>
-    </head>
-    <body>
-    
+        a:hover {
+            opacity: 0.9;
+        }
+    </style>
+
     <div id="name-box">The Data Dude:</div>
     
-    <div class="centered description">
+    <div class="description">
         Hello! I've been a nurse for the past 8 years, working on teams and leveraging data to enhance hospital KPIs and optimize floor staffing. After completing my BrainStation Data Science Diploma, I'm on the lookout for my first role in the industry. Take a glance at some of my data science projects below and feel free to connect!
     </div>
     
-    <div class="centered">
-        <a href="https://www.linkedin.com/in/sam-celarek/">View My LinkedIn Profile</a>
-        <a href="https://github.com/scelarek">View My GitHub Profile</a>
-    </div>
-    
-    </body>
+    <a class="linkedin" href="https://www.linkedin.com/in/sam-celarek/">View My LinkedIn Profile</a>
+    <a class="github" href="https://github.com/scelarek">View My GitHub Profile</a>
+
 
   
 remote_theme: pages-themes/minimal@v0.2.0
