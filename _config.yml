@@ -15,9 +15,13 @@ description: >
             display: block;
             margin: 20px auto;
             text-align: center;
-            color: white;
+            color: blue;
         }
     
+        #name-box:hover {
+            color: black;
+        }
+
         .description {
             margin: 20px auto;
             padding: 20px;
@@ -42,6 +46,10 @@ description: >
         .github {
             background-color: gray;
         }
+        
+        .resume {
+            background-color: #4CAF50; /* A different color, such as green, to distinguish from other links */
+        }
     
         a:hover {
             opacity: 0.9;
@@ -56,8 +64,7 @@ description: >
     
     <a class="linkedin" href="https://www.linkedin.com/in/sam-celarek/">View My LinkedIn Profile</a>
     <a class="github" href="https://github.com/scelarek">View My GitHub Profile</a>
-
-
+    <a class="resume" href="https://drive.google.com/file/d/1fx7HWhIajxjqvkoxQvTx0V_xDWeLU-72/view?usp=drive_link">View My Resume</a>
   
 remote_theme: pages-themes/minimal@v0.2.0
 plugins:
