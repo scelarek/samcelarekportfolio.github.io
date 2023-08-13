@@ -77,21 +77,21 @@ For Prophet modeling, I grid searched with cross-validation over a range of 3 to
 
 ---
 
-### 📈 Results and Performance
+### 📈 Results and Discussion
 
-Both models were trained on new cases of COVID from February 15th, 2020 to March 5th, 2023. The unseen test data from March 5th to March 21st, 2023 served as the final evaluation benchmark. 
+The training period was from February 15th, 2020 to March 5th, 2023 and the testing period was the 16 days from March 5th,2023 to March 21st, 2023. The forecasts and benchmarks below are based on the models' performance during the testing period. 
 
 <div style="text-align: left;">
-    <h1>Forecasts:</h1>
-    <h2>SARIMAX Model:</h2>
+    <h2>Forecasts:</h2>
+    <h3>SARIMAX Model:</h3>
     <img align="right" src="https://github.com/scelarek/Covid-Prediction-Capstone/assets/115444760/8e9aa4be-fcaf-43cc-9b12-67f45f422011" title="CovidCast" alt="CovidCast" style="width:100%; max-width:550px;">
     <p>The SARIMAX model adeptly captures the weekly COVID case variations, demonstrating minimal residuals for low case counts. Although it occasionally misses predicting peaks, the observed values still lie within its 95% confidence interval.</p>
 
-  <h2>Prophet Model:</h2>
+  <h3>Prophet Model:</h3>
   <img align="right" src="https://github.com/scelarek/Covid-Prediction-Capstone/assets/115444760/2120bfe7-0951-4b47-a3b3-5869f514ac40" title="CovidCast" alt="CovidCast" style="width:100%; max-width:550px;">
   <p>The Prophet model seems to capture a long-term trend, even venturing into negative COVID case counts. Efforts to employ a logistic growth curve didn't enhance its accuracy. It struggles with weekly fluctuations and, at times, is directionally incorrect. Given its current state, it's not recommended for predicting COVID cases.</p>
 
-  <h2>Testing metrics:</h2>
+  <h3>Testing metrics:</h3>
   <img align="right" src="https://github.com/scelarek/Covid-Prediction-Capstone/assets/115444760/6df1eefe-b840-40ea-9828-3c5a15eaa56f" title="CovidCast" alt="CovidCast" style="width:100%; max-width:550px;">
   <p>Comparing the testing scores, the SARIMAX model with 6 exogenous variables and times series order of: (3,0,2) (2, 1, 1) [7] with an intercept demonstrates the best understanding of daily COVID case trends, showcasing superior scores across all metrics.</p>
 
