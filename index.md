@@ -4,7 +4,7 @@
 
 ### Time Series Analysis
 
-- [COVIDCast](/pages/covid)
+- [COVIDCast](/pages/covid.md)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
@@ -18,7 +18,7 @@
 
 ### Data Analysis
 
-- [Eternal Growth, Immortal Inequality](/pages/eternal)
+- [Eternal Growth, Immortal Inequality](pages/eternal)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
