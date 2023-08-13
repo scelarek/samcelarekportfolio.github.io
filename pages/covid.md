@@ -96,16 +96,22 @@ Both models were trained on new cases of COVID from February 15th, 2020 to March
   <p>Comparing the testing scores, the SARIMAX model with 6 exogenous variables and times series order of: (3,0,2) (2, 1, 1) [7] with an intercept demonstrates the best understanding of daily COVID case trends, showcasing superior scores across all metrics.</p>
 
   <h2>Next Steps</h2>
-  <p>Future endeavors for this project include adapting the target variable to deaths, hospitalizations, or weekly COVID case averages to assess the forecast accuracy. Also, literature on COVID prediction suggests that an RNN with LSTMs yield a cutting-edge sMAPE of 5%. I would like to recreate this RNN model, and explore whether integrating the SIRD model parameters further enhances its predictive power. 
-  <br>
-  And, of course, the ambitious goal for this project is for COVIDCast to Predict to Protect against any future pandemics.</p>
+  </div>
 
-  <p>Thank you for your interest in <strong>COVIDCast</strong>. For further inquiries or insights, contact via the GitHub repository or at scelarek@gmail.com.</p>
+Future endeavors for this project include adapting the target variable to deaths, hospitalizations, or weekly COVID case averages to assess the forecast accuracy. Also, literature on COVID prediction suggests that an RNN with LSTMs yield a cutting-edge sMAPE of 5%. I would like to recreate this RNN model, and explore whether integrating the SIRD model parameters further enhances its predictive power. 
+
+And, of course, the ambitious goal for this project is for COVIDCast to Predict to Protect against any future pandemics.
+
+Thank you for your interest in **COVIDCast**. For further inquiries or insights, contact via this GitHub repository or at scelarek@gmail.com.
 
   <div align="center">
-      <strong>Best Wishes,</strong><br>
+      Best Wishes,
       Sam Celarek
-    </div>
+  </div>
+
+---
+
+<div>
 
   <h2>Other Resources</h2>
   <ul>
