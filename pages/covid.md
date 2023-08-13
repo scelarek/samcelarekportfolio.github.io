@@ -6,7 +6,7 @@
 <h2>By Sam Celarek</h2>
 </div>
 
-<div align="center" style="background-color: #f5f5f5; padding: 15px; border-radius: 10px;">
+<div align="center" style="background-color: #CCCCD6; padding: 15px; border-radius: 10px;">
 Like a weather forecast for pandemics,
 COVIDCast leverages state-of-the-art machine learning and epidemiological models
 to deliver precise outbreak predictions.
@@ -97,7 +97,7 @@ Both models were trained on new cases of COVID from February 15th, 2020 to March
 
   <h2>Next Steps</h2>
   <p>Future endeavors for this project include adapting the target variable to deaths, hospitalizations, or weekly COVID case averages to assess the forecast accuracy. Also, literature on COVID prediction suggests that an RNN with LSTMs yield a cutting-edge sMAPE of 5%. I would like to recreate this RNN model, and explore whether integrating the SIRD model parameters further enhances its predictive power. 
-  <br></br>
+  <br>
   And, of course, the ambitious goal for this project is for COVIDCast to Predict to Protect against any future pandemics.</p>
 
   <h2>Other Resources</h2>
