@@ -105,7 +105,7 @@ And, of course, the ambitious goal for this project is for COVIDCast to Predict 
 Thank you for your interest in **COVIDCast**. For further inquiries or insights, contact via this GitHub repository or at scelarek@gmail.com.
 
   <div align="center">
-      Best Wishes,
+      Best Wishes, <br>
       Sam Celarek
   </div>
 
