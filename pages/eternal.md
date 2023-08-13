@@ -6,7 +6,7 @@
 <h2><strong>By Sam Celarek</strong></h2>
 </div>
 
-<div align="center" style="background-color: #f5f5f5; padding: 15px; border-radius: 10px;">
+<div align="center" style="background-color: #CCCCD6; padding: 15px; border-radius: 10px;">
 "How Does a Country's Wealth and Inequality Shape Human Flourishing?"
 </div>
 
