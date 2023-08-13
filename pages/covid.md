@@ -100,6 +100,13 @@ Both models were trained on new cases of COVID from February 15th, 2020 to March
   <br>
   And, of course, the ambitious goal for this project is for COVIDCast to Predict to Protect against any future pandemics.</p>
 
+  <p>Thank you for your interest in <strong>COVIDCast</strong>. For further inquiries or insights, contact via the GitHub repository or at scelarek@gmail.com.</p>
+
+  <div align="center">
+      <strong>Best Wishes,</strong><br>
+      Sam Celarek
+    </div>
+
   <h2>Other Resources</h2>
   <ul>
       <li><a href="https://github.com/scelarek/Covid-Prediction-Capstone/blob/main/Presentations/COVID%20Cast%20Final%20Presentation.pdf">Presentation of COVIDCast</a></li>
@@ -108,10 +115,4 @@ Both models were trained on new cases of COVID from February 15th, 2020 to March
       <li><a href="https://github.com/scelarek/Covid-Prediction-Capstone/blob/main/Capstone/capstone_functions.py">Functions and Libraries</a></li>
       <li><a href="https://github.com/scelarek/Covid-Prediction-Capstone/blob/main/Data/master_df.parquet">Main Clean Data File</a></li>
   </ul>
-  <p>Thank you for your interest in <strong>COVIDCast</strong>. For further inquiries or insights, contact via the GitHub repository or at scelarek@gmail.com.</p>
-
-  <div align="center">
-      <strong>Best Wishes,</strong><br>
-      Sam Celarek
-  </div>
 </div>
