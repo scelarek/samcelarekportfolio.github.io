@@ -11,14 +11,14 @@
 
 ### Large Language Models
 
-- [SideBard](/pages/sidebard)
+- [SideBard](/pages/sidebard.md)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
 
 ### Data Analysis
 
-- [Eternal Growth, Immortal Inequality](pages/eternal)
+- [Eternal Growth, Immortal Inequality](pages/eternal.md)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
