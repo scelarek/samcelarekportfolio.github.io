@@ -56,9 +56,15 @@ description: >
 
     <div id="name-box">The Data Dude:</div>
     
-    <div class="description">
-        Hello! I've been a nurse for the past 8 years, working on teams and leveraging data to enhance hospital KPIs and optimize floor staffing. After completing my BrainStation Data Science Diploma, I'm on the lookout for my first role in the industry. Take a glance at some of my data science projects below and feel free to connect!
+    <div class="description" style="text-align:center;">
+        Strong Medical Background<br>
+        Reduced Infection Rates<br>
+        Avid Data Explorer<br>
+        ML Enthusiast<br>
+        Coding Everyday<br>
+        Energetic Teammate<br>
     </div>
+
     
     <a class="linkedin" href="https://www.linkedin.com/in/sam-celarek/">View My LinkedIn Profile</a>
     <a class="github" href="https://github.com/scelarek">View My GitHub Profile</a>
