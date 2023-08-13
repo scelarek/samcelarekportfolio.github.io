@@ -1,27 +1,26 @@
 <div align="center">
+<h1><strong>SideBard from Team AInsight</strong></h1>
 
-# **SideBard from Team AInsight**
+<div>
 <img src="https://github.com/scelarek/Google-Industry-Day/assets/115444760/e1c922dc-76e8-4714-9752-23c3d3df22a3"  title="SideBard" alt="SideBard" width="150" height="150"> 
 
-
-## **BrainStation Industry Day with Google**
-
+<h2><strong>BrainStation Industry Day with Google</strong></h2>
 </div>
 
 ---
 
 ## 🌟 Introduction
 
-Welcome to our team's GitHub repository for the Google Industry Day competition hosted by BrainStation. First I'd like to introduce you to our diverse team of data scientists, UI/UX designers, and web developers:
+In July 2023, myself and a diverse team of data scientists, UI/UX designers, and web developers worked on a problem presented by Google at BrainStations Industry Day. First, here are my wonderful teammates!
 
-### 🚀 Our Team
+### 🚀 Team AInsight Members and Roles:
 
+- **Sam Celarek (me)** (Data Science)
 - **Abi Wheeler** (UI / UX)
 - **Diane Lu** (Data Science)
 - **Jack Speidel** (Web Developer)
 - **Maheshi** (Web Developer)
 - **Nima Chinikar** (Data Science)
-- **Sam Celarek** (Data Science)
 - **Tony Lau** (Web Developer)
 - **Gem Ruby** (Team Lead and TA)
 
@@ -45,17 +44,12 @@ We were given the following problem by Google to solve:
 
 </div>
 
-
-
 ---
 ### Demonstration of Product
 
 #### See SideBard's Sidebar
 
 Here's a quick demo of our sidebar's aesthetics and we invite you to [Play with SideBard in this Figma Prototype](https://www.figma.com/proto/htu5k0wM0Xg3FJK4vGhh2C/Google---Industry-Project---Workspace?page-id=6%3A3&type=design&node-id=18-212&viewport=-1347%2C379%2C0.56&t=ZOkx9GZUwVS9qznG-1&scaling=min-zoom&starting-point-node-id=18%3A212&mode=design): 
-
-![Alt text](image.png)
-
 
 #### Chat with SideBard
 Here's a quick demo of the chatbot we customized for this purpose and we invite you to [Chat with SideBard in this jupyter notebook](https://github.com/scelarek/Google-Industry-Day/blob/5b08cff5c46dc07442bb57487b1c55183420c803/SideBard%20Chatbot/Play_with_Sidebard.ipynb) (library dependencies are in [function_source.py](https://github.com/scelarek/Google-Industry-Day/blob/5b08cff5c46dc07442bb57487b1c55183420c803/SideBard%20Chatbot/function_source.py)):
