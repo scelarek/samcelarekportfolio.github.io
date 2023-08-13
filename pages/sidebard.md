@@ -6,6 +6,10 @@
 <h2><strong>BrainStation Industry Day with Google</strong></h2>
 </div>
 
+<div align="center" style="background-color: #f5f5f5; padding: 15px; border-radius: 10px;">
+""How might we educate users of new AI-related features becoming a part of a product, while maintaining user trust and avoiding misunderstandings about AI?""
+</div>
+
 ---
 
 ## 🌟 Introduction
