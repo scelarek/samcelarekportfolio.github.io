@@ -14,8 +14,8 @@
 ### Large Language Models
 
 - [SideBard](/pages/sidebard.md)
-<img src="https://github.com/scelarek/scelarek.github.io/assets/115444760/9182174c-ddaa-4b02-97d1-cc1e4cf69503">
 <img src="https://github.com/scelarek/scelarek.github.io/assets/115444760/c92477af-6723-4dbf-b471-711889ed3808">
+<img src="https://github.com/scelarek/scelarek.github.io/assets/115444760/9182174c-ddaa-4b02-97d1-cc1e4cf69503">
 
 ---
 
