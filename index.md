@@ -4,21 +4,21 @@
 
 ### Time Series Analysis
 
-- [COVIDCast](/covid.md)
+- [COVIDCast](/pages/covid)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
 
 ### Large Language Models
 
-- [SideBard](/sample_page)
+- [SideBard](/pages/sidebard)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
 
 ### Data Analysis
 
-- [Eternal Growth, Immortal Inequality](/sample_page)
+- [Eternal Growth, Immortal Inequality](/pages/eternal)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
