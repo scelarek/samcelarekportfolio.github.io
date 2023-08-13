@@ -79,8 +79,8 @@ We appreciate your interest in our project and invite you to explore our work. I
 
 <div align="center">
 
-**Best Wishes,**  
-*Team AInsight*
+Best Wishes, 
+Team AInsight
 
 </div>
 
