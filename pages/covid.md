@@ -81,52 +81,37 @@ For Prophet modeling, I grid searched with cross-validation over a range of 3 to
 
 Both models were trained on new cases of COVID from February 15th, 2020 to March 5th, 2023. The unseen test data from March 5th to March 21st, 2023 served as the final evaluation benchmark. 
 
-<div align="center"><h1>
-Forecasts:
-</h1>
+<div style="text-align: left;">
+    <h1>Forecasts:</h1>
+    <h2>SARIMAX Model:</h2>
+    <img align="right" src="https://github.com/scelarek/Covid-Prediction-Capstone/assets/115444760/8e9aa4be-fcaf-43cc-9b12-67f45f422011" title="CovidCast" alt="CovidCast" style="width:100%; max-width:550px;">
+    <p>The SARIMAX model adeptly captures the weekly COVID case variations, demonstrating minimal residuals for low case counts. Although it occasionally misses predicting peaks, the observed values still lie within its 95% confidence interval.</p>
 
-<h1>
-SARIMAX Model: 
-</h1>
+  <h2>Prophet Model:</h2>
+  <img align="right" src="https://github.com/scelarek/Covid-Prediction-Capstone/assets/115444760/2120bfe7-0951-4b47-a3b3-5869f514ac40" title="CovidCast" alt="CovidCast" style="width:100%; max-width:550px;">
+  <p>The Prophet model seems to capture a long-term trend, even venturing into negative COVID case counts. Efforts to employ a logistic growth curve didn't enhance its accuracy. It struggles with weekly fluctuations and, at times, is directionally incorrect. Given its current state, it's not recommended for predicting COVID cases.</p>
 
-![image](https://github.com/scelarek/Covid-Prediction-Capstone/assets/115444760/8e9aa4be-fcaf-43cc-9b12-67f45f422011)
+  <h2>Testing metrics:</h2>
+  <img align="right" src="https://github.com/scelarek/Covid-Prediction-Capstone/assets/115444760/6df1eefe-b840-40ea-9828-3c5a15eaa56f" title="CovidCast" alt="CovidCast" style="width:100%; max-width:550px;">
+  <p>Comparing the testing scores, the SARIMAX model with 6 exogenous variables and times series order of: (3,0,2) (2, 1, 1) [7] with an intercept demonstrates the best understanding of daily COVID case trends, showcasing superior scores across all metrics.</p>
 
-<h1>
-Prophet Model: 
-</h1>
+  <h2>Next Steps</h2>
+  <p>Future endeavors for this project include adapting the target variable to deaths, hospitalizations, or weekly COVID case averages to assess the forecast accuracy. Also, literature on COVID prediction suggests that an RNN with LSTMs yield a cutting-edge sMAPE of 5%. I would like to recreate this RNN model, and explore whether integrating the SIRD model parameters further enhances its predictive power. 
+  <br></br>
+  And, of course, the ambitious goal for this project is for COVIDCast to Predict to Protect against any future pandemics.</p>
 
-![image](https://github.com/scelarek/Covid-Prediction-Capstone/assets/115444760/2120bfe7-0951-4b47-a3b3-5869f514ac40)
+  <h2>Other Resources</h2>
+  <ul>
+      <li><a href="https://github.com/scelarek/Covid-Prediction-Capstone/blob/main/Presentations/COVID%20Cast%20Final%20Presentation.pdf">Presentation of COVIDCast</a></li>
+      <li><a href="https://github.com/scelarek/Covid-Prediction-Capstone/blob/main/Presentations/COVIDcast_%20Predicting%20COVID%20Cases%20No%20Glasses%20Ad%20Lib%20(online-video-cutter.com).mp4">Video of Final Presentation</a></li>
+      <li><a href="https://github.com/scelarek/Covid-Prediction-Capstone/blob/main/Presentations/COVID%20Preprocessing%20and%20EDA.pdf">Preprocessing and EDA Presentation</a></li>
+      <li><a href="https://github.com/scelarek/Covid-Prediction-Capstone/blob/main/Capstone/capstone_functions.py">Functions and Libraries</a></li>
+      <li><a href="https://github.com/scelarek/Covid-Prediction-Capstone/blob/main/Data/master_df.parquet">Main Clean Data File</a></li>
+  </ul>
+  <p>Thank you for your interest in <strong>COVIDCast</strong>. For further inquiries or insights, contact via the GitHub repository or at scelarek@gmail.com.</p>
 
-<h1>
-Testing metrics: 
-</h1>
-
-![image](https://github.com/scelarek/Covid-Prediction-Capstone/assets/115444760/6df1eefe-b840-40ea-9828-3c5a15eaa56f)
-
+  <div align="center">
+      <strong>Best Wishes,</strong><br>
+      Sam Celarek
+  </div>
 </div>
-
-### Discussion
-Here we can conclude that the SARIMAX model with 6 exogenous variables and `(3,0,2) (2, 1, 1) [7] with intercept` has best understood the underlying trend of the daily COVID cases. The literature on COVID case prediction suggest though that RNNs with LSTM's provide an even more accurate forecast with a sMAPE of 5%. As a continuation of this project I would like to develop my own RNN model to reproduce this result and explore if the SIRD model parameters contribute more its forecasting power.  
-
----
-
-## 💡 Other Resources
-
-Resources within this project
-
-- **[Presentation of COVIDCast](https://github.com/scelarek/Covid-Prediction-Capstone/blob/main/Presentations/COVID%20Cast%20Final%20Presentation.pdf)**
-- **[Video of Final Presentation](https://github.com/scelarek/Covid-Prediction-Capstone/blob/main/Presentations/COVIDcast_%20Predicting%20COVID%20Cases%20No%20Glasses%20Ad%20Lib%20(online-video-cutter.com).mp4)**
-- **[Preprocessing and EDA Presentation](https://github.com/scelarek/Covid-Prediction-Capstone/blob/main/Presentations/COVID%20Preprocessing%20and%20EDA.pdf)**
-- **[Functions and Libraries](https://github.com/scelarek/Covid-Prediction-Capstone/blob/main/Capstone/capstone_functions.py)**
-- **[Main Clean Data File](https://github.com/scelarek/Covid-Prediction-Capstone/blob/main/Data/master_df.parquet)**
-
-Thank you for your interest in **COVIDCast**. For any further inquiries or insights, please feel free to reach out through the GitHub repository or at scelarek@gmail.com.
-
-<div align="center">
-
-**Best Wishes,**  
-*Sam Celarek*
-
-</div>
-
----
