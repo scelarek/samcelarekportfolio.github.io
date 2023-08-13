@@ -59,12 +59,6 @@ The project's findings were exploratory in nature as no tests of statistical sig
    - Economic inequality (Gini coefficient) weakly correlates with decreased happiness and freedom.
    - There's a moderate correlation between high inequality and increased murder rates, but this is based on sparse data.
 
-## 💡 Other Resources
-
-- **[Jupyter Notebook](/eternal_growth_immortal_inequality.ipynb)**
-- **[PDF of Notebook](/Sam_Celarek_eternal_growth_immortal_inequality.pdf)**
-- **[Data Source: Gapminder](https://www.gapminder.org)**
-
 Thank you for your interest in **Eternal Growth, Immortal Inequality**. For any further inquiries or insights, please feel free to reach out through this GitHub repository or at scelarek@gmail.com.
 
 <div align="center">
@@ -76,3 +70,8 @@ Sam Celarek
 
 ---
 
+## 💡 Other Resources
+
+- **[Jupyter Notebook](/eternal_growth_immortal_inequality.ipynb)**
+- **[PDF of Notebook](/Sam_Celarek_eternal_growth_immortal_inequality.pdf)**
+- **[Data Source: Gapminder](https://www.gapminder.org)**
