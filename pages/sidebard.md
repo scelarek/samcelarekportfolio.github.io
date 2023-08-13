@@ -1,5 +1,5 @@
 <div align="center">
-<h1><strong>SideBard</strong></h1>
+<h1><strong>SideBard for Google Industry Day</strong></h1>
 
 <img src="https://github.com/scelarek/Google-Industry-Day/assets/115444760/e1c922dc-76e8-4714-9752-23c3d3df22a3"  title="SideBard" alt="SideBard" width="150" height="150"> 
 
