@@ -26,14 +26,19 @@ To better explore the trends of countries that are the most rich versus the most
 ## 📶 Exploratory Data Analysis (EDA)
 The EDA phase involved scatter plots, line plots for each quintile, bar charts for each quintile, and correlation heatmaps between each of the econometric indicators. Here is a quick sample of the exploration of the relationship between GDP and the wellfare metrics of happiness, murder rate, and freedom (lower is better):
 
-![image](https://github.com/scelarek/Eternal-Growth-Immortal-Inequality/assets/115444760/74cef867-0ff3-47fd-a34c-a2f886f28db8)
-![image](https://github.com/scelarek/Eternal-Growth-Immortal-Inequality/assets/115444760/3df651dd-400b-4643-b965-d7eaf2c8730a)
-![image](https://github.com/scelarek/Eternal-Growth-Immortal-Inequality/assets/115444760/da66e762-030e-4328-af54-118d543ecb74)
+<div>
+<img align = "left" src="https://github.com/scelarek/scelarek.github.io/assets/115444760/71849bb7-b74a-428b-ae0e-1f1aa43d425f" title="Eternal Growth, Immortal Inequality" alt="Eternal Growth, Immortal Inequality" width="300" height="300">  
+   <img align = "left" src="https://github.com/scelarek/scelarek.github.io/assets/115444760/fd4a32e8-dc95-4ef7-8da4-7b4281c3ab07" title="Eternal Growth, Immortal Inequality" alt="Eternal Growth, Immortal Inequality" width="300" height="300"> 
+   <img align = "right "src="https://github.com/scelarek/scelarek.github.io/assets/115444760/e420d2f5-0201-4c9f-b216-a24c134f7a10" title="Eternal Growth, Immortal Inequality" alt="Eternal Growth, Immortal Inequality" width="300" height="300"> 
+     
+</div>
 
-And here is a final correlation heatmap:
+<div align="center">
 
-![image](https://github.com/scelarek/Eternal-Growth-Immortal-Inequality/assets/115444760/7b9e9130-2bfa-41ad-8a9a-9d51123e77df)
+   <h2> And here is a final correlation heatmap: </h2>
+   <img src="https://github.com/scelarek/Eternal-Growth-Immortal-Inequality/assets/115444760/7b9e9130-2bfa-41ad-8a9a-9d51123e77df" title="Eternal Growth, Immortal Inequality" alt="Eternal Growth, Immortal Inequality"> 
 
+</div>
 
 ## 📈 Analysis
 The project's findings were exploratory in nature as no tests of statistical significance were conducted. However there were four key correlations observations: 
@@ -63,8 +68,8 @@ Thank you for your interest in **Eternal Growth, Immortal Inequality**. For any 
 
 <div align="center">
 
-**Best Wishes,**  
-*Sam Celarek*
+Best Wishes,<br>
+Sam Celarek
 
 </div>
 
