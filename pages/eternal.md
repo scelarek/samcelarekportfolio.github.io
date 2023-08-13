@@ -6,9 +6,11 @@
 ## **By Sam Celarek**
 </div>
 
-## 🎯 Project Overview
 <div align="center" style="background-color: #f5f5f5; padding: 15px; border-radius: 10px;">
+"How Does a Country's Wealth and Inequality Shape Human Flourishing?"
 </div>
+
+## 🎯 Project Overview
 
 By analyzing econometric data from Gapminder, this project aims to explore the relationship between a countries' wealth, inequality, and human flourishing. To do this I used bivariate data exploration and look at the trends of countries in each quintile over time. 
 
