@@ -1,7 +1,6 @@
 <div align="center">
 <h1><strong>SideBard from Team AInsight</strong></h1>
 
-<div>
 <img src="https://github.com/scelarek/Google-Industry-Day/assets/115444760/e1c922dc-76e8-4714-9752-23c3d3df22a3"  title="SideBard" alt="SideBard" width="150" height="150"> 
 
 <h2><strong>BrainStation Industry Day with Google</strong></h2>
@@ -50,6 +49,8 @@ We were given the following problem by Google to solve:
 #### See SideBard's Sidebar
 
 Here's a quick demo of our sidebar's aesthetics and we invite you to [Play with SideBard in this Figma Prototype](https://www.figma.com/proto/htu5k0wM0Xg3FJK4vGhh2C/Google---Industry-Project---Workspace?page-id=6%3A3&type=design&node-id=18-212&viewport=-1347%2C379%2C0.56&t=ZOkx9GZUwVS9qznG-1&scaling=min-zoom&starting-point-node-id=18%3A212&mode=design): 
+
+![image](https://github.com/scelarek/scelarek.github.io/assets/115444760/36eb8272-4b54-49c5-8bea-f8342e43b169)
 
 #### Chat with SideBard
 Here's a quick demo of the chatbot we customized for this purpose and we invite you to [Chat with SideBard in this jupyter notebook](https://github.com/scelarek/Google-Industry-Day/blob/5b08cff5c46dc07442bb57487b1c55183420c803/SideBard%20Chatbot/Play_with_Sidebard.ipynb) (library dependencies are in [function_source.py](https://github.com/scelarek/Google-Industry-Day/blob/5b08cff5c46dc07442bb57487b1c55183420c803/SideBard%20Chatbot/function_source.py)):
