@@ -4,7 +4,7 @@
 
 ### Time Series Analysis
 
-- [COVIDCast](/covid.md)
+- [COVIDCast](/pages/covid.md)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
