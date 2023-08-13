@@ -63,7 +63,7 @@ Thank you for your interest in **Eternal Growth, Immortal Inequality**. For any 
 
 <div align="center">
 
-Best Wishes,<br>
+Best Wishes, <br>
 Sam Celarek
 
 </div>
