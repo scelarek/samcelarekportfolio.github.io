@@ -1,22 +1,18 @@
-<div align="center">
-
 # [CovidCast: Predict to Protect](https://github.com/scelarek/Covid-Prediction-Capstone/blob/main/Presentations/COVID%20Cast%20Final%20Presentation.pdf) 
 
+<div align="center">
 <img src="https://github.com/scelarek/BrainStation_Capstone/blob/main/Presentations/Logo%20CovidCast.png?raw=true"  title="CovidCast" alt="CovidCast" width="150" height="150"> 
-
-## By Sam Celarek 
-</div>
-
-
-## 🎯 Project Overview
 <div align="center" style="background-color: #f5f5f5; padding: 15px; border-radius: 10px;">
 
-```
+## By Sam Celarek 
+
+## 🎯 Project Overview
+
+<div align="center">
 Like a weather forecast for pandemics,
 COVIDCast leverages state-of-the-art machine learning and epidemiological models
 to deliver precise outbreak predictions.
-```
-</div>
+<div align="center" style="background-color: #f5f5f5; padding: 15px; border-radius: 10px;">
 
 During COVID 19, the unknown course of the pandemic is almost as deadly as the virus itself. **COVIDCast** aims to address this problem by **Predicting to Protect**. To do this, COVIDCast utlizes the expert knowledge of epidemiological models and the forecasting power of times series models to predict the next 14 days of new COVID cases and protect governments, hospitals, and people from the coming storm. 
 
