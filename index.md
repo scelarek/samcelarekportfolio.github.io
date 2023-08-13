@@ -5,21 +5,25 @@
 ### Time Series Analysis
 
 - [COVIDCast](/pages/covid.md)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+
+<img src="https://github.com/scelarek/scelarek.github.io/assets/115444760/00381f16-48b4-4b64-bcb8-3df639dca68d">
+<img src="https://github.com/scelarek/scelarek.github.io/assets/115444760/ddef16ba-bc09-47b2-9d45-e9141f8adb63">
 
 ---
 
 ### Large Language Models
 
 - [SideBard](/pages/sidebard.md)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="https://github.com/scelarek/scelarek.github.io/assets/115444760/9182174c-ddaa-4b02-97d1-cc1e4cf69503">
+<img src="https://github.com/scelarek/scelarek.github.io/assets/115444760/c92477af-6723-4dbf-b471-711889ed3808">
 
 ---
 
 ### Data Analysis
 
 - [Eternal Growth, Immortal Inequality](pages/eternal.md)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="https://github.com/scelarek/scelarek.github.io/assets/115444760/614a1d55-c818-45f9-bee7-491c97b3a319">
+<img src="https://github.com/scelarek/scelarek.github.io/assets/115444760/2e14a93a-3a58-419d-a049-208be213d614">
 
 ---
 
