@@ -4,28 +4,31 @@
 
 ## Data Science | Time Series Forecasting, Hyperparameter Tuning | [COVIDCast](/pages/covid.md) 
 
-<div align="center" style="background-color: #CCCCD6; padding: 15px; border-radius: 10px;">
-"Like a weather forecast for pandemics, 
-COVIDCast leverages state-of-the-art machine learning and epidemiological models
-to deliver precise outbreak predictions."
+<div align="center" style="background-color: #CCCCD6; padding: 20px; border-radius: 10px; margin: 10px 0;">
+"Like a weather forecast for pandemics, COVIDCast leverages state-of-the-art 
+<br>
+machine learning and epidemiological models to deliver precise outbreak predictions."
 </div>
 
-<img src="https://github.com/scelarek/scelarek.github.io/assets/115444760/00381f16-48b4-4b64-bcb8-3df639dca68d">
+![image](https://github.com/scelarek/scelarek.github.io/assets/115444760/00381f16-48b4-4b64-bcb8-3df639dca68d)
 
 ---
 
 ## Data Science | Retrieval Augmented AI Text Generation, LLMs | [SideBard](/pages/sidebard.md)
 
-<div align="center" style="background-color: #CCCCD6; padding: 15px; border-radius: 10px;">
-"How might we educate users of new AI-related features becoming a part of a product, while maintaining user trust and avoiding misunderstandings about AI?"
+<div align="center" style="background-color: #CCCCD6; padding: 20px; border-radius: 10px; margin: 10px 0;">
+"How might we educate users of new AI-related features becoming a part of a product, 
+<br>
+while maintaining user trust and avoiding misunderstandings about AI?"
 </div>
 
-<img src="https://github.com/scelarek/scelarek.github.io/assets/115444760/c92477af-6723-4dbf-b471-711889ed3808">
+![image](https://github.com/scelarek/scelarek.github.io/assets/115444760/c92477af-6723-4dbf-b471-711889ed3808)
 
 ---
 
 ## Data Science | Web Scraping, Regression, Classification | [Pupularity Contest](https://github.com/scelarek/Data-Analysis-Projects/blob/a1f50a33c893b5dbeec4ae5739eff319f8f61a1c/Twitter%20Humor%20vs%20Cuteness/Twitter_Wrangle.ipynb)
-<div align="center" style="background-color: #CCCCD6; padding: 15px; border-radius: 10px;">
+
+<div align="center" style="background-color: #CCCCD6; padding: 20px; border-radius: 10px; margin: 10px 0;">
 "What drives engagement for a popular Twitter Account that posts comedic dog pictures and ratings?"
 </div>
 
@@ -35,15 +38,16 @@ to deliver precise outbreak predictions."
 
 ## Data Analysis | Data Wrangling, EDA | [Eternal Growth, Immortal Inequality](pages/eternal.md)
 
-<div align="center" style="background-color: #CCCCD6; padding: 15px; border-radius: 10px;">
+<div align="center" style="background-color: #CCCCD6; padding: 20px; border-radius: 10px; margin: 10px 0;">
 "How Does a Country's Wealth and Inequality Relate to Happiness, Safety, and Freedom?"
 </div>
 
 ![correlation heatmap](https://github.com/scelarek/scelarek.github.io/assets/115444760/2c8ec283-452c-448a-96d3-330932912d67)
 
+
 ---
 
-## Data Analysis | SQL, Tableau, Dashboards | [BIXI: Making a Biker's Paradise](https://github.com/scelarek/Universal_Code_Bank/blob/94e8e404cd99acc7345d52829b70551024453c0e/Brain%20Station/Project0b,%20BIXI%20Tableau%20Dashboard/BIXI%202%20Sam_Celarek%20(4).pdf)
+## Data Analysis | SQL, Tableau, Dashboards | [Making a Biker's Paradise](https://github.com/scelarek/Universal_Code_Bank/blob/94e8e404cd99acc7345d52829b70551024453c0e/Brain%20Station/Project0b,%20BIXI%20Tableau%20Dashboard/BIXI%202%20Sam_Celarek%20(4).pdf)
 
 <div align="center" style="background-color: #CCCCD6; padding: 15px; border-radius: 10px;">
 "What trends exist in the BIXI bike data usage that could guide business action?"
@@ -53,7 +57,7 @@ to deliver precise outbreak predictions."
 
 ---
 
-## Data Science | SQL, EDA, Classification | [Kickstarter: The Business Behind Dreams](https://github.com/scelarek/Universal_Code_Bank/blob/74bb8312a2477d66d72fc31ed31fda4c12c73458/Final%20Projects/Kickstarter/Kickstarter%20Final%20Project.ipynb)
+## Data Science | SQL, EDA, Classification | [The Business Behind Dreams](https://github.com/scelarek/Universal_Code_Bank/blob/74bb8312a2477d66d72fc31ed31fda4c12c73458/Final%20Projects/Kickstarter/Kickstarter%20Final%20Project.ipynb)
 
 <div align="center" style="background-color: #CCCCD6; padding: 15px; border-radius: 10px;">
 "What are feasible fundraising goals for a tabletop boardgame company on Kickstarter?"
@@ -63,7 +67,7 @@ to deliver precise outbreak predictions."
 
 ---
 
-## Data Analysis | SQL, EDA, Trend Analysis | [Comparing Global vs Local Temperatures](https://github.com/scelarek/Data-Analysis-Projects/blob/62ec589bf21700e670850a36ec8b401a67bc80bf/City%20vs%20Global%20Temp/Analying%20Yearly%20Average%20Temperature%20-%20Sam%20Celarek.docx.pdf)
+## Data Analysis | SQL, EDA, Trend Analysis | [Local vs Global Warming](https://github.com/scelarek/Data-Analysis-Projects/blob/62ec589bf21700e670850a36ec8b401a67bc80bf/City%20vs%20Global%20Temp/Analying%20Yearly%20Average%20Temperature%20-%20Sam%20Celarek.docx.pdf)
 
 <div align="center" style="background-color: #CCCCD6; padding: 15px; border-radius: 10px;">
 "How have local city temperatures, like Portland, diverged from global temperatures?"
