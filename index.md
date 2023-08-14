@@ -11,7 +11,6 @@ to deliver precise outbreak predictions."
 </div>
 
 <img src="https://github.com/scelarek/scelarek.github.io/assets/115444760/00381f16-48b4-4b64-bcb8-3df639dca68d">
-<img src="https://github.com/scelarek/scelarek.github.io/assets/115444760/ddef16ba-bc09-47b2-9d45-e9141f8adb63">
 
 ---
 
@@ -22,14 +21,15 @@ to deliver precise outbreak predictions."
 </div>
 
 <img src="https://github.com/scelarek/scelarek.github.io/assets/115444760/c92477af-6723-4dbf-b471-711889ed3808">
-<img src="https://github.com/scelarek/scelarek.github.io/assets/115444760/9182174c-ddaa-4b02-97d1-cc1e4cf69503">
 
 ---
 
-## Data Science | Data Wrangling, Multiple Linear Regression | with Twitter Dog Ratings
+## Data Science | Data Wrangling, Multiple Linear Regression | Pupularity Contest
 <div align="center" style="background-color: #CCCCD6; padding: 15px; border-radius: 10px;">
-"What drives engagement for a popular Twitter Account?"
+"What drives engagement for a popular Twitter Account that posts comedic dog pictures and ratings?"
 </div>
+
+![image](https://github.com/scelarek/scelarek.github.io/assets/115444760/f37fb5d6-2f11-48b3-8ebf-7328e7e13c28)
 
 ---
 
@@ -40,7 +40,6 @@ to deliver precise outbreak predictions."
 </div>
 
 <img src="https://github.com/scelarek/scelarek.github.io/assets/115444760/614a1d55-c818-45f9-bee7-491c97b3a319">
-<img src="https://github.com/scelarek/scelarek.github.io/assets/115444760/2e14a93a-3a58-419d-a049-208be213d614">
 
 ---
 
