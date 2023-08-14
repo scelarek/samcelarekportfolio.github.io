@@ -5,9 +5,7 @@
 ## Data Science | Time Series Forecasting, Hyperparameter Tuning | [COVIDCast](/pages/covid.md) 
 
 <div align="center" style="background-color: #CCCCD6; padding: 20px; border-radius: 10px; margin: 10px 0;">
-"Like a weather forecast for pandemics, COVIDCast leverages state-of-the-art 
-<br>
-machine learning and epidemiological models to deliver precise outbreak predictions."
+"Like a weather forecast for pandemics, COVIDCast leverages state-of-the-art machine learning and epidemiological models to deliver precise outbreak predictions."
 </div>
 
 ![image](https://github.com/scelarek/scelarek.github.io/assets/115444760/00381f16-48b4-4b64-bcb8-3df639dca68d)
@@ -17,9 +15,7 @@ machine learning and epidemiological models to deliver precise outbreak predicti
 ## Data Science | Retrieval Augmented AI Text Generation, LLMs | [SideBard](/pages/sidebard.md)
 
 <div align="center" style="background-color: #CCCCD6; padding: 20px; border-radius: 10px; margin: 10px 0;">
-"How might we educate users of new AI-related features becoming a part of a product, 
-<br>
-while maintaining user trust and avoiding misunderstandings about AI?"
+"How might we educate users of new AI-related features becoming a part of a product, while maintaining user trust and avoiding misunderstandings about AI?"
 </div>
 
 ![image](https://github.com/scelarek/scelarek.github.io/assets/115444760/c92477af-6723-4dbf-b471-711889ed3808)
