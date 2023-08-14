@@ -2,34 +2,26 @@
 
 ---
 
-### Time Series Analysis
-
-- [COVIDCast](/pages/covid.md)
+### Time Series Analysis: [COVIDCast](/pages/covid.md)
 
 <img src="https://github.com/scelarek/scelarek.github.io/assets/115444760/00381f16-48b4-4b64-bcb8-3df639dca68d">
 <img src="https://github.com/scelarek/scelarek.github.io/assets/115444760/ddef16ba-bc09-47b2-9d45-e9141f8adb63">
 
 ---
 
-### Large Language Models
-
-- [SideBard](/pages/sidebard.md)
+### Large Language Models: [SideBard](/pages/sidebard.md)
 <img src="https://github.com/scelarek/scelarek.github.io/assets/115444760/c92477af-6723-4dbf-b471-711889ed3808">
 <img src="https://github.com/scelarek/scelarek.github.io/assets/115444760/9182174c-ddaa-4b02-97d1-cc1e4cf69503">
 
 ---
 
-### Data Analysis
-
-- [Eternal Growth, Immortal Inequality](pages/eternal.md)
+### Data Analysis: [Eternal Growth, Immortal Inequality](pages/eternal.md)
 <img src="https://github.com/scelarek/scelarek.github.io/assets/115444760/614a1d55-c818-45f9-bee7-491c97b3a319">
 <img src="https://github.com/scelarek/scelarek.github.io/assets/115444760/2e14a93a-3a58-419d-a049-208be213d614">
 
 ---
 
-### Machine Learning Reference Notebooks
-
-- [Useful Templates and ML Reference Guides](https://github.com/scelarek/Reference_Notebooks)
+### Reference Notebooks: [Useful Templates and ML Guides](https://github.com/scelarek/Reference_Notebooks)
 
 --- 
 
