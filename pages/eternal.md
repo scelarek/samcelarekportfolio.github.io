@@ -41,7 +41,7 @@ There appears to be a fairly robust correlation with increased GDP and increased
 Here one can observe that the freedom index of countries in each quintile of GDP have remained fairly constant over time with the biggest increases in average freedom coming from the 0-20th and 60-80th quintiles. It also would appear that there has been some slight loss in average freedom since 2008 across all quintiles.
 
 <div align="center">
-<img align="center" src="https://github.com/scelarek/scelarek.github.io/assets/115444760/e420d2f5-0201-4c9f-b216-a24c134f7a10" title="Eternal Growth, Immortal Inequality" alt="Eternal Growth, Immortal Inequality" width="300" height="300"> 
+<img align="center" src="https://github.com/scelarek/scelarek.github.io/assets/115444760/5c470243-9205-455b-ad6e-07b7f9f735db" title="Eternal Growth, Immortal Inequality" alt="Eternal Growth, Immortal Inequality" width="300" height="300"> 
 </div>
 
 This graph seems to strongly imply that more egalitarian countries are associated with a lower murder rate, however it is difficult to make this conclusion due to the lack of data from countries in the higher quintiles of inequality. 
