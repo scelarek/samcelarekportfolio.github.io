@@ -2,7 +2,7 @@
 
 ---
 
-## Data Science | Data Wrangling, Time Series Forecasting | [COVIDCast](/pages/covid.md) 
+## Data Science | Time Series Forecasting, Hyperparameter Tuning | [COVIDCast](/pages/covid.md) 
 
 <div align="center" style="background-color: #CCCCD6; padding: 15px; border-radius: 10px;">
 "Like a weather forecast for pandemics, 
@@ -14,7 +14,7 @@ to deliver precise outbreak predictions."
 
 ---
 
-## Data Science | Retrieval Augmented AI Text Generation | [SideBard](/pages/sidebard.md)
+## Data Science | Retrieval Augmented AI Text Generation, LLMs | [SideBard](/pages/sidebard.md)
 
 <div align="center" style="background-color: #CCCCD6; padding: 15px; border-radius: 10px;">
 "How might we educate users of new AI-related features becoming a part of a product, while maintaining user trust and avoiding misunderstandings about AI?"
@@ -24,7 +24,7 @@ to deliver precise outbreak predictions."
 
 ---
 
-## Data Science | Data Wrangling, Regression | [Pupularity Contest](https://github.com/scelarek/Data-Analysis-Projects/blob/a1f50a33c893b5dbeec4ae5739eff319f8f61a1c/Twitter%20Humor%20vs%20Cuteness/Twitter_Wrangle.ipynb)
+## Data Science | Web Scraping, Regression, Classification | [Pupularity Contest](https://github.com/scelarek/Data-Analysis-Projects/blob/a1f50a33c893b5dbeec4ae5739eff319f8f61a1c/Twitter%20Humor%20vs%20Cuteness/Twitter_Wrangle.ipynb)
 <div align="center" style="background-color: #CCCCD6; padding: 15px; border-radius: 10px;">
 "What drives engagement for a popular Twitter Account that posts comedic dog pictures and ratings?"
 </div>
@@ -80,39 +80,35 @@ to deliver precise outbreak predictions."
 
 ![image](https://github.com/scelarek/scelarek.github.io/assets/115444760/c8cbf178-a154-4637-9aae-9f55a7204c6a)
 
-
 --- 
 
-## Data Science | Wrangling, EDA, Hypothesis Testing | Hotel Review Analysis
+## Data Science | Classification, NLP, Hyperparameter Tuning | [Hotel Review Analysis](https://github.com/scelarek/Universal_Code_Bank/blob/ba2c5ddc45c883327a8ec4a5fd281be15735d904/Brain%20Station/Project4,%20NLP%20With%20Hotel%20pt2/NLP%20Hotel%20pt2.ipynb)
 
 <div align="center" style="background-color: #CCCCD6; padding: 15px; border-radius: 10px;">
-"How have local city temperatures like Portland diverged from global temperatures?"
+"Can we predict hotel resident's rating with just the words from a review?"
 </div>
 
--  _Private_ [Hotel Reviews Wrangling, Cleaning](https://github.com/scelarek/Universal_Code_Bank/blob/59c0cb45dd66a74ed55f9239d9b894b53f66061b/Brain%20Station/Project3,%20NLP%20With%20Hotel%20pt1/Hotel_Project_Cleaning,%20pt1.ipynb)
--  _Private_ [Hotel Reviews EDA, Modeling, and Natural Language Processing](https://github.com/scelarek/Universal_Code_Bank/blob/e8cfc54751e4b48a65cb001e56441b5fd19a472b/Brain%20Station/Project3,%20NLP%20With%20Hotel%20pt1/Hotel_Project_EDA_Wrangling,%20pt2.ipynb)
--  _Private_ [Hotel Reviews Hyperparameter Tuning of Models](https://github.com/scelarek/Universal_Code_Bank/blob/ba2c5ddc45c883327a8ec4a5fd281be15735d904/Brain%20Station/Project4,%20NLP%20With%20Hotel%20pt2/NLP%20Hotel%20pt2.ipynb)
+
 
 ---
 
-## Data Science | Wrangling, EDA, Hypothesis Testing | Mosquitos
+## Data Science | Wrangling, EDA, Hypothesis Testing | [Danger Zones and West Nile Virus](https://github.com/scelarek/Universal_Code_Bank/blob/b3f1ec2bd331d6fa944b089931168a2b35f5c56a/Brain%20Station/Project2,%20Mosquitos%20pt2/Samuel_Celarek_Stats_Part2.ipynb)
 
 <div align="center" style="background-color: #CCCCD6; padding: 15px; border-radius: 10px;">
-"How have local city temperatures like Portland diverged from global temperatures?"
+"Where are the danger zones for West Nile Virus in Chicago?"
 </div>
 
--  _Private_ [Chicago Mosquitos Wrangle, Clean, and EDA](https://github.com/scelarek/Universal_Code_Bank/blob/e7f4b0119f42746d40d18a42b06ffc8a3c2d2975/Brain%20Station/Project1,%20Mosquitos%20pt1/health.ipynb)
--  _Private_ [Chicago Mosquito Hypothesis Testing and Modeling](https://github.com/scelarek/Universal_Code_Bank/blob/b3f1ec2bd331d6fa944b089931168a2b35f5c56a/Brain%20Station/Project2,%20Mosquitos%20pt2/Samuel_Celarek_Stats_Part2.ipynb)
 
 ---
 
-## Data Science | Hadoop, AWS, PySpark, EDA | Google Engrams
+## Data Science | Hadoop, AWS, PySpark, EDA | [Data in the Clouds](https://github.com/scelarek/Universal_Code_Bank/blob/b2bde9a2218f95a6854e377f2b3e04626efbf89e/Brain%20Station/Project5,%20Google%20Engrams%20pt1/Google%20Engrams%20Report.ipynb)
 
 <div align="center" style="background-color: #CCCCD6; padding: 15px; border-radius: 10px;">
-"How have local city temperatures like Portland diverged from global temperatures?"
+"How frequently has the word 'data' been mentioned in Google's corpus of books over the past 200 years?"
 </div>
 
--  _Private_ [Google Engrams with AWS](https://github.com/scelarek/Universal_Code_Bank/blob/b2bde9a2218f95a6854e377f2b3e04626efbf89e/Brain%20Station/Project5,%20Google%20Engrams%20pt1/Google%20Engrams%20Report.ipynb) and [Pyspark Notebook](https://github.com/scelarek/Universal_Code_Bank/blob/84060cdfc7cba579aeddafbce5fcc91dc2662330/Brain%20Station/Project5,%20Google%20Engrams%20pt1/Google%20Engram%20PySpark%20Notebook.ipynb)
+![image](https://github.com/scelarek/scelarek.github.io/assets/115444760/751e72f4-76bb-4628-b4bb-c07bcd602fe3)
+
 
 ---
 <p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
