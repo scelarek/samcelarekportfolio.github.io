@@ -24,7 +24,7 @@ to deliver precise outbreak predictions."
 
 ---
 
-## Data Science | Data Wrangling, Multiple Linear Regression | Pupularity Contest
+## Data Science | Data Wrangling, Regression | [Pupularity Contest](https://github.com/scelarek/Data-Analysis-Projects/blob/a1f50a33c893b5dbeec4ae5739eff319f8f61a1c/Twitter%20Humor%20vs%20Cuteness/Twitter_Wrangle.ipynb)
 <div align="center" style="background-color: #CCCCD6; padding: 15px; border-radius: 10px;">
 "What drives engagement for a popular Twitter Account that posts comedic dog pictures and ratings?"
 </div>
@@ -39,47 +39,51 @@ to deliver precise outbreak predictions."
 "How Does a Country's Wealth and Inequality Relate to Human Flourishing?"
 </div>
 
-<img src="https://github.com/scelarek/scelarek.github.io/assets/115444760/614a1d55-c818-45f9-bee7-491c97b3a319">
+![correlation heatmap](https://github.com/scelarek/scelarek.github.io/assets/115444760/2c8ec283-452c-448a-96d3-330932912d67)
 
 ---
 
-## Data Analysis | SQL, Tableau | with Bike Sharing Companies
+## Data Analysis | SQL, Tableau, Dashboards | Making a Biker's Paradise
 
 <div align="center" style="background-color: #CCCCD6; padding: 15px; border-radius: 10px;">
 "What trends exist in the BIXI bike data usage that could guide business action?"
 </div>
 
----
-
-## Data Analysis | SQL, EDA | with Kickstarter Fundraising
-
-<div align="center" style="background-color: #CCCCD6; padding: 15px; border-radius: 10px;">
-"What are feasible fundraising goals for a tabletop boardgame company?"
-</div>
+![3 3 Revenue by Time (3)](https://github.com/scelarek/scelarek.github.io/assets/115444760/f1b0d7c0-9346-4f77-8f79-ac0308aa17d5)
 
 ---
 
-## Data Analysis | SQL, EDA | with Comparing Global vs Local Temperatures
+## Data Science | SQL, EDA, Classification | [The Business Behind Dreams](https://github.com/scelarek/Universal_Code_Bank/blob/74bb8312a2477d66d72fc31ed31fda4c12c73458/Final%20Projects/Kickstarter/Wrangling%20Kickstarter.ipynb)
 
 <div align="center" style="background-color: #CCCCD6; padding: 15px; border-radius: 10px;">
-"What are feasible fundraising goals for a tabletop boardgame company?"
+"What are feasible fundraising goals for a tabletop boardgame company on Kickstarter?"
 </div>
+
+![image](https://github.com/scelarek/scelarek.github.io/assets/115444760/a07d8ef9-987d-45d5-8542-be7dbeee4a59)
+
+---
+
+## Data Analysis | SQL, EDA, Trend Analysis | [Comparing Global vs Local Temperatures](https://github.com/scelarek/Data-Analysis-Projects/blob/62ec589bf21700e670850a36ec8b401a67bc80bf/City%20vs%20Global%20Temp/Analying%20Yearly%20Average%20Temperature%20-%20Sam%20Celarek.docx.pdf)
+
+<div align="center" style="background-color: #CCCCD6; padding: 15px; border-radius: 10px;">
+"How have local city temperatures like Portland diverged from global temperatures?"
+</div>
+
+![image](https://github.com/scelarek/scelarek.github.io/assets/115444760/209c121a-1bca-4d00-b70e-907fcd8d298c)
 
 ---
 
 ### Data Tools | My Repository of [Useful Templates and ML Guides](https://github.com/scelarek/Reference_Notebooks)
 <div align="center" style="background-color: #CCCCD6; padding: 15px; border-radius: 10px;">
-"Quick Implementation of Several Regression, Classification, and Clustering Pipelines"
+"Quick Implementation of Grid Searching through several Regression, Classification, and Clustering models using Pipelines"
 </div>
 
-
+![image](https://github.com/scelarek/scelarek.github.io/assets/115444760/c8cbf178-a154-4637-9aae-9f55a7204c6a)
 
 --- 
 
 ### Other Projects
 
-- [Twitters Favorite Dog Breed](https://github.com/scelarek/Data-Analysis-Projects/blob/a1f50a33c893b5dbeec4ae5739eff319f8f61a1c/Twitter%20Humor%20vs%20Cuteness/Twitter_Wrangle.ipynb)
-- [Global vs City Temperatures](https://github.com/scelarek/Data-Analysis-Projects/blob/62ec589bf21700e670850a36ec8b401a67bc80bf/City%20vs%20Global%20Temp/Analying%20Yearly%20Average%20Temperature%20-%20Sam%20Celarek.docx.pdf) 
 -  _Private_ [Kickstarter Wrangling, and Cleaning](https://github.com/scelarek/Universal_Code_Bank/blob/74bb8312a2477d66d72fc31ed31fda4c12c73458/Final%20Projects/Kickstarter/Wrangling%20Kickstarter.ipynb)
 -  _Private_ [Chicago Mosquitos Wrangle, Clean, and EDA](https://github.com/scelarek/Universal_Code_Bank/blob/e7f4b0119f42746d40d18a42b06ffc8a3c2d2975/Brain%20Station/Project1,%20Mosquitos%20pt1/health.ipynb)
 -  _Private_ [Hotel Reviews Wrangling, Cleaning](https://github.com/scelarek/Universal_Code_Bank/blob/59c0cb45dd66a74ed55f9239d9b894b53f66061b/Brain%20Station/Project3,%20NLP%20With%20Hotel%20pt1/Hotel_Project_Cleaning,%20pt1.ipynb)
@@ -95,8 +99,5 @@ to deliver precise outbreak predictions."
 ---
 
 
-
-
 ---
 <p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
-<!-- Remove above link if you don't want to attibute -->
