@@ -1,27 +1,79 @@
-## Data Science Portfolio
+# Portfolio
 
 ---
 
-### Time Series Analysis: [COVIDCast](/pages/covid.md)
+## Data Science | Data Wrangling, Time Series Forecasting | [COVIDCast](/pages/covid.md) 
+
+<div align="center" style="background-color: #CCCCD6; padding: 15px; border-radius: 10px;">
+"Like a weather forecast for pandemics, 
+COVIDCast leverages state-of-the-art machine learning and epidemiological models
+to deliver precise outbreak predictions."
+</div>
 
 <img src="https://github.com/scelarek/scelarek.github.io/assets/115444760/00381f16-48b4-4b64-bcb8-3df639dca68d">
 <img src="https://github.com/scelarek/scelarek.github.io/assets/115444760/ddef16ba-bc09-47b2-9d45-e9141f8adb63">
 
 ---
 
-### Large Language Models: [SideBard](/pages/sidebard.md)
+## Data Science | Retrieval Augmented AI Text Generation | [SideBard](/pages/sidebard.md)
+
+<div align="center" style="background-color: #CCCCD6; padding: 15px; border-radius: 10px;">
+"How might we educate users of new AI-related features becoming a part of a product, while maintaining user trust and avoiding misunderstandings about AI?"
+</div>
+
 <img src="https://github.com/scelarek/scelarek.github.io/assets/115444760/c92477af-6723-4dbf-b471-711889ed3808">
 <img src="https://github.com/scelarek/scelarek.github.io/assets/115444760/9182174c-ddaa-4b02-97d1-cc1e4cf69503">
 
 ---
 
-### Data Analysis: [Eternal Growth, Immortal Inequality](pages/eternal.md)
+## Data Science | Data Wrangling, Multiple Linear Regression | with Twitter Dog Ratings
+<div align="center" style="background-color: #CCCCD6; padding: 15px; border-radius: 10px;">
+"What drives engagement for a popular Twitter Account?"
+</div>
+
+---
+
+## Data Analysis | Data Wrangling, EDA | [Eternal Growth, Immortal Inequality](pages/eternal.md)
+
+<div align="center" style="background-color: #CCCCD6; padding: 15px; border-radius: 10px;">
+"How Does a Country's Wealth and Inequality Relate to Human Flourishing?"
+</div>
+
 <img src="https://github.com/scelarek/scelarek.github.io/assets/115444760/614a1d55-c818-45f9-bee7-491c97b3a319">
 <img src="https://github.com/scelarek/scelarek.github.io/assets/115444760/2e14a93a-3a58-419d-a049-208be213d614">
 
 ---
 
-### Reference Notebooks: [Useful Templates and ML Guides](https://github.com/scelarek/Reference_Notebooks)
+## Data Analysis | SQL, Tableau | with Bike Sharing Companies
+
+<div align="center" style="background-color: #CCCCD6; padding: 15px; border-radius: 10px;">
+"What trends exist in the BIXI bike data usage that could guide business action?"
+</div>
+
+---
+
+## Data Analysis | SQL, EDA | with Kickstarter Fundraising
+
+<div align="center" style="background-color: #CCCCD6; padding: 15px; border-radius: 10px;">
+"What are feasible fundraising goals for a tabletop boardgame company?"
+</div>
+
+---
+
+## Data Analysis | SQL, EDA | with Comparing Global vs Local Temperatures
+
+<div align="center" style="background-color: #CCCCD6; padding: 15px; border-radius: 10px;">
+"What are feasible fundraising goals for a tabletop boardgame company?"
+</div>
+
+---
+
+### Data Tools | My Repository of [Useful Templates and ML Guides](https://github.com/scelarek/Reference_Notebooks)
+<div align="center" style="background-color: #CCCCD6; padding: 15px; border-radius: 10px;">
+"Quick Implementation of Several Regression, Classification, and Clustering Pipelines"
+</div>
+
+
 
 --- 
 
