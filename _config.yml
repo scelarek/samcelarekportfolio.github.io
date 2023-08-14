@@ -1,7 +1,7 @@
 title: Sam Celarek
 logo: "/images/Circle Sam.png?raw=true"
 description: >
-    <style>
+        <style>
         body {
             font-family: Arial, sans-serif;
             background-color: #f5f5f5;
@@ -27,13 +27,12 @@ description: >
         }
     
         .linkedin, .github, .resume {
-            display: block;
-            margin: 10px auto;
+            display: inline-block;  /* This will put them on the same line */
+            margin: 10px;
             padding: 10px 15px;
             color: white;
             text-decoration: none;
             border-radius: 5px;
-            width: fit-content;
         }
     
         .linkedin {
@@ -45,15 +44,21 @@ description: >
         }
         
         .resume {
-            background-color: #4CAF50;
+            background-color: #388E3C;  /* Darker green */
+        }
+    
+        /* Styles for the smaller button */
+        .smaller-btn {
+            font-size: 0.9em;
+            padding: 8px 12px;
+            border: 2px solid white;
         }
     
         .linkedin:hover, .github:hover, .resume:hover {
             opacity: 0.9;
         }
     </style>
-
-
+    
     <div id="name-box">The Data Dude:</div>
     
     <div class="description" style="text-align:center;">
@@ -64,11 +69,11 @@ description: >
         Reduced Infection Rates<br>
         Energetic Teammate<br>
     </div>
-
     
     <a class="linkedin" href="https://www.linkedin.com/in/sam-celarek/">View My LinkedIn Profile</a>
     <a class="github" href="https://github.com/scelarek">View My GitHub Profile</a>
-    <a class="resume" href="https://drive.google.com/file/d/1fx7HWhIajxjqvkoxQvTx0V_xDWeLU-72/view?usp=drive_link">View My Resume</a>     <a class="resume" href="scelarek@gmail.com">Email Me!</a>
+    <a class="resume smaller-btn" href="https://drive.google.com/file/d/1fx7HWhIajxjqvkoxQvTx0V_xDWeLU-72/view?usp=drive_link">View My Resume</a>
+    <a class="resume smaller-btn" href="mailto:scelarek@gmail.com">Email Me!</a>
 
 remote_theme: pages-themes/minimal@v0.2.0
 plugins:
