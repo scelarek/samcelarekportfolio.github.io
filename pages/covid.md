@@ -7,9 +7,9 @@
 </div>
 
 <div align="center" style="background-color: #CCCCD6; padding: 15px; border-radius: 10px;">
-Like a weather forecast for pandemics,
+"Like a weather forecast for pandemics,
 COVIDCast leverages state-of-the-art machine learning and epidemiological models
-to deliver precise outbreak predictions.
+to deliver precise outbreak predictions."
 </div>
 
 ---
