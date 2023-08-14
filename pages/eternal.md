@@ -2,10 +2,11 @@
 
 <h1>Eternal Growth, Immortal Inequality</h1>
 
-   <img src="https://github.com/scelarek/scelarek.github.io/blob/master/images/Logo%20for%20Economics.png" title="Eternal Growth, Immortal Inequality" alt="Eternal Growth, Immortal Inequality" width="150" height="150"> 
 
 <h2><strong>By Sam Celarek</strong></h2>
 </div>
+
+<img src="https://github.com/scelarek/scelarek.github.io/blob/master/images/Logo%20for%20Economics.png" title="Eternal Growth, Immortal Inequality" alt="Eternal Growth, Immortal Inequality" width="150" height="150"> 
 
 <div align="center" style="background-color: #CCCCD6; padding: 15px; border-radius: 10px;">
 "How Does a Country's Wealth and Inequality Shape Human Flourishing?"
