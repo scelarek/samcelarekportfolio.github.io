@@ -29,15 +29,15 @@ The EDA phase involved scatter plots, line plots for each quintile, bar charts f
 
 <div>
 
-   <img src="https://github.com/scelarek/scelarek.github.io/assets/115444760/fd4a32e8-dc95-4ef7-8da4-7b4281c3ab07" title="Eternal Growth, Immortal Inequality" alt="Eternal Growth, Immortal Inequality" width="300" height="300">  
+   <img align="center" src="https://github.com/scelarek/scelarek.github.io/assets/115444760/fd4a32e8-dc95-4ef7-8da4-7b4281c3ab07" title="Eternal Growth, Immortal Inequality" alt="Eternal Growth, Immortal Inequality" width="300" height="300">  
 
 There appears to be a fairly robust correlation with increased GDP and increased happiness, although it is notable that above a GDP of $50,000 this correlation appears to weaken. It is also notable that many of the happiness scores lie above 30 and below 80. This seems to imply some type of subjective self-evaluation cutoffs that people often don't rate themselves beyond.  
 
-   <img src="https://github.com/scelarek/scelarek.github.io/assets/115444760/904306d0-6107-4433-ac77-fe3e84b58525" title="Eternal Growth, Immortal Inequality" alt="Eternal Growth, Immortal Inequality" width="300" height="300"> 
+   <img align="center" src="https://github.com/scelarek/scelarek.github.io/assets/115444760/904306d0-6107-4433-ac77-fe3e84b58525" title="Eternal Growth, Immortal Inequality" alt="Eternal Growth, Immortal Inequality" width="300" height="300"> 
 
 Here one can observe that the freedom index of countries in each quintile of GDP have remained fairly constant over time with the biggest increases in average freedom coming from the 0-20th and 60-80th quintiles. It also would appear that there has been some slight loss in average freedom since 2008 across all quintiles.
 
-   <img src="https://github.com/scelarek/scelarek.github.io/assets/115444760/e420d2f5-0201-4c9f-b216-a24c134f7a10" title="Eternal Growth, Immortal Inequality" alt="Eternal Growth, Immortal Inequality" width="300" height="300"> 
+   <img align="center" src="https://github.com/scelarek/scelarek.github.io/assets/115444760/e420d2f5-0201-4c9f-b216-a24c134f7a10" title="Eternal Growth, Immortal Inequality" alt="Eternal Growth, Immortal Inequality" width="300" height="300"> 
 
 This graph seems to strongly imply that more egalitarian countries are associated with a lower murder rate, however it is difficult to make this conclusion due to the lack of data from countries in the higher quintiles of inequality. 
 
