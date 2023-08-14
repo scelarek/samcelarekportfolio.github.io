@@ -1,7 +1,7 @@
 <div align="center">
 
 <h1>Eternal Growth, Immortal Inequality</h1>
-<img src="https://github.com/scelarek/Eternal-Growth-Immortal-Inequality/blob/main/Data/Logo%20for%20Economics.png" title="Eternal Growth, Immortal Inequality" alt="Eternal Growth, Immortal Inequality" width="150" height="150"> 
+<img src="https://github.com/scelarek/scelarek.github.io/blob/master/images/Logo%20for%20Economics.png" title="Eternal Growth, Immortal Inequality" alt="Eternal Growth, Immortal Inequality" width="150" height="150"> 
 
 <br>
 <h2><strong>By Sam Celarek</strong></h2>
