@@ -1,11 +1,11 @@
 <div align="center">
 
-# Global Temperature Analysis
+# Local vs Global Warming
 
 </div>
 
 <div align="center" style="background-color: #CCCCD6; padding: 15px; border-radius: 10px;">
-"How might we understand the impact of global warming through historical temperature data?"
+"How might we use descriptive statistics to compare the divergence of local city temperatures, such as Portland, from global temperature trends?"
 </div>
 
 ## 🎯 Project Overview
@@ -18,29 +18,37 @@ The primary dataset consists of historical global temperature readings. This dat
 
 ## 🧹 Data Wrangling
 
-Initial data was sourced from climate research databases and required several preprocessing steps:
+
+Initial data was sourced from Udacity's sql server, and required several preprocessing steps:
 - Managing missing values
 - Standardizing date formats across sources
 - Converting various temperature measurement units to a consistent standard
+
 
 ## 📶 Exploratory Data Analysis (EDA)
 
 The analysis began with visualizations of temperature trends over time. Significant climate events or anomalies were identified by observing spikes and drops in temperatures.
 
-## 🛠️ Feature Engineering
+![image](https://github.com/scelarek/scelarek.github.io/assets/115444760/5981defb-4174-4fd1-8c0b-9ed6624de9c6)
 
-To enhance the insights:
-- The data was segmented into "pre-industrial" and "post-industrial" periods
-- Features like rolling averages and anomalies were engineered 
-- Patterns were identified to gauge the impact of industrialization on global temperatures
 
 ## 🖥️ Modeling
 
 Regression models were utilized to project future temperature trends. These models help visualize the potential trajectory of global temperatures if current patterns persist.
 
+![image](https://github.com/scelarek/scelarek.github.io/assets/115444760/24c08bc8-2c01-41e6-a73d-86e2f6ad6e20)
+
+
 ## 📈 Discussion
 
-Findings reveal an upward trend in global temperatures, especially post-industrialization. The consequences of this trend are vast, influencing sea levels, biodiversity, and more. This analysis serves as a beacon for policymakers and the public to consider the ramifications of our changing climate.
+When one separates the data into "pre-industrial" and "post-industrial" periods, there is very different global temperature trend lines, as revealed in the graph below. 
+
+![image](https://github.com/scelarek/scelarek.github.io/assets/115444760/ddb723ff-8c6c-4ad0-949e-b632a26966a1)
+
+This shows, that global temperatures rising is a relatively recent phenomenon occuring approximately after industrialization in 1820. The consequences of this trend are vast, influencing sea levels, biodiversity, and more. This analysis reinforces the importance of addressing climate change for policymakers and the public. 
+
+![image](https://github.com/scelarek/scelarek.github.io/assets/115444760/0138351c-4f5d-4b40-a5eb-cbc5af849e7e)
+
 
 <div align="center">
 
