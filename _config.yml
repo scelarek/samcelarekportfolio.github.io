@@ -1,13 +1,13 @@
-title: Sam Celarek
+title: "Sam Celarek"
 logo: "/images/Circle Sam.png?raw=true"
-description: >
+description: "A brief description about Sam Celarek." >
         <style>
-    body {
+        body {
         font-family: Arial, sans-serif;
         background-color: #f5f5f5;
-    }
-
-    #name-box {
+        }
+        
+        #name-box {
         background-color: gray;
         padding: 5px 10px;
         font-weight: bold;
@@ -16,47 +16,47 @@ description: >
         margin: 20px auto;
         text-align: center;
         color: white;
-    }
-
-    .description {
+        }
+        
+        .description {
         margin: 10px auto;
         padding: 10px;
         border-radius: 5px;
         background-color: rgba(240, 240, 240, 0.7);
         text-align: center; /* Center the description text */
-    }
-
-    .linkedin, .github, .resume {
+        }
+        
+        .linkedin, .github, .resume {
         margin: 10px;
         padding: 10px 15px;
         color: white;
         text-decoration: none;
         border-radius: 5px;
-    }
-
-    .linkedin {
+        }
+        
+        .linkedin {
         background-color: #007BFF;
-    }
-
-    .github {
+        }
+        
+        .github {
         background-color: gray;
-    }
-    
-    .resume {
+        }
+        
+        .resume {
         background-color: #388E3C;  /* Darker green */
         display: inline-block;  /* Make elements display inline */
-    }
-
-    /* Styles for the smaller button */
-    .smaller-btn {
+        }
+        
+        /* Styles for the smaller button */
+        .smaller-btn {
         font-size: 0.8em;
         padding: 6px 10px;
         border: 2px solid white;
-    }
-
-    .linkedin:hover, .github:hover, .resume:hover {
+        }
+        
+        .linkedin:hover, .github:hover, .resume:hover {
         opacity: 0.9;
-    }
+        }
         </style>
         
         <div id="name-box">The Data Dude</div>
@@ -78,5 +78,5 @@ description: >
 
 remote_theme: pages-themes/minimal@v0.2.0
 plugins:
-- jekyll-remote-theme
+  - jekyll-remote-theme
 google_analytics: G-Y2C3F7G3VW
