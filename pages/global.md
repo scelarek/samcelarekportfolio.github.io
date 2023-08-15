@@ -1,6 +1,8 @@
 <div align="center">
 
-# Local vs Global Warming
+<h1>Local vs Global Warming</h1>
+
+<h2><strong>By Sam Celarek</strong></h2>
 
 </div>
 
