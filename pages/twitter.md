@@ -35,21 +35,26 @@ To improve the modeling phase, several new features were engineered in addition 
 ## 📶 Exploratory Data Analysis (EDA)
 
 EDA was performed to understand the underlying patterns in the data:
-- Distribution of retweets and favorites was plotted
-- Correlation between dog ratings and engagement metrics (retweets and favorites) was examined
+- Univariate Distribution of retweet count, favorite count, time of day, and neural net confidence level was explored
 - Time series analysis was conducted to see engagement trends over time.
 
+![image](https://github.com/scelarek/scelarek.github.io/assets/115444760/ed6f8d2a-f864-4873-a1cf-cb1f0285e7ae)
 
 ## 🖥️ Modeling
 
-A regression model was trained to predict retweets and favorite counts based on the tweet's features. Both linear regression and decision tree models were experimented with. The decision tree model provided better accuracy in predicting engagement metrics.
+Three multiple linear regression models with different sets of features were trained to predict popularity rating. One MLR model had comedic features, another had aesthetic features, and the final had all features. Then the significance and effect size of each feature was assessed in each model. This graph highlights all the statistically significant variables in the all-features model.
+
+![image](https://github.com/scelarek/scelarek.github.io/assets/115444760/1f472f5c-6a87-4297-a4ac-641376ddfac1)
 
 ## 📈 Discussion
 
 From the analysis and modeling, several key insights were derived:
-- Tweets with higher dog ratings tend to get more retweets and favorites
-- The presence of images or videos in a tweet significantly boosts engagement
-- Tweets posted during evening hours get slightly higher engagement than those posted at other times of the day.
+- **Comedic**: The comedic model was the most predictive model and tweets with higher dog ratings tend to get more retweets and favorites
+- **Aesthetic**: No dog breed was statistically significant, however the nickname `doggo` and `puppo` had a positive impact on popularity. 
+- **All Features**: Time passing (`date_number`) was a very important variable to have in the model as popularity Ratings rise dramatically over time as the account gets more fans and followers.
+
+![image](https://github.com/scelarek/scelarek.github.io/assets/115444760/00a1a5f8-7b97-4417-9542-f67e1a660f92)
+
 
 <div align="center">
 
