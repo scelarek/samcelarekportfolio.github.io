@@ -2,6 +2,8 @@
 
 <h1>Local vs Global Warming</h1>
 
+<img src="https://github.com/scelarek/scelarek.github.io/assets/115444760/08653fda-f875-41b6-85b2-f7fd878b7f0e" title="Local vs Global Warming" alt="Local vs Global Warming" width="150" height="150">
+
 <h2><strong>By Sam Celarek</strong></h2>
 
 </div>
@@ -26,11 +28,11 @@ The analysis began with visualizations of temperature trends over time. Signific
 
 ## 🖥️ Modeling
 
-Next I used Linear Regression Line of Best Fit to better illustrate the central trend of temperatures over long periods of time. Here we can see that Portland's temperatures appear to be rising _faster_ than global temperatures. There also seem to be a significant increase in temperatures after 1820. 
+Next I used Linear Regression Line of Best Fit to better illustrate the central trend of temperatures over long periods of time. Here we can see that Portland's temperatures appear to be rising _faster_ than global temperatures. Global temperatures also appear to trend up much more strongly after 1820. 
 
 ![image](https://github.com/scelarek/scelarek.github.io/assets/115444760/a318bbae-0e11-45cd-8f12-e11efb377279)
 
-When one separates the data into "pre-industrial" and "post-industrial" periods, there is very different global temperature trend lines, as revealed in the graph below. Although I did not use any time series models to further enhance this analysis, the linear regression line helps visualize the potential trajectory of global temperatures if current patterns persist. 
+When one separates the data into "pre-industrial" and "post-industrial" periods, there is very different global temperature trend lines, as revealed in the graph below. Although I did not use any time series models to further enhance this analysis, the linear regression line helps visualize the potential trajectory of global temperatures if current post-industrial patterns persist. 
 
 ![image](https://github.com/scelarek/scelarek.github.io/assets/115444760/ddb723ff-8c6c-4ad0-949e-b632a26966a1)
 
