@@ -9,7 +9,7 @@ description: >
 
     #name-box {
         background-color: gray;
-        padding: 5px 20px;
+        padding: 5px 10px;
         font-weight: bold;
         border-radius: 5px;
         display: block;
@@ -19,8 +19,8 @@ description: >
     }
 
     .description {
-        margin: 20px auto;
-        padding: 20px;
+        margin: 10px auto;
+        padding: 10px;
         border-radius: 5px;
         background-color: rgba(240, 240, 240, 0.7);
         text-align: center; /* Center the description text */
@@ -59,7 +59,7 @@ description: >
     }
         </style>
         
-        <div id="name-box">The Data Dude:</div>
+        <div id="name-box">The Data Dude</div>
         
         <div class="description" style="text-align:center;">
             Avid Data Explorer<br>
@@ -67,11 +67,11 @@ description: >
             Coding Everyday<br>
             Strong Medical Background<br>
             Reduced Infection Rates<br>
-            Energetic Teammate<br>
+            Energetic Teammate
         </div>
         
-        <a class="linkedin" href="https://www.linkedin.com/in/sam-celarek/">View My LinkedIn Profile</a>
-        <a class="github" href="https://github.com/scelarek">View My GitHub Profile</a>
+        <a class="linkedin" href="https://www.linkedin.com/in/sam-celarek/">LinkedIn</a>
+        <a class="github" href="https://github.com/scelarek">GitHub</a>
         <a class="resume smaller-btn" href="https://drive.google.com/file/d/1fx7HWhIajxjqvkoxQvTx0V_xDWeLU-72/view?usp=drive_link">View My Resume</a>
         <a class="resume smaller-btn" href="mailto:scelarek@gmail.com">Email Me!</a>
 
