@@ -101,7 +101,7 @@
 
 ---
 
-## Data Science | [Rating Reader](https://github.com/scelarek/Universal_Code_Bank/blob/ba2c5ddc45c883327a8ec4a5fd281be15735d904/Brain%20Station/Project4,%20NLP%20With%20Hotel%20pt2/NLP%20Hotel%20pt2.ipynb)
+## Data Science | [WordWise: Predicting Hotel Ratings from Reviews](https://github.com/scelarek/Universal_Code_Bank/blob/ba2c5ddc45c883327a8ec4a5fd281be15735d904/Brain%20Station/Project4,%20NLP%20With%20Hotel%20pt2/NLP%20Hotel%20pt2.ipynb)
 <p align="center" style="font-size: 0.8em;"> Feature Engineering &bull; Classification &bull; NLP &bull; Hyperparameter Tuning </p>
 
 <div align="center" style="background-color: #E0E0E0; padding: 20px; border-radius: 10px; margin: 10px 0; font-weight: bold;">
