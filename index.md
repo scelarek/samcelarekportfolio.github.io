@@ -35,28 +35,6 @@
 
 ---
 
-## Data Analysis | [Eternal Growth, Immortal Inequality](pages/eternal.md)
-<p align="center" style="font-size: 0.8em;"> Data Wrangling &bull; EDA &bull; Correlation Analysis </p>
-
-<div align="center" style="background-color: #E0E0E0; padding: 20px; border-radius: 10px; margin: 10px 0; font-weight: bold;">
-"How might we use descriptive statistics to explore the relationship between a country's wealth and inequality with its levels of happiness, safety, and freedom?"
-</div>
-
-![correlation heatmap](https://github.com/scelarek/scelarek.github.io/assets/115444760/2c8ec283-452c-448a-96d3-330932912d67)
-
----
-
-## Data Analysis | [Local vs Global Warming](/pages/global.md)
-<p align="center" style="font-size: 0.8em;"> SQL &bull; EDA &bull; Trend Analysis </p>
-
-<div align="center" style="background-color: #E0E0E0; padding: 20px; border-radius: 10px; margin: 10px 0; font-weight: bold;">
-"How might we use descriptive statistics to compare the divergence of local city temperatures, such as Portland, from global temperature trends?"
-</div>
-
-![image](https://github.com/scelarek/scelarek.github.io/assets/115444760/209c121a-1bca-4d00-b70e-907fcd8d298c)
-
----
-
 ## Data Science | [DS Templates and ML Guides](https://github.com/scelarek/Reference_Notebooks)
 <p align="center" style="font-size: 0.8em;"> Regression &bull; Classification &bull; Clustering &bull; Pipelines &bull; Grid Search </p>
 
@@ -78,17 +56,6 @@
 ![image](https://github.com/scelarek/scelarek.github.io/assets/115444760/751e72f4-76bb-4628-b4bb-c07bcd602fe3)
 
 --- 
-
-## Data Analysis | [Making a Biker's Paradise](https://github.com/scelarek/Universal_Code_Bank/blob/94e8e404cd99acc7345d52829b70551024453c0e/Brain%20Station/Project0b,%20BIXI%20Tableau%20Dashboard/BIXI%202%20Sam_Celarek%20(4).pdf)
-<p align="center" style="font-size: 0.8em;"> SQL &bull; Tableau &bull; Dashboards </p>
-
-<div align="center" style="background-color: #E0E0E0; padding: 20px; border-radius: 10px; margin: 10px 0; font-weight: bold;">
-"How might we use SQL and tableau to explore BIXI bike trends to enhance urban mobility in Montreal Canada?"
-</div>
-
-![3 3 Revenue by Time (3)](https://github.com/scelarek/scelarek.github.io/assets/115444760/f1b0d7c0-9346-4f77-8f79-ac0308aa17d5)
-
----
 
 ## Data Science | [The Business Behind Dreams](https://github.com/scelarek/Universal_Code_Bank/blob/74bb8312a2477d66d72fc31ed31fda4c12c73458/Final%20Projects/Kickstarter/Kickstarter%20Final%20Project.ipynb)
 <p align="center" style="font-size: 0.8em;"> SQL &bull; Data Wrangling &bull; EDA &bull; Classification </p>
@@ -120,6 +87,39 @@
 </div>
 
 ![prevalence map](https://github.com/scelarek/scelarek.github.io/assets/115444760/dc1b5c27-eb6e-4f07-ac60-39734d601556)
+
+---
+
+## Data Analysis | [Eternal Growth, Immortal Inequality](pages/eternal.md)
+<p align="center" style="font-size: 0.8em;"> Data Wrangling &bull; EDA &bull; Correlation Analysis </p>
+
+<div align="center" style="background-color: #E0E0E0; padding: 20px; border-radius: 10px; margin: 10px 0; font-weight: bold;">
+"How might we use descriptive statistics to explore the relationship between a country's wealth and inequality with its levels of happiness, safety, and freedom?"
+</div>
+
+![correlation heatmap](https://github.com/scelarek/scelarek.github.io/assets/115444760/2c8ec283-452c-448a-96d3-330932912d67)
+
+---
+
+## Data Analysis | [Local vs Global Warming](/pages/global.md)
+<p align="center" style="font-size: 0.8em;"> SQL &bull; EDA &bull; Trend Analysis </p>
+
+<div align="center" style="background-color: #E0E0E0; padding: 20px; border-radius: 10px; margin: 10px 0; font-weight: bold;">
+"How might we use descriptive statistics to compare the divergence of local city temperatures, such as Portland, from global temperature trends?"
+</div>
+
+![image](https://github.com/scelarek/scelarek.github.io/assets/115444760/209c121a-1bca-4d00-b70e-907fcd8d298c)
+
+---
+
+## Data Analysis | [Making a Biker's Paradise](https://github.com/scelarek/Universal_Code_Bank/blob/94e8e404cd99acc7345d52829b70551024453c0e/Brain%20Station/Project0b,%20BIXI%20Tableau%20Dashboard/BIXI%202%20Sam_Celarek%20(4).pdf)
+<p align="center" style="font-size: 0.8em;"> SQL &bull; Tableau &bull; Dashboards </p>
+
+<div align="center" style="background-color: #E0E0E0; padding: 20px; border-radius: 10px; margin: 10px 0; font-weight: bold;">
+"How might we use SQL and tableau to explore BIXI bike trends to enhance urban mobility in Montreal Canada?"
+</div>
+
+![3 3 Revenue by Time (3)](https://github.com/scelarek/scelarek.github.io/assets/115444760/f1b0d7c0-9346-4f77-8f79-ac0308aa17d5)
 
 ---
 
