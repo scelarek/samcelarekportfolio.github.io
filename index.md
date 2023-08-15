@@ -24,7 +24,7 @@
 
 ---
 
-## Data Science | [Pupularity Contest](https://github.com/scelarek/Data-Analysis-Projects/blob/a1f50a33c893b5dbeec4ae5739eff319f8f61a1c/Twitter%20Humor%20vs%20Cuteness/Twitter_Wrangle.ipynb)
+## Data Science | [Pupularity Contest Factors](https://github.com/scelarek/Data-Analysis-Projects/blob/a1f50a33c893b5dbeec4ae5739eff319f8f61a1c/Twitter%20Humor%20vs%20Cuteness/Twitter_Wrangle.ipynb)
 <p align="center" style="font-size: 0.8em;"> Web Scraping &bull; APIs &bull; Regression &bull; Classification </p>
 
 <div align="center" style="background-color: #E0E0E0; padding: 20px; border-radius: 10px; margin: 10px 0; font-weight: bold;">
@@ -46,50 +46,6 @@
 
 ---
 
----
-
-## Data Science | [Hotel Review Analysis](https://github.com/scelarek/Universal_Code_Bank/blob/ba2c5ddc45c883327a8ec4a5fd281be15735d904/Brain%20Station/Project4,%20NLP%20With%20Hotel%20pt2/NLP%20Hotel%20pt2.ipynb)
-<p align="center" style="font-size: 0.8em;"> Feature Engineering &bull; Classification &bull; NLP &bull; Hyperparameter Tuning </p>
-
-<div align="center" style="background-color: #E0E0E0; padding: 20px; border-radius: 10px; margin: 10px 0; font-weight: bold;">
-"Can we predict hotel resident's rating with just the words from a review?"
-</div>
-
-![image](https://github.com/scelarek/scelarek.github.io/blob/master/images/top%2020%20hotel%20review%20features.png)
-
----
-
-## Data Science | [Danger Zones and West Nile Virus](https://github.com/scelarek/Universal_Code_Bank/blob/b3f1ec2bd331d6fa944b089931168a2b35f5c56a/Brain%20Station/Project2,%20Mosquitos%20pt2/Samuel_Celarek_Stats_Part2.ipynb)
-<p align="center" style="font-size: 0.8em;"> Feature Engineering &bull; Data Wrangling &bull; EDA &bull; Hypothesis Testing </p>
-
-<div align="center" style="background-color: #E0E0E0; padding: 20px; border-radius: 10px; margin: 10px 0; font-weight: bold;">
-"Where are the danger zones for West Nile Virus in Chicago?"
-</div>
-
-![image](https://github.com/scelarek/scelarek.github.io/blob/master/images/prevalence%20map.png)
-
-## Data Analysis | [Making a Biker's Paradise](https://github.com/scelarek/Universal_Code_Bank/blob/94e8e404cd99acc7345d52829b70551024453c0e/Brain%20Station/Project0b,%20BIXI%20Tableau%20Dashboard/BIXI%202%20Sam_Celarek%20(4).pdf)
-<p align="center" style="font-size: 0.8em;"> SQL &bull; Tableau &bull; Dashboards </p>
-
-<div align="center" style="background-color: #E0E0E0; padding: 20px; border-radius: 10px; margin: 10px 0; font-weight: bold;">
-"What trends exist in the BIXI bike data usage that could guide business action?"
-</div>
-
-![3 3 Revenue by Time (3)](https://github.com/scelarek/scelarek.github.io/assets/115444760/f1b0d7c0-9346-4f77-8f79-ac0308aa17d5)
-
----
-
-## Data Science | [The Business Behind Dreams](https://github.com/scelarek/Universal_Code_Bank/blob/74bb8312a2477d66d72fc31ed31fda4c12c73458/Final%20Projects/Kickstarter/Kickstarter%20Final%20Project.ipynb)
-<p align="center" style="font-size: 0.8em;"> SQL &bull; Data Wrangling &bull; EDA &bull; Classification </p>
-
-<div align="center" style="background-color: #E0E0E0; padding: 20px; border-radius: 10px; margin: 10px 0; font-weight: bold;">
-"What are feasible fundraising goals for a tabletop boardgame company on Kickstarter?"
-</div>
-
-![image](https://github.com/scelarek/scelarek.github.io/assets/115444760/a07d8ef9-987d-45d5-8542-be7dbeee4a59)
-
----
-
 ## Data Analysis | [Local vs Global Warming](https://github.com/scelarek/Data-Analysis-Projects/blob/62ec589bf21700e670850a36ec8b401a67bc80bf/City%20vs%20Global%20Temp/Analying%20Yearly%20Average%20Temperature%20-%20Sam%20Celarek.docx.pdf)
 <p align="center" style="font-size: 0.8em;"> SQL &bull; EDA &bull; Trend Analysis </p>
 
@@ -98,6 +54,17 @@
 </div>
 
 ![image](https://github.com/scelarek/scelarek.github.io/assets/115444760/209c121a-1bca-4d00-b70e-907fcd8d298c)
+
+---
+
+## Data Science | [Useful Templates and ML Guides](https://github.com/scelarek/Reference_Notebooks)
+<p align="center" style="font-size: 0.8em;"> Regression &bull; Classification &bull; Clustering &bull; Pipelines &bull; Grid Search </p>
+
+<div align="center" style="background-color: #E0E0E0; padding: 20px; border-radius: 10px; margin: 10px 0; font-weight: bold;">
+"Quick Implementation of Grid Searching through several Regression, Classification, and Clustering models using Pipelines"
+</div>
+
+![image](https://github.com/scelarek/scelarek.github.io/assets/115444760/c8cbf178-a154-4637-9aae-9f55a7204c6a)
 
 ---
 
@@ -112,14 +79,51 @@
 
 --- 
 
-### Data Tools | [Useful Templates and ML Guides](https://github.com/scelarek/Reference_Notebooks)
-<p align="center" style="font-size: 0.8em;"> Regression &bull; Classification &bull; Clustering &bull; Pipelines &bull; Grid Search </p>
-
-<div align="center" style="background-color: #E0E0E0; padding: 20px; border-radius: 10px; margin: 10px 0; font-weight: bold;">
-"Quick Implementation of Grid Searching through several Regression, Classification, and Clustering models using Pipelines"
-</div>
-
-![image](https://github.com/scelarek/scelarek.github.io/assets/115444760/c8cbf178-a154-4637-9aae-9f55a7204c6a)
 
 ---
+
+## Data Analysis | [Making a Biker's Paradise](https://github.com/scelarek/Universal_Code_Bank/blob/94e8e404cd99acc7345d52829b70551024453c0e/Brain%20Station/Project0b,%20BIXI%20Tableau%20Dashboard/BIXI%202%20Sam_Celarek%20(4).pdf)
+<p align="center" style="font-size: 0.8em;"> SQL &bull; Tableau &bull; Dashboards </p>
+
+<div align="center" style="background-color: #E0E0E0; padding: 20px; border-radius: 10px; margin: 10px 0; font-weight: bold;">
+"How might we explore BIXI bike trends to enhance urban mobility in Montreal Canada?"
+</div>
+
+![3 3 Revenue by Time (3)](https://github.com/scelarek/scelarek.github.io/assets/115444760/f1b0d7c0-9346-4f77-8f79-ac0308aa17d5)
+
+---
+
+## Data Science | [The Business Behind Dreams](https://github.com/scelarek/Universal_Code_Bank/blob/74bb8312a2477d66d72fc31ed31fda4c12c73458/Final%20Projects/Kickstarter/Kickstarter%20Final%20Project.ipynb)
+<p align="center" style="font-size: 0.8em;"> SQL &bull; Data Wrangling &bull; EDA &bull; Classification </p>
+
+<div align="center" style="background-color: #E0E0E0; padding: 20px; border-radius: 10px; margin: 10px 0; font-weight: bold;">
+"How might we determine feasible fundraising goals for a tabletop boardgame company on Kickstarter?"
+</div>
+
+![image](https://github.com/scelarek/scelarek.github.io/assets/115444760/a07d8ef9-987d-45d5-8542-be7dbeee4a59)
+
+---
+
+## Data Science | [Rating Reader](https://github.com/scelarek/Universal_Code_Bank/blob/ba2c5ddc45c883327a8ec4a5fd281be15735d904/Brain%20Station/Project4,%20NLP%20With%20Hotel%20pt2/NLP%20Hotel%20pt2.ipynb)
+<p align="center" style="font-size: 0.8em;"> Feature Engineering &bull; Classification &bull; NLP &bull; Hyperparameter Tuning </p>
+
+<div align="center" style="background-color: #E0E0E0; padding: 20px; border-radius: 10px; margin: 10px 0; font-weight: bold;">
+"Can we predict hotel resident's rating with just the words from a review?"
+</div>
+
+![top 20 hotel review features](https://github.com/scelarek/scelarek.github.io/assets/115444760/0db26b37-9d89-49d1-9900-0fe648e8215b)
+
+---
+
+## Data Science | [Danger Zones for West Nile Virus](https://github.com/scelarek/Universal_Code_Bank/blob/b3f1ec2bd331d6fa944b089931168a2b35f5c56a/Brain%20Station/Project2,%20Mosquitos%20pt2/Samuel_Celarek_Stats_Part2.ipynb)
+<p align="center" style="font-size: 0.8em;"> Feature Engineering &bull; Data Wrangling &bull; EDA &bull; Hypothesis Testing </p>
+
+<div align="center" style="background-color: #E0E0E0; padding: 20px; border-radius: 10px; margin: 10px 0; font-weight: bold;">
+"How might we pinpoint High Risk Zones for West Nile Virus to inform community health interventions in Chicago?"
+</div>
+
+![prevalence map](https://github.com/scelarek/scelarek.github.io/assets/115444760/dc1b5c27-eb6e-4f07-ac60-39734d601556)
+
+---
+
 <p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
