@@ -28,7 +28,7 @@
 <p align="center" style="font-size: 0.8em;"> Web Scraping &bull; APIs &bull; Regression &bull; Classification </p>
 
 <div align="center" style="background-color: #E0E0E0; padding: 20px; border-radius: 10px; margin: 10px 0; font-weight: bold;">
-"What drives engagement for a popular Twitter Account that posts comedic dog pictures and ratings?"
+"How might use machine learning to identify the factors that drive engagement for a popular Twitter account dedicated to comedic dog pictures and ratings?"
 </div>
 
 ![image](https://github.com/scelarek/scelarek.github.io/assets/115444760/f37fb5d6-2f11-48b3-8ebf-7328e7e13c28)
@@ -39,7 +39,7 @@
 <p align="center" style="font-size: 0.8em;"> Data Wrangling &bull; EDA &bull; Correlation Analysis </p>
 
 <div align="center" style="background-color: #E0E0E0; padding: 20px; border-radius: 10px; margin: 10px 0; font-weight: bold;">
-"How Does a Country's Wealth and Inequality Relate to Happiness, Safety, and Freedom?"
+"How might we use descriptive statistics to explore the relationship between a country's wealth and inequality with its levels of happiness, safety, and freedom?"
 </div>
 
 ![correlation heatmap](https://github.com/scelarek/scelarek.github.io/assets/115444760/2c8ec283-452c-448a-96d3-330932912d67)
@@ -50,7 +50,7 @@
 <p align="center" style="font-size: 0.8em;"> SQL &bull; EDA &bull; Trend Analysis </p>
 
 <div align="center" style="background-color: #E0E0E0; padding: 20px; border-radius: 10px; margin: 10px 0; font-weight: bold;">
-"How have local city temperatures, like Portland, diverged from global temperatures?"
+"How might we use descriptive statistics to compare the divergence of local city temperatures, such as Portland, from global temperature trends?"
 </div>
 
 ![image](https://github.com/scelarek/scelarek.github.io/assets/115444760/209c121a-1bca-4d00-b70e-907fcd8d298c)
@@ -61,7 +61,7 @@
 <p align="center" style="font-size: 0.8em;"> Regression &bull; Classification &bull; Clustering &bull; Pipelines &bull; Grid Search </p>
 
 <div align="center" style="background-color: #E0E0E0; padding: 20px; border-radius: 10px; margin: 10px 0; font-weight: bold;">
-"Quick Implementation of Grid Searching through several Regression, Classification, and Clustering models using Pipelines"
+"How might we pipelines to swiftly implement grid searching across various regression, classification, and clustering models?"
 </div>
 
 ![image](https://github.com/scelarek/scelarek.github.io/assets/115444760/c8cbf178-a154-4637-9aae-9f55a7204c6a)
@@ -72,21 +72,18 @@
 <p align="center" style="font-size: 0.8em;"> Hadoop &bull; AWS &bull; PySpark &bull; EDA </p>
 
 <div align="center" style="background-color: #E0E0E0; padding: 20px; border-radius: 10px; margin: 10px 0; font-weight: bold;">
-"How frequently has the word 'data' been mentioned in Google's corpus of books over the past 200 years?"
+"How might we use distributed computation to determine the frequency of the word 'data' in Google's corpus of books spanning the last two centuries?"
 </div>
 
 ![image](https://github.com/scelarek/scelarek.github.io/assets/115444760/751e72f4-76bb-4628-b4bb-c07bcd602fe3)
 
 --- 
 
-
----
-
 ## Data Analysis | [Making a Biker's Paradise](https://github.com/scelarek/Universal_Code_Bank/blob/94e8e404cd99acc7345d52829b70551024453c0e/Brain%20Station/Project0b,%20BIXI%20Tableau%20Dashboard/BIXI%202%20Sam_Celarek%20(4).pdf)
 <p align="center" style="font-size: 0.8em;"> SQL &bull; Tableau &bull; Dashboards </p>
 
 <div align="center" style="background-color: #E0E0E0; padding: 20px; border-radius: 10px; margin: 10px 0; font-weight: bold;">
-"How might we explore BIXI bike trends to enhance urban mobility in Montreal Canada?"
+"How might we use SQL and tableau to explore BIXI bike trends to enhance urban mobility in Montreal Canada?"
 </div>
 
 ![3 3 Revenue by Time (3)](https://github.com/scelarek/scelarek.github.io/assets/115444760/f1b0d7c0-9346-4f77-8f79-ac0308aa17d5)
@@ -97,7 +94,7 @@
 <p align="center" style="font-size: 0.8em;"> SQL &bull; Data Wrangling &bull; EDA &bull; Classification </p>
 
 <div align="center" style="background-color: #E0E0E0; padding: 20px; border-radius: 10px; margin: 10px 0; font-weight: bold;">
-"How might we determine feasible fundraising goals for a tabletop boardgame company on Kickstarter?"
+"How might we use machine learning to determine feasible fundraising goals for a tabletop boardgame company on Kickstarter?"
 </div>
 
 ![image](https://github.com/scelarek/scelarek.github.io/assets/115444760/a07d8ef9-987d-45d5-8542-be7dbeee4a59)
@@ -108,18 +105,18 @@
 <p align="center" style="font-size: 0.8em;"> Feature Engineering &bull; Classification &bull; NLP &bull; Hyperparameter Tuning </p>
 
 <div align="center" style="background-color: #E0E0E0; padding: 20px; border-radius: 10px; margin: 10px 0; font-weight: bold;">
-"Can we predict hotel resident's rating with just the words from a review?"
+"How might we use machine learning to predict a hotel resident's rating using only the text from their review?"
 </div>
 
 ![top 20 hotel review features](https://github.com/scelarek/scelarek.github.io/assets/115444760/0db26b37-9d89-49d1-9900-0fe648e8215b)
 
 ---
 
-## Data Science | [Danger Zones for West Nile Virus](https://github.com/scelarek/Universal_Code_Bank/blob/b3f1ec2bd331d6fa944b089931168a2b35f5c56a/Brain%20Station/Project2,%20Mosquitos%20pt2/Samuel_Celarek_Stats_Part2.ipynb)
+## Data Science | [Nile Watch](https://github.com/scelarek/Universal_Code_Bank/blob/b3f1ec2bd331d6fa944b089931168a2b35f5c56a/Brain%20Station/Project2,%20Mosquitos%20pt2/Samuel_Celarek_Stats_Part2.ipynb)
 <p align="center" style="font-size: 0.8em;"> Feature Engineering &bull; Data Wrangling &bull; EDA &bull; Hypothesis Testing </p>
 
 <div align="center" style="background-color: #E0E0E0; padding: 20px; border-radius: 10px; margin: 10px 0; font-weight: bold;">
-"How might we pinpoint High Risk Zones for West Nile Virus to inform community health interventions in Chicago?"
+"How might we use hypothesis testing to pinpoint high risk areas or mosquito species for West Nile Virus to inform community health interventions in Chicago?"
 </div>
 
 ![prevalence map](https://github.com/scelarek/scelarek.github.io/assets/115444760/dc1b5c27-eb6e-4f07-ac60-39734d601556)
