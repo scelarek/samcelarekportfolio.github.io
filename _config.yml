@@ -70,9 +70,9 @@ description: >
     </div>
     
     <div style="text-align: center;">
-        <a class="linkedin" href="https://www.linkedin.com/in/sam-celarek/">LinkedIn</a>
-        <a class="github" href="https://github.com/scelarek">GitHub</a>
-        <a class="resume smaller-btn" href="https://drive.google.com/file/d/1fx7HWhIajxjqvkoxQvTx0V_xDWeLU-72/view?usp=drive_link">View My Resume</a>
+        <a class="linkedin" href="https://www.linkedin.com/in/sam-celarek/">LinkedIn</a> <br>
+        <a class="github" href="https://github.com/scelarek">GitHub</a> <br>
+        <a class="resume smaller-btn" href="https://drive.google.com/file/d/1fx7HWhIajxjqvkoxQvTx0V_xDWeLU-72/view?usp=drive_link">View My Resume</a> 
         <a class="resume smaller-btn" href="mailto:scelarek@gmail.com">Email Me!</a>
     </div>
     
