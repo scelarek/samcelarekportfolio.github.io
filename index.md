@@ -24,7 +24,7 @@
 
 ---
 
-## Data Science | [Pupularity Contest](https://github.com/scelarek/Data-Analysis-Projects/blob/a1f50a33c893b5dbeec4ae5739eff319f8f61a1c/Twitter%20Humor%20vs%20Cuteness/Twitter_Wrangle.ipynb)
+## Data Science | [Pupularity Contest](/pages/twitter.md)
 <p align="center" style="font-size: 0.8em;"> Web Scraping &bull; APIs &bull; Regression &bull; Classification </p>
 
 <div align="center" style="background-color: #E0E0E0; padding: 20px; border-radius: 10px; margin: 10px 0; font-weight: bold;">
@@ -46,7 +46,7 @@
 
 ---
 
-## Data Analysis | [Local vs Global Warming](https://github.com/scelarek/Data-Analysis-Projects/blob/62ec589bf21700e670850a36ec8b401a67bc80bf/City%20vs%20Global%20Temp/Analying%20Yearly%20Average%20Temperature%20-%20Sam%20Celarek.docx.pdf)
+## Data Analysis | [Local vs Global Warming](/pages/global.md)
 <p align="center" style="font-size: 0.8em;"> SQL &bull; EDA &bull; Trend Analysis </p>
 
 <div align="center" style="background-color: #E0E0E0; padding: 20px; border-radius: 10px; margin: 10px 0; font-weight: bold;">
