@@ -88,7 +88,7 @@
 "Can we predict hotel resident's rating with just the words from a review?"
 </div>
 
-![image](https://github.com/scelarek/scelarek.github.io/assets/115444760/97e13966-a6d5-4670-958d-179bca7b6016)
+![image](https://github.com/scelarek/scelarek.github.io/blob/master/images/top%2020%20hotel%20review%20features.png)
 
 ---
 
@@ -98,7 +98,7 @@
 "Where are the danger zones for West Nile Virus in Chicago?"
 </div>
 
-![image](https://github.com/scelarek/scelarek.github.io/assets/115444760/6e069b93-c3ef-4eb3-9023-97959bef3739)
+![image](https://github.com/scelarek/scelarek.github.io/blob/master/images/prevalence%20map.png)
 
 
 ---
