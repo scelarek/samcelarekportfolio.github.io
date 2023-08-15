@@ -3,6 +3,8 @@
 
 <h1>Pupularity Contest</h1>
 
+<h2><strong>By Sam Celarek</strong></h2>
+
 </div>
 
 <div align="center" style="background-color: #CCCCD6; padding: 15px; border-radius: 10px;">
