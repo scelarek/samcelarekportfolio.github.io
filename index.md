@@ -46,6 +46,28 @@
 
 ---
 
+---
+
+## Data Science | [Hotel Review Analysis](https://github.com/scelarek/Universal_Code_Bank/blob/ba2c5ddc45c883327a8ec4a5fd281be15735d904/Brain%20Station/Project4,%20NLP%20With%20Hotel%20pt2/NLP%20Hotel%20pt2.ipynb)
+<p align="center" style="font-size: 0.8em;"> Feature Engineering &bull; Classification &bull; NLP &bull; Hyperparameter Tuning </p>
+
+<div align="center" style="background-color: #E0E0E0; padding: 20px; border-radius: 10px; margin: 10px 0; font-weight: bold;">
+"Can we predict hotel resident's rating with just the words from a review?"
+</div>
+
+![image](https://github.com/scelarek/scelarek.github.io/blob/master/images/top%2020%20hotel%20review%20features.png)
+
+---
+
+## Data Science | [Danger Zones and West Nile Virus](https://github.com/scelarek/Universal_Code_Bank/blob/b3f1ec2bd331d6fa944b089931168a2b35f5c56a/Brain%20Station/Project2,%20Mosquitos%20pt2/Samuel_Celarek_Stats_Part2.ipynb)
+<p align="center" style="font-size: 0.8em;"> Feature Engineering &bull; Data Wrangling &bull; EDA &bull; Hypothesis Testing </p>
+
+<div align="center" style="background-color: #E0E0E0; padding: 20px; border-radius: 10px; margin: 10px 0; font-weight: bold;">
+"Where are the danger zones for West Nile Virus in Chicago?"
+</div>
+
+![image](https://github.com/scelarek/scelarek.github.io/blob/master/images/prevalence%20map.png)
+
 ## Data Analysis | [Making a Biker's Paradise](https://github.com/scelarek/Universal_Code_Bank/blob/94e8e404cd99acc7345d52829b70551024453c0e/Brain%20Station/Project0b,%20BIXI%20Tableau%20Dashboard/BIXI%202%20Sam_Celarek%20(4).pdf)
 <p align="center" style="font-size: 0.8em;"> SQL &bull; Tableau &bull; Dashboards </p>
 
@@ -76,28 +98,6 @@
 </div>
 
 ![image](https://github.com/scelarek/scelarek.github.io/assets/115444760/209c121a-1bca-4d00-b70e-907fcd8d298c)
-
----
-
-## Data Science | [Hotel Review Analysis](https://github.com/scelarek/Universal_Code_Bank/blob/ba2c5ddc45c883327a8ec4a5fd281be15735d904/Brain%20Station/Project4,%20NLP%20With%20Hotel%20pt2/NLP%20Hotel%20pt2.ipynb)
-<p align="center" style="font-size: 0.8em;"> Feature Engineering &bull; Classification &bull; NLP &bull; Hyperparameter Tuning </p>
-
-<div align="center" style="background-color: #E0E0E0; padding: 20px; border-radius: 10px; margin: 10px 0; font-weight: bold;">
-"Can we predict hotel resident's rating with just the words from a review?"
-</div>
-
-![image](https://github.com/scelarek/scelarek.github.io/blob/master/images/top%2020%20hotel%20review%20features.png)
-
----
-
-## Data Science | [Danger Zones and West Nile Virus](https://github.com/scelarek/Universal_Code_Bank/blob/b3f1ec2bd331d6fa944b089931168a2b35f5c56a/Brain%20Station/Project2,%20Mosquitos%20pt2/Samuel_Celarek_Stats_Part2.ipynb)
-<p align="center" style="font-size: 0.8em;"> Feature Engineering &bull; Data Wrangling &bull; EDA &bull; Hypothesis Testing </p>
-
-<div align="center" style="background-color: #E0E0E0; padding: 20px; border-radius: 10px; margin: 10px 0; font-weight: bold;">
-"Where are the danger zones for West Nile Virus in Chicago?"
-</div>
-
-![image](https://github.com/scelarek/scelarek.github.io/blob/master/images/prevalence%20map.png)
 
 ---
 
