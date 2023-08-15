@@ -80,7 +80,7 @@ Sam Celarek
 
 ## 💡 Other Resources
 
-- **[Link to the Jupyter Notebook]()**
-- **[Link to the full dataset]()**
+- **[Link to the Jupyter Wrangling Notebook](https://github.com/scelarek/Puppularity-Contest/blob/main/Twitter_Wrangle.ipynb)**
+- **[Link to the Final Report dataset](https://github.com/scelarek/Puppularity-Contest/blob/main/Twitter_Insights.ipynb)**
+- **[Link to the master dataset](https://github.com/scelarek/Puppularity-Contest/blob/main/Data/twitter_archive_master.csv)**
 - **[Twitter API documentation](https://developer.twitter.com/en/docs)**
-
