@@ -17,15 +17,15 @@
 
 ## 🎯 Project Overview
 
-This project examines the 'We Rate Dogs' Twitter account to determine what features of the tweets (e.g., Comedic or Aesthetic) drives engagement. To this end, I build multiple linear regression with only comedic features, then aesthetic features, then both and interpret the strength of each variable on engagement. It turns out that comedic features drive the most engagement, however this model only weeakly explains the variance in popularity meaning there is likely other unmeasured factors which contribute to engagement. 
+In this project, we delve into the 'We Rate Dogs' Twitter account to discern which aspects of the tweets, be it comedic or aesthetic, primarily drive user engagement. We employ multiple linear regressions, focusing first on a model with only comedic features as predictors, then on aesthetic attributes, and finally a combination of both. The target variable for these models is going to be a proxy for engagement called 'popularity rating', calculated as the sum of retweets and favorites. After all this, I then assess the magnitude and significance of each variable's impact on the popularity rating. 
 
 ## 📊 Dataset
 
-The primary dataset for this analysis was sourced from the 'We Rate Dogs' Twitter account using the Twitter API. It contains detailed tweet data, including tweet text, user data, retweet count, favorite count, and other meta information. I also used a dataset with neural network classifications of each dog picture into its respective dog breed. 
+The primary dataset for this analysis was sourced from the 'We Rate Dogs' Twitter account using the Twitter API. It contains detailed tweet data, including tweet text, user data, retweet count, favorite count, and other meta information. I also used a dataset with neural network classifications of each dog picture from the 'We Rate Dogs' tweet into its respective dog breed. 
 
 ## 🧹 Data Wrangling
 
-The initial dataset from the Twitter API was in JSON format with , and several preprocessing steps were performed:
+The initial dataset from the Twitter API was in JSON format and several preprocessing steps were performed:
 - **Beautiful Soup:** Extracted necessary fields from the raw JSON data and converted into a pandas DataFrame
 - **Extensive Cleaning:** Cleaned dataframe with 13 different steps, removing any non-relevant meta information
 - **Regex:** Parsed dog ratings, monikers, and names from the tweet text
@@ -45,27 +45,29 @@ EDA was performed to understand the underlying patterns in the data:
 
 - Univariate Distribution of retweet count, favorite count, time of day, and neural net confidence level was explored
 - Popularity Rating was plotted over over time.
-In the times line plot below, it is notable that popularity rating steadily increases over time. This means that time passing, which is represented by the feature `dates_number`, is going to be very important in my model. 
+
+In the time line plot below, it is notable that popularity rating steadily increases over time. This means that time passing, which is represented by the feature `dates_number`, is going to be very important in my model. This is likely because it serves as a proxy for the constantly increasing amount of followers that the 'We Rate Dogs' account has on twitter, which I unfortunately did not have access to in the available datasets. 
 
 ![image](https://github.com/scelarek/scelarek.github.io/assets/115444760/ed6f8d2a-f864-4873-a1cf-cb1f0285e7ae)
 
 ## 🖥️ Modeling
 
-Three multiple linear regression models with different sets of features were trained to predict popularity rating. One MLR model had comedic features, another had aesthetic features, and the final had all features. Then the significance and effect size of each feature was assessed in each model. This graph highlights all the statistically significant variables in the all-features model.
+Three multiple linear regression models with different sets of features were trained to predict popularity rating. One MLR model had comedic features, another had aesthetic features, and the final had all features. Then the significance and effect size of each feature was assessed in each model. To summarize the findings, graph highlights the statistically significant variables in the all-features model. 
 
 ![image](https://github.com/scelarek/scelarek.github.io/assets/115444760/1f472f5c-6a87-4297-a4ac-641376ddfac1)
 
-As we can see, the ratings of 14/10 and 13/10 have the most significant impact of the categorical features in the model compared to the baseline of 11/10. 
+As we can see, the ratings of 14/10 and 13/10 have the most significant impact of the categorical features in the model compared to the baseline rating of 11/10. It would also appear that the monikers 'Puppo' and 'Doggo' drive higher levels of engagement too. Finally we can see here that breeds which were not frequently posted enough (>30 times) or hard for the neural net to recognize, did not generate as high of popularity ratings compared to the baseline dog breed of 'not dogs'.
 
 ## 📈 Discussion
 
 From the analysis and modeling, several key insights were derived:
-- **Comedic**: The comedic model was the most predictive model and tweets with higher dog ratings tend to get more retweets and favorites
-- **Aesthetic**: No dog breed was statistically significant, however the nickname `doggo` and `puppo` had a positive impact on popularity. 
-- **All Features**: Time passing (`date_number`) was a very important variable to have in the model as popularity Ratings rise dramatically over time as the account gets more fans and followers.
+- **Comedic Model** | R-Squared= 0.37: The comedic model was the most predictive model and tweets with higher dog ratings tend to get more retweets and favorites. 
+- **Aesthetic Model** | R-Squared= 0.32: No dog breed was statistically significant, however the nickname `doggo` and `puppo` had a positive impact on popularity. 
+- **All Features Model** | R-Squared= 0.38: Time passing (`date_number`) was a very important variable to have in the model as popularity Ratings rise dramatically over time as the account gets more fans and followers. 
 
 ![image](https://github.com/scelarek/scelarek.github.io/assets/115444760/00a1a5f8-7b97-4417-9542-f67e1a660f92)
 
+In conclusion, comedic features drive the more engagement than aesthetic ones, however this model only weeakly explains the variance in popularity meaning there is likely other latent (unmeasured) factors which contribute to popularity rating. 
 
 <div align="center">
 
@@ -78,7 +80,7 @@ Sam Celarek
 
 ## 💡 Other Resources
 
-- **[Link to the Jupyter Notebook](#)**
-- **[Link to the full dataset](#)**
+- **[Link to the Jupyter Notebook]()**
+- **[Link to the full dataset]()**
 - **[Twitter API documentation](https://developer.twitter.com/en/docs)**
 
