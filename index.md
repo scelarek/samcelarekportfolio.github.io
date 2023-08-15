@@ -24,7 +24,7 @@
 
 ---
 
-## Data Science | [Pupularity Contest](/pages/twitter.md)
+## Data Science | [Puppularity Contest](/pages/twitter.md)
 <p align="center" style="font-size: 0.8em;"> Web Scraping &bull; APIs &bull; Regression &bull; Classification </p>
 
 <div align="center" style="background-color: #E0E0E0; padding: 20px; border-radius: 10px; margin: 10px 0; font-weight: bold;">
