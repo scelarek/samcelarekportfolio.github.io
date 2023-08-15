@@ -1,7 +1,7 @@
 
 <div align="center">
 
-# Pupularity Contest
+<h1>Pupularity Contest</h1>
 
 </div>
 
