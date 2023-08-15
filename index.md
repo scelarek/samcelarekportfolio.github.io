@@ -2,7 +2,11 @@
 
 ---
 
-## Data Science | Time Series Forecasting, Hyperparameter Tuning | [COVIDCast](/pages/covid.md) 
+## [Data Science | COVIDCast](/pages/covid.md)
+<center>Time Series Forecasting • Hyperparameter Tuning</center>
+
+<h2><a href="/pages/covid.md">Data Science | COVIDCast</a></h2>
+<p align="center">Time Series Forecasting &bull; Hyperparameter Tuning</p>
 
 <div align="center" style="background-color: #E0E0E0; padding: 20px; border-radius: 10px; margin: 10px 0; font-weight: bold;">
 "Like a weather forecast for pandemics, COVIDCast leverages state-of-the-art machine learning and epidemiological models to deliver precise outbreak predictions."
