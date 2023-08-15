@@ -24,7 +24,7 @@
 
 ---
 
-## Data Science | [Pupularity Contest Factors](https://github.com/scelarek/Data-Analysis-Projects/blob/a1f50a33c893b5dbeec4ae5739eff319f8f61a1c/Twitter%20Humor%20vs%20Cuteness/Twitter_Wrangle.ipynb)
+## Data Science | [Pupularity Contest](https://github.com/scelarek/Data-Analysis-Projects/blob/a1f50a33c893b5dbeec4ae5739eff319f8f61a1c/Twitter%20Humor%20vs%20Cuteness/Twitter_Wrangle.ipynb)
 <p align="center" style="font-size: 0.8em;"> Web Scraping &bull; APIs &bull; Regression &bull; Classification </p>
 
 <div align="center" style="background-color: #E0E0E0; padding: 20px; border-radius: 10px; margin: 10px 0; font-weight: bold;">
@@ -57,11 +57,11 @@
 
 ---
 
-## Data Science | [Useful Templates and ML Guides](https://github.com/scelarek/Reference_Notebooks)
+## Data Science | [DS Templates and ML Guides](https://github.com/scelarek/Reference_Notebooks)
 <p align="center" style="font-size: 0.8em;"> Regression &bull; Classification &bull; Clustering &bull; Pipelines &bull; Grid Search </p>
 
 <div align="center" style="background-color: #E0E0E0; padding: 20px; border-radius: 10px; margin: 10px 0; font-weight: bold;">
-"How might we pipelines to swiftly implement grid searching across various regression, classification, and clustering models?"
+"How might we use pipelines to swiftly implement grid searching across various regression, classification, and clustering models?"
 </div>
 
 ![image](https://github.com/scelarek/scelarek.github.io/assets/115444760/c8cbf178-a154-4637-9aae-9f55a7204c6a)
