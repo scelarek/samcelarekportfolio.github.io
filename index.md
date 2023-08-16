@@ -3,7 +3,7 @@
 ---
 
 <div align="center">
-    <h2><a href="/pages/covid.html">COVIDCast</a></h2>
+    <h2><a href="/pages/covid.html">CovidCast: Predict to Protect</a></h2>
     <p style="font-size: 0.8em;">Time Series Forecasting &bull; Hyperparameter Tuning &bull; Feature Engineering &bull; Data Wrangling &bull; EDA</p>
     <div style="background-color: #E0E0E0; padding: 20px; border-radius: 10px; margin: 10px 0; font-weight: bold;">
         "Like a weather forecast for pandemics, COVIDCast leverages state-of-the-art machine learning and epidemiological models to deliver precise outbreak predictions."
@@ -14,7 +14,7 @@
 ---
 
 <div align="center">
-    <h2><a href="/pages/sidebard.html">SideBard with Google</a></h2>
+    <h2><a href="/pages/sidebard.html">SideBard for Google</a></h2>
     <p style="font-size: 0.8em;">Retrieval Augmented AI Text Generation &bull; LLMs &bull; Interdisciplinary Team</p>
     <div style="background-color: #E0E0E0; padding: 20px; border-radius: 10px; margin: 10px 0; font-weight: bold;">
         "How might we educate users of new AI-related features becoming a part of a product, while maintaining user trust and avoiding misunderstandings about AI?"
@@ -24,7 +24,7 @@
 <hr>
 
 <div align="center">
-    <h2><a href="/pages/twitter.html">Twitter API: Puppularity Contest</a></h2>
+    <h2><a href="/pages/twitter.html">Puppularity Contest</a></h2>
     <p style="font-size: 0.8em;">Web Scraping &bull; API &bull; Regression &bull; Classification</p>
     <div style="background-color: #E0E0E0; padding: 20px; border-radius: 10px; margin: 10px 0; font-weight: bold;">
         "How might use machine learning to identify the factors that drive engagement for a popular Twitter account dedicated to comedic dog pictures and ratings?"
@@ -107,7 +107,7 @@
 <hr>
 
 <div align="center">
-    <h2><a href="https://github.com/scelarek/Universal_Code_Bank/blob/94e8e404cd99acc7345d52829b70551024453c0e/Brain%20Station/Project0b,%20BIXI%20Tableau%20Dashboard/BIXI%202%20Sam_Celarek%20(4).pdf">Making a Biker's Paradise</a></h2>
+    <h2><a href="https://github.com/scelarek/Universal_Code_Bank/blob/94e8e404cd99acc7345d52829b70551024453c0e/Brain%20Station/Project0b,%20BIXI%20Tableau%20Dashboard/BIXI%202%20Sam_Celarek%20(4).pdf">BIXI: Making a Biker's Paradise</a></h2>
     <p style="font-size: 0.8em;">SQL &bull; Tableau &bull; Dashboards</p>
     <div style="background-color: #E0E0E0; padding: 20px; border-radius: 10px; margin: 10px 0; font-weight: bold;">
         "How might we use SQL and tableau to explore BIXI bike trends to enhance urban mobility in Montreal Canada?"
