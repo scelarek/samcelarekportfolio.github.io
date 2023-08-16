@@ -1,4 +1,4 @@
-<h1>Data Science Portfolio</h1>
+# **Data Science Portfolio**
 
 ---
 
@@ -74,7 +74,7 @@
 <hr>
 
 <div align="center">
-    <h2><a href="https://github.com/scelarek/Reference_Notebooks">DS Templates and ML Guides</a></h2>
+    <h2><a href="/pages/reference.html">DS Templates and ML Guides</a></h2>
     <p style="font-size: 0.8em;">Regression &bull; Classification &bull; Clustering &bull; Pipelines &bull; Grid Search</p>
     <div style="background-color: #E0E0E0; padding: 20px; border-radius: 10px; margin: 10px 0; font-weight: bold;">
         "How might we use pipelines to swiftly implement grid searching across various regression, classification, and clustering models?"
@@ -83,7 +83,7 @@
 </div>
 <hr>
 
-<h1>Data Analysis Portfolio</h1>
+# **Data Analysis Portfolio**
 <hr>
 
 <div align="center">
