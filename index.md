@@ -3,7 +3,7 @@
 ---
 
 <div align="center">
-    <h2><a href="/pages/covid.md">COVIDCast</a></h2>
+    <h2><a href="/pages/covid.html">COVIDCast</a></h2>
     <p style="font-size: 0.8em;">Time Series Forecasting &bull; Hyperparameter Tuning &bull; Feature Engineering &bull; Data Wrangling &bull; EDA</p>
     <div style="background-color: #E0E0E0; padding: 20px; border-radius: 10px; margin: 10px 0; font-weight: bold;">
         "Like a weather forecast for pandemics, COVIDCast leverages state-of-the-art machine learning and epidemiological models to deliver precise outbreak predictions."
@@ -14,7 +14,7 @@
 ---
 
 <div align="center">
-    <h2><a href="/pages/sidebard.md">SideBard with Google</a></h2>
+    <h2><a href="/pages/sidebard.html">SideBard with Google</a></h2>
     <p style="font-size: 0.8em;">Retrieval Augmented AI Text Generation &bull; LLMs &bull; Interdisciplinary Team</p>
     <div style="background-color: #E0E0E0; padding: 20px; border-radius: 10px; margin: 10px 0; font-weight: bold;">
         "How might we educate users of new AI-related features becoming a part of a product, while maintaining user trust and avoiding misunderstandings about AI?"
@@ -24,7 +24,7 @@
 <hr>
 
 <div align="center">
-    <h2><a href="/pages/twitter.md">Twitter API: Puppularity Contest</a></h2>
+    <h2><a href="/pages/twitter.html">Twitter API: Puppularity Contest</a></h2>
     <p style="font-size: 0.8em;">Web Scraping &bull; API &bull; Regression &bull; Classification</p>
     <div style="background-color: #E0E0E0; padding: 20px; border-radius: 10px; margin: 10px 0; font-weight: bold;">
         "How might use machine learning to identify the factors that drive engagement for a popular Twitter account dedicated to comedic dog pictures and ratings?"
@@ -87,7 +87,7 @@
 <hr>
 
 <div align="center">
-    <h2><a href="pages/eternal.md">Eternal Growth, Immortal Inequality</a></h2>
+    <h2><a href="pages/eternal.html">Eternal Growth, Immortal Inequality</a></h2>
     <p style="font-size: 0.8em;">Data Wrangling &bull; EDA &bull; Correlation Analysis</p>
     <div style="background-color: #E0E0E0; padding: 20px; border-radius: 10px; margin: 10px 0; font-weight: bold;">
         "How might we use descriptive statistics to explore the relationship between a country's wealth and inequality with its levels of happiness, safety, and freedom?"
@@ -97,7 +97,7 @@
 <hr>
 
 <div align="center">
-    <h2><a href="/pages/global.md">Local vs Global Warming</a></h2>
+    <h2><a href="/pages/global.html">Local vs Global Warming</a></h2>
     <p style="font-size: 0.8em;">SQL &bull; EDA &bull; Trend Analysis</p>
     <div style="background-color: #E0E0E0; padding: 20px; border-radius: 10px; margin: 10px 0; font-weight: bold;">
         "How might we use descriptive statistics to compare the divergence of local city temperatures, such as Portland, from global temperature trends?"
