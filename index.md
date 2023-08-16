@@ -1,4 +1,4 @@
-# Data Science Portfolio
+<h1>Data Science Portfolio</h1>
 
 ---
 
@@ -63,8 +63,6 @@
 </div>
 <hr>
 
-Certainly! Here's the content you provided converted into HTML:
-
 <div align="center">
     <h2><a href="https://github.com/scelarek/Universal_Code_Bank/blob/b3f1ec2bd331d6fa944b089931168a2b35f5c56a/Brain%20Station/Project2,%20Mosquitos%20pt2/Samuel_Celarek_Stats_Part2.ipynb">West Nile Watch</a></h2>
     <p style="font-size: 0.8em;">Feature Engineering &bull; Data Wrangling &bull; EDA &bull; Hypothesis Testing</p>
@@ -117,7 +115,5 @@ Certainly! Here's the content you provided converted into HTML:
     <img src="https://github.com/scelarek/scelarek.github.io/assets/115444760/f1b0d7c0-9346-4f77-8f79-ac0308aa17d5" alt="Biker's Paradise Image">
 </div>
 <hr>
-
-Each section is converted into an HTML block separated by horizontal rules (`<hr>`). Each block includes a title, description, key points, and an image.
 
 <p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
