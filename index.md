@@ -1,8 +1,8 @@
-# Portfolio
+# Data Science Portfolio
 
 ---
 
-## Data Science | [COVIDCast](/pages/covid.md)
+## [COVIDCast](/pages/covid.md)
 <p align="center" style="font-size: 0.8em;"> Time Series Forecasting &bull; Hyperparameter Tuning &bull; Feature Engineering &bull; Data Wrangling &bull; EDA </p>
 
 <div align="center" style="background-color: #E0E0E0; padding: 20px; border-radius: 10px; margin: 10px 0; font-weight: bold;">
@@ -13,7 +13,7 @@
 
 ---
 
-## Data Science | [SideBard](/pages/sidebard.md)
+## [SideBard](/pages/sidebard.md)
 <p align="center" style="font-size: 0.8em;"> Retrieval Augmented AI Text Generation &bull; LLMs &bull; Interdisciplinary Team </p>
 
 <div align="center" style="background-color: #E0E0E0; padding: 20px; border-radius: 10px; margin: 10px 0; font-weight: bold;">
@@ -24,7 +24,7 @@
 
 ---
 
-## Data Science | [Puppularity Contest](/pages/twitter.md)
+## [Twiiter API: Puppularity Contest](/pages/twitter.md)
 <p align="center" style="font-size: 0.8em;"> Web Scraping &bull; APIs &bull; Regression &bull; Classification </p>
 
 <div align="center" style="background-color: #E0E0E0; padding: 20px; border-radius: 10px; margin: 10px 0; font-weight: bold;">
@@ -35,18 +35,7 @@
 
 ---
 
-## Data Science | [DS Templates and ML Guides](https://github.com/scelarek/Reference_Notebooks)
-<p align="center" style="font-size: 0.8em;"> Regression &bull; Classification &bull; Clustering &bull; Pipelines &bull; Grid Search </p>
-
-<div align="center" style="background-color: #E0E0E0; padding: 20px; border-radius: 10px; margin: 10px 0; font-weight: bold;">
-"How might we use pipelines to swiftly implement grid searching across various regression, classification, and clustering models?"
-</div>
-
-![image](https://github.com/scelarek/scelarek.github.io/assets/115444760/c8cbf178-a154-4637-9aae-9f55a7204c6a)
-
----
-
-## Data Science | [Data in the Clouds](https://github.com/scelarek/Universal_Code_Bank/blob/b2bde9a2218f95a6854e377f2b3e04626efbf89e/Brain%20Station/Project5,%20Google%20Engrams%20pt1/Google%20Engrams%20Report.ipynb)
+## [Google Engrams: Data in the Clouds](https://github.com/scelarek/Universal_Code_Bank/blob/b2bde9a2218f95a6854e377f2b3e04626efbf89e/Brain%20Station/Project5,%20Google%20Engrams%20pt1/Google%20Engrams%20Report.ipynb)
 <p align="center" style="font-size: 0.8em;"> Hadoop &bull; AWS &bull; PySpark &bull; EDA </p>
 
 <div align="center" style="background-color: #E0E0E0; padding: 20px; border-radius: 10px; margin: 10px 0; font-weight: bold;">
@@ -57,7 +46,7 @@
 
 --- 
 
-## Data Science | [The Business Behind Dreams](https://github.com/scelarek/Universal_Code_Bank/blob/74bb8312a2477d66d72fc31ed31fda4c12c73458/Final%20Projects/Kickstarter/Kickstarter%20Final%20Project.ipynb)
+## [Kickstarter: The Business Behind Dreams](https://github.com/scelarek/Universal_Code_Bank/blob/74bb8312a2477d66d72fc31ed31fda4c12c73458/Final%20Projects/Kickstarter/Kickstarter%20Final%20Project.ipynb)
 <p align="center" style="font-size: 0.8em;"> SQL &bull; Data Wrangling &bull; EDA &bull; Classification </p>
 
 <div align="center" style="background-color: #E0E0E0; padding: 20px; border-radius: 10px; margin: 10px 0; font-weight: bold;">
@@ -68,7 +57,7 @@
 
 ---
 
-## Data Science | [WordWise: Predicting Hotel Ratings from Reviews](https://github.com/scelarek/Universal_Code_Bank/blob/ba2c5ddc45c883327a8ec4a5fd281be15735d904/Brain%20Station/Project4,%20NLP%20With%20Hotel%20pt2/NLP%20Hotel%20pt2.ipynb)
+## [Predicting Hotel Ratings from Reviews](https://github.com/scelarek/Universal_Code_Bank/blob/ba2c5ddc45c883327a8ec4a5fd281be15735d904/Brain%20Station/Project4,%20NLP%20With%20Hotel%20pt2/NLP%20Hotel%20pt2.ipynb)
 <p align="center" style="font-size: 0.8em;"> Feature Engineering &bull; Classification &bull; NLP &bull; Hyperparameter Tuning </p>
 
 <div align="center" style="background-color: #E0E0E0; padding: 20px; border-radius: 10px; margin: 10px 0; font-weight: bold;">
@@ -79,7 +68,7 @@
 
 ---
 
-## Data Science | [Nile Watch](https://github.com/scelarek/Universal_Code_Bank/blob/b3f1ec2bd331d6fa944b089931168a2b35f5c56a/Brain%20Station/Project2,%20Mosquitos%20pt2/Samuel_Celarek_Stats_Part2.ipynb)
+## [West Nile Watch](https://github.com/scelarek/Universal_Code_Bank/blob/b3f1ec2bd331d6fa944b089931168a2b35f5c56a/Brain%20Station/Project2,%20Mosquitos%20pt2/Samuel_Celarek_Stats_Part2.ipynb)
 <p align="center" style="font-size: 0.8em;"> Feature Engineering &bull; Data Wrangling &bull; EDA &bull; Hypothesis Testing </p>
 
 <div align="center" style="background-color: #E0E0E0; padding: 20px; border-radius: 10px; margin: 10px 0; font-weight: bold;">
@@ -90,7 +79,21 @@
 
 ---
 
-## Data Analysis | [Eternal Growth, Immortal Inequality](pages/eternal.md)
+## [DS Templates and ML Guides](https://github.com/scelarek/Reference_Notebooks)
+<p align="center" style="font-size: 0.8em;"> Regression &bull; Classification &bull; Clustering &bull; Pipelines &bull; Grid Search </p>
+
+<div align="center" style="background-color: #E0E0E0; padding: 20px; border-radius: 10px; margin: 10px 0; font-weight: bold;">
+"How might we use pipelines to swiftly implement grid searching across various regression, classification, and clustering models?"
+</div>
+
+![image](https://github.com/scelarek/scelarek.github.io/assets/115444760/c8cbf178-a154-4637-9aae-9f55a7204c6a)
+
+---
+
+# Data Analysis Portfolio
+
+---
+## [Eternal Growth, Immortal Inequality](pages/eternal.md)
 <p align="center" style="font-size: 0.8em;"> Data Wrangling &bull; EDA &bull; Correlation Analysis </p>
 
 <div align="center" style="background-color: #E0E0E0; padding: 20px; border-radius: 10px; margin: 10px 0; font-weight: bold;">
@@ -101,7 +104,7 @@
 
 ---
 
-## Data Analysis | [Local vs Global Warming](/pages/global.md)
+## [Local vs Global Warming](/pages/global.md)
 <p align="center" style="font-size: 0.8em;"> SQL &bull; EDA &bull; Trend Analysis </p>
 
 <div align="center" style="background-color: #E0E0E0; padding: 20px; border-radius: 10px; margin: 10px 0; font-weight: bold;">
@@ -112,7 +115,7 @@
 
 ---
 
-## Data Analysis | [Making a Biker's Paradise](https://github.com/scelarek/Universal_Code_Bank/blob/94e8e404cd99acc7345d52829b70551024453c0e/Brain%20Station/Project0b,%20BIXI%20Tableau%20Dashboard/BIXI%202%20Sam_Celarek%20(4).pdf)
+## [Making a Biker's Paradise](https://github.com/scelarek/Universal_Code_Bank/blob/94e8e404cd99acc7345d52829b70551024453c0e/Brain%20Station/Project0b,%20BIXI%20Tableau%20Dashboard/BIXI%202%20Sam_Celarek%20(4).pdf)
 <p align="center" style="font-size: 0.8em;"> SQL &bull; Tableau &bull; Dashboards </p>
 
 <div align="center" style="background-color: #E0E0E0; padding: 20px; border-radius: 10px; margin: 10px 0; font-weight: bold;">
