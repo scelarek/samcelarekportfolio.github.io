@@ -1,4 +1,3 @@
-
 <div align="center">
 
 <h1>Puppularity Contest</h1>
