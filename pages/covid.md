@@ -1,4 +1,5 @@
 <div align="center">
+
 <h1><a href="https://github.com/scelarek/Covid-Prediction-Capstone/blob/main/Presentations/COVID%20Cast%20Final%20Presentation.pdf">CovidCast: Predict to Protect</a></h1>
 
 <img src="https://github.com/scelarek/BrainStation_Capstone/blob/main/Presentations/Logo%20CovidCast.png?raw=true" title="CovidCast" alt="CovidCast" width="150" height="150">
