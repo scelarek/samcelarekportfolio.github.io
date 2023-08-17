@@ -2,7 +2,7 @@
 
 <h1>Predicting Hotel Ratings from Reviews</h1>
 
-<img align="center" src="https://github.com/scelarek/scelarek.github.io/assets/115444760/e20d42d0-6840-4e63-92a1-4afe715167c8" title="Making a Biker’s Paradise" alt="Making a Biker’s Paradise" width="150" height="150"> 
+<img align="center" src="https://github.com/scelarek/scelarek.github.io/assets/115444760/39f3a245-5a24-4659-ab92-be0d98c6aacd" title="Making a Biker’s Paradise" alt="Making a Biker’s Paradise" width="150" height="150"> 
 
 <h2><strong>By Sam Celarek</strong></h2>
 </div>
