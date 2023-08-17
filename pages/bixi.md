@@ -35,7 +35,7 @@ Sam Celarek
 
 ---
 
-## 💡 Other Resources
+## 💡 Links to Resources (Request Only)
 
 - **[SQL Script](https://drive.google.com/open?id=1UYj3WJR1TK70u9FoTBhu8uzqVxYqwH6g&usp=drive_copy)**
 - **[Business Report SQL](https://drive.google.com/open?id=1FN7VXW1BpQ2HYhGS7HGnza3vmk9cfGBH&usp=drive_copy)**
