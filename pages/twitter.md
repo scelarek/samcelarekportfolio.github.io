@@ -79,6 +79,7 @@ Sam Celarek
 
 ## 💡 Other Resources
 
+- **[Full Github Repository](https://github.com/scelarek/Puppularity-Contest)**
 - **[Link to the Jupyter Wrangling Notebook](https://github.com/scelarek/Puppularity-Contest/blob/main/Twitter_Wrangle.ipynb)**
 - **[Link to the Final Report dataset](https://github.com/scelarek/Puppularity-Contest/blob/main/Twitter_Insights.ipynb)**
 - **[Link to the master dataset](https://github.com/scelarek/Puppularity-Contest/blob/main/Data/twitter_archive_master.csv)**
