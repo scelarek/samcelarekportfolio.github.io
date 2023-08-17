@@ -48,5 +48,5 @@ Sam Celarek
 
 ## 💡 Links to Resources (Request Only)
 
-- **[West Nile Watch Jupyter Notebook: EDA](https://drive.google.com/open?id=1Y17ra3ti-s_bT8MnTPyl_FzToIm_NEGN&usp=drive_copy)**
-- **[West Nile Watch Jupyter Notebook: Hypothesis Testing](https://drive.google.com/open?id=1PQr72AvP84oFA98S7TE2F3PYEBcht81O&usp=drive_copy)**
+- **[West Nile Watch: Jupyter Notebook: EDA](https://drive.google.com/open?id=1Y17ra3ti-s_bT8MnTPyl_FzToIm_NEGN&usp=drive_copy)**
+- **[West Nile Watch: Jupyter Notebook: Hypothesis Testing](https://drive.google.com/open?id=1PQr72AvP84oFA98S7TE2F3PYEBcht81O&usp=drive_copy)**
