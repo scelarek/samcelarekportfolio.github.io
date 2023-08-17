@@ -39,6 +39,8 @@ The modeling phase was marked by the application of advanced classification algo
 
 The project outcomes underscore the power of NLP in extracting meaningful insights from textual data. By successfully predicting hotel ratings with high accuracy, this project demonstrates the potential of machine learning in the hospitality domain, offering hotels actionable insights to enhance guest experiences.
 
+<img src="https://github.com/scelarek/scelarek.github.io/assets/115444760/0db26b37-9d89-49d1-9900-0fe648e8215b" alt="Hotel Reviews Image">
+
 <div align="center">
 
 For further insights or collaborations, please connect via this GitHub repository or at scelarek@gmail.com.
