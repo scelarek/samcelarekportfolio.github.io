@@ -2,10 +2,11 @@
 
 <h1>Google Engrams: Data in the Clouds</h1>
 
-<img align="center" src="https://github.com/scelarek/scelarek.github.io/assets/115444760/e20d42d0-6840-4e63-92a1-4afe715167c8" title="Google Engrams: Data in the Clouds" alt="Google Engrams: Data in the Clouds" width="150" height="150"> 
+<img align="center" src="https://github.com/scelarek/scelarek.github.io/assets/115444760/3c322d29-3c12-48c8-94ec-f94aefbdc1c6" title="Google Engrams: Data in the Clouds" alt="Google Engrams: Data in the Clouds" width="150" height="150"> 
 
 <h2><strong>By Sam Celarek</strong></h2>
 </div>
+
 
 <div align="center" style="background-color: #CCCCD6; padding: 15px; border-radius: 10px;">
 "How might we use distributed computation to determine the frequency of the word 'data' in Google's corpus of books spanning the last two centuries?"
@@ -46,9 +47,7 @@ Sam Celarek
 
 ---
 
-## 💡 Other Resources
+## 💡 Other Resources (Request Only)
 
-- **[Full Github Repository](https://github.com/scelarek/Google-Engrams-Data-in-the-Clouds)**
-- **[Cloud Accessing PDF](/Google_pt1_Cloud_Accessing.pdf)**
-- **[PySpark Notebook](/Google_pt2_PySpark.pdf)**
-
+- **[Cloud Accessing PDF](https://drive.google.com/open?id=1jIwBjTqvK-9eIx_4G-Z6zintvgG4AOtn&usp=drive_copy)**
+- **[PySpark Notebook](https://drive.google.com/open?id=1DZz80i-wWcKl6-LmogkRd7I5NpsL628u&usp=drive_copy)**
