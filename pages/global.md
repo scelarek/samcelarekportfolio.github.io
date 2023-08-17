@@ -52,6 +52,7 @@ Sam Celarek
 
 ## 💡 Other Resources
 
+- **[Full Github Repository](https://github.com/scelarek/Global-vs-Local-Temps)**
 - **[Jupyter Notebook](https://github.com/scelarek/Global-vs-Local-Temps/blob/main/global_weather.ipynb)**
 - **[Final Report](https://github.com/scelarek/Global-vs-Local-Temps/blob/main/Analying%20Yearly%20Average%20Temperature%20-%20Sam%20Celarek.docx.pdf)**
 - **[Datasets](https://github.com/scelarek/Global-vs-Local-Temps/tree/main/Data)**
