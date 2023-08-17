@@ -34,7 +34,7 @@
 <hr>
 
 <div align="center">
-    <h2><a href="https://github.com/scelarek/Universal_Code_Bank/blob/b2bde9a2218f95a6854e377f2b3e04626efbf89e/Brain%20Station/Project5,%20Google%20Engrams%20pt1/Google%20Engrams%20Report.ipynb">Google Engrams: Data in the Clouds</a></h2>
+    <h2><a href="/pages/google.html">Google Engrams: Data in the Clouds</a></h2>
     <p style="font-size: 0.8em;">Hadoop &bull; AWS &bull; PySpark &bull; EDA</p>
     <div style="background-color: #E0E0E0; padding: 20px; border-radius: 10px; margin: 10px 0; font-weight: bold;">
         "Utilized the power of Hadoop, AWS, and PySpark on 260+ million entries in Google's corpus of books to analyze the frequency of the word 'data' over the past five hundred years."
@@ -44,7 +44,7 @@
 <hr>
 
 <div align="center">
-    <h2><a href="https://github.com/scelarek/Universal_Code_Bank/blob/74bb8312a2477d66d72fc31ed31fda4c12c73458/Final%20Projects/Kickstarter/Kickstarter%20Final%20Project.ipynb">Kickstarter: The Business Behind Dreams</a></h2>
+    <h2><a href="/pages/kickstart.html">Kickstarter: The Business Behind Dreams</a></h2>
     <p style="font-size: 0.8em;">SQL &bull; Data Wrangling &bull; EDA &bull; Classification</p>
     <div style="background-color: #E0E0E0; padding: 20px; border-radius: 10px; margin: 10px 0; font-weight: bold;">
         "Crafted a thorough business report using SQL, EDA, and classification models on 150,000+ entries to set viable fundraising targets for a tabletop board game campaign on Kickstarter."
@@ -54,7 +54,7 @@
 <hr>
 
 <div align="center">
-    <h2><a href="https://github.com/scelarek/Universal_Code_Bank/blob/ba2c5ddc45c883327a8ec4a5fd281be15735d904/Brain%20Station/Project4,%20NLP%20With%20Hotel%20pt2/NLP%20Hotel%20pt2.ipynb">Predicting Hotel Ratings from Reviews</a></h2>
+    <h2><a href="/pages/hotel.html">Predicting Hotel Ratings from Reviews</a></h2>
     <p style="font-size: 0.8em;">Feature Engineering &bull; Classification &bull; NLP &bull; Hyperparameter Tuning</p>
     <div style="background-color: #E0E0E0; padding: 20px; border-radius: 10px; margin: 10px 0; font-weight: bold;">
         "Applied data preprocessing, feature engineering, NLP, and hyperparameter tuned classification models on 500,000+ hotel reviews to predict positive ratings at an accuracy of 78.4%."
@@ -64,7 +64,7 @@
 <hr>
 
 <div align="center">
-    <h2><a href="https://github.com/scelarek/Universal_Code_Bank/blob/b3f1ec2bd331d6fa944b089931168a2b35f5c56a/Brain%20Station/Project2,%20Mosquitos%20pt2/Samuel_Celarek_Stats_Part2.ipynb">West Nile Watch</a></h2>
+    <h2><a href="/pages/wnv.html">West Nile Watch</a></h2>
     <p style="font-size: 0.8em;">Feature Engineering &bull; Data Wrangling &bull; EDA &bull; Hypothesis Testing</p>
     <div style="background-color: #E0E0E0; padding: 20px; border-radius: 10px; margin: 10px 0; font-weight: bold;">
         "Deployed hypothesis tests and classification models on 18,000+ entries to pinpoint West Nile Virus hotspots and high-risk species to guide community health interventions."
@@ -107,7 +107,7 @@
 <hr>
 
 <div align="center">
-    <h2><a href="https://github.com/scelarek/Universal_Code_Bank/blob/94e8e404cd99acc7345d52829b70551024453c0e/Brain%20Station/Project0b,%20BIXI%20Tableau%20Dashboard/BIXI%202%20Sam_Celarek%20(4).pdf">BIXI: Making a Biker's Paradise</a></h2>
+    <h2><a href="/pages/bixi.html">BIXI: Making a Biker's Paradise</a></h2>
     <p style="font-size: 0.8em;">SQL &bull; Tableau &bull; Dashboards</p>
     <div style="background-color: #E0E0E0; padding: 20px; border-radius: 10px; margin: 10px 0; font-weight: bold;">
         "Deployed SQL with Tableau to craft an EDA dashboard and strategic report on BIXI bike usage from 500,000+ entries to enhance urban mobility in Montreal Canada."
