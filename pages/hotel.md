@@ -54,6 +54,6 @@ Sam Celarek
 
 ## 💡 Links to Resources (Request Only)
 
-- **[Jupyter Notebook - Data Cleaning](https://drive.google.com/open?id=1t7dimSdQPDU3SrGy3FITCh0j6LzQ6-gz&usp=drive_copy)**
-- **[Jupyter Notebook - Preprocessing with NLP](https://drive.google.com/open?id=1z8XND87wFi7f5F4gOOEtLNVrn5qpzjAM&usp=drive_copy)**
-- **[Jupyter Notebook - Hyperparameter Tuning](https://drive.google.com/open?id=1z8XND87wFi7f5F4gOOEtLNVrn5qpzjAM&usp=drive_copy)**
+- **[Hotel Predicting Ratings: Jupyter Notebook - Data Cleaning](https://drive.google.com/open?id=1t7dimSdQPDU3SrGy3FITCh0j6LzQ6-gz&usp=drive_copy)**
+- **[Hotel Predicting Ratings: Jupyter Notebook - Preprocessing with NLP](https://drive.google.com/open?id=1z8XND87wFi7f5F4gOOEtLNVrn5qpzjAM&usp=drive_copy)**
+- **[Hotel Predicting Ratings: Jupyter Notebook - Hyperparameter Tuning](https://drive.google.com/open?id=1z8XND87wFi7f5F4gOOEtLNVrn5qpzjAM&usp=drive_copy)**
