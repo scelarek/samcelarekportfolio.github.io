@@ -44,12 +44,10 @@ Sam Celarek
 
 ---
 
-## 💡 Other Resources
+## 💡 Links to Resources (Request Only)
 
-- **[Full Github Repository](https://github.com/scelarek/Kickstarter-Business-Behind-Dreams)**
-- **[Jupyter Notebook - Report](/Kickstarter_pt4_Report.ipynb)**
-- **[SQL Scripts](/Kickstarter_pt1_sql_scripts.sql)**
-- **[Jupyter Notebook - Wrangling](/Kickstarter_pt2_Wrangling.ipynb)**
-- **[Jupyter Notebook - EDA](/Kickstarter_pt3_EDA.ipynb)**
+- **[The Business Behind Dreams: Business Report](https://drive.google.com/open?id=1wF5kde2OUPQIquqWhPfbXPRkpnv4pjSX&usp=drive_copy)**
+- **[The Business Behind Dreams: SQL Scripts](https://drive.google.com/open?id=15O8QJrhE-DSJjlw9QVx7vrWkMQWrdUrp&usp=drive_copy)**
+- **[The Business Behind Dreams: Jupyter Notebook - Wrangling](https://drive.google.com/open?id=1tN93oh5z59BO6ZzLP24g81WglCXnbIFF&usp=drive_copy)**
+- **[The Business Behind Dreams: Jupyter Notebook - EDA](https://drive.google.com/open?id=1f0KIgjeCOhSxEX5IPxqLnvh29Hh9p0rW&usp=drive_copy)**
 - **[Data Source: Kickstarter](https://www.kickstarter.com)**
-
