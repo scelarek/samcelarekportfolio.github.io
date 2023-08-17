@@ -29,7 +29,10 @@ Features were engineered to provide insights into the frequency of West Nile Vir
 
 ## 📶 Exploratory Data Analysis (EDA)
 
-Visualizations were crafted using libraries such as Matplotlib, Seaborn, Plotly, and Bokeh to identify patterns and trends. The main focus was on determining the spread of the virus over time and the mosquito species most associated with the virus.
+Visualizations were crafted using libraries such as Matplotlib, and Seaborn to identify patterns and trends. The main focus was on determining the spread of the virus over time, zipcodes with the highest prevalence, and the mosquito species most associated with the virus. Below is a visual mapping out the areas with the highest WNV prevalence by zipcode.
+
+<img src="https://github.com/scelarek/scelarek.github.io/assets/115444760/dc1b5c27-eb6e-4f07-ac60-39734d601556" alt="West Nile Watch Image">
+
 
 ## 📈 Analysis
 
