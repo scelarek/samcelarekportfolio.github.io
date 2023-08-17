@@ -31,6 +31,8 @@ EDA was performed using various data visualization techniques to understand the 
 ## 📈 Analysis
 Machine learning models were employed to predict the feasibility of fundraising goals, providing valuable insights for tabletop board game campaigns.
 
+<img src="https://github.com/scelarek/scelarek.github.io/assets/115444760/a07d8ef9-987d-45d5-8542-be7dbeee4a59" alt="Kickstarter Image">
+
 Thank you for your interest in **Kickstarter: The Business Behind Dreams**. For any further inquiries or insights, please feel free to reach out through this GitHub repository or at scelarek@gmail.com.
 
 <div align="center">
