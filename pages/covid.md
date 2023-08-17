@@ -15,7 +15,7 @@ to deliver precise outbreak predictions."
 
 ---
 
-## 🎯 Project Overview
+## 🎯 [Project Overview](https://github.com/scelarek/CovidCast)
 
 During COVID 19, the unknown course of the pandemic is almost as deadly as the virus itself. **COVIDCast** aims to address this problem by **Predicting to Protect**. To do this, COVIDCast utlizes the expert knowledge of epidemiological models and the forecasting power of times series models to predict the next 14 days of new COVID cases and protect governments, hospitals, and people from the coming storm. 
 
@@ -116,10 +116,12 @@ Thank you for your interest in **COVIDCast**. For further inquiries or insights,
 
   <h2>Other Resources</h2>
   <ul>
+      <li><a href="https://github.com/scelarek/CovidCast">Full Github Repository</a></li>
       <li><a href="https://github.com/scelarek/Covid-Prediction-Capstone/blob/main/Presentations/COVID%20Cast%20Final%20Presentation.pdf">Presentation of COVIDCast</a></li>
       <li><a href="https://github.com/scelarek/Covid-Prediction-Capstone/blob/main/Presentations/COVIDcast_%20Predicting%20COVID%20Cases%20No%20Glasses%20Ad%20Lib%20(online-video-cutter.com).mp4">Video of Final Presentation</a></li>
       <li><a href="https://github.com/scelarek/Covid-Prediction-Capstone/blob/main/Presentations/COVID%20Preprocessing%20and%20EDA.pdf">Preprocessing and EDA Presentation</a></li>
       <li><a href="https://github.com/scelarek/Covid-Prediction-Capstone/blob/main/Capstone/capstone_functions.py">Functions and Libraries</a></li>
       <li><a href="https://github.com/scelarek/Covid-Prediction-Capstone/blob/main/Data/master_df.parquet">Main Clean Data File</a></li>
+
   </ul>
 </div>
