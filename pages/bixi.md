@@ -2,7 +2,7 @@
 
 <h1>Making a Biker’s Paradise</h1>
 
-<img align="center" src="https://github.com/scelarek/scelarek.github.io/assets/115444760/e20d42d0-6840-4e63-92a1-4afe715167c8" title="Making a Biker’s Paradise" alt="Making a Biker’s Paradise" width="150" height="150"> 
+<img align="center" src="https://github.com/scelarek/scelarek.github.io/assets/115444760/0a7a06a5-f29e-484f-8e79-5315b28a278a" title="Making a Biker’s Paradise" alt="Making a Biker’s Paradise" width="150" height="150"> 
 
 <h2><strong>By Sam Celarek</strong></h2>
 </div>
