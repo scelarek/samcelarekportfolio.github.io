@@ -88,6 +88,7 @@ Sam Celarek
 
 ## 💡 Other Resources
 
+- **[Full Github Repository](https://github.com/scelarek/Eternal-Growth-Immortal-Inequality)**
 - **[Jupyter Notebook](/eternal_growth_immortal_inequality.ipynb)**
 - **[PDF of Notebook](/Sam_Celarek_eternal_growth_immortal_inequality.pdf)**
 - **[Data Source: Gapminder](https://www.gapminder.org)**
