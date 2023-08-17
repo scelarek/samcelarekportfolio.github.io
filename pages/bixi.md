@@ -22,10 +22,7 @@ The primary dataset for this project is the BIXI bike dataset, which contains ov
 The EDA was primarily conducted using Tableau, which offered a rich visual platform for dissecting and understanding the data. Through various visualizations, I was able to discern peak bike usage times, popular stations, ride durations, and user trends. These insights can be instrumental in optimizing bike station placements, determining peak supply needs, and tailoring marketing strategies.
 
 ## 📈 Analysis
-Deployed SQL with Tableau to craft an EDA dashboard and strategic report on BIXI bike usage. Key findings from the analysis include:
-1. **User Patterns**: The majority of users are occasional riders, suggesting potential for marketing campaigns to convert them into regular users.
-2. **Ride Durations**: Most rides are short, indicating BIXI bikes are used for quick commutes rather than leisurely rides.
-3. **Station Insights**: Certain stations are hotspots for both pickups and returns, highlighting the need for higher bike availability at these locations.
+Deployed SQL with Tableau to craft an EDA dashboard and strategic report on BIXI bike usage. Key findings from the analysis include insights into usage patterns, year over year growth, monthly variation, ride duration variation, popular destinations, and different clusters of station usage. A number of business strategies such as dynamic pricing and partnerships along with targeted marketing campaigns to non-member riders were recommended from these observations. 
 
 Thank you for your interest in **Making a Biker’s Paradise**. If you wish to delve deeper into the analysis or have further inquiries, please explore the resources below or contact me at scelarek@gmail.com.
 
@@ -40,9 +37,8 @@ Sam Celarek
 
 ## 💡 Other Resources
 
-- **[Full Github Repository](https://github.com/scelarek/BIXI-Bikers-Paradise)**
-- **[SQL Script](/BIXI_pt1_SQL.sql)**
-- **[Business Report SQL](/BIXI_pt2_Business_Report_SQL.pdf)**
-- **[Tableau Workbook](/BIXI_pt3_Tableau_Notebook.twb)**
-- **[Business Report Tableau](/BIXI_pt4_Business_Report_Tableau.pdf)**
+- **[SQL Script](https://drive.google.com/open?id=1UYj3WJR1TK70u9FoTBhu8uzqVxYqwH6g&usp=drive_copy)**
+- **[Business Report SQL](https://drive.google.com/open?id=1FN7VXW1BpQ2HYhGS7HGnza3vmk9cfGBH&usp=drive_copy)**
+- **[Tableau Workbook](https://drive.google.com/open?id=1Xe0Qfpds1BaoRYznPKqvB2F35bEesUzX&usp=drive_copy)**
+- **[Business Report Tableau](https://drive.google.com/open?id=1en8iZDI2DK98OUHbRTS1XgipmrvW4qFj&usp=drive_copy)**
 
