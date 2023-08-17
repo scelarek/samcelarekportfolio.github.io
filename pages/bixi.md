@@ -37,8 +37,8 @@ Sam Celarek
 
 ## 💡 Links to Resources (Request Only)
 
-- **[SQL Script](https://drive.google.com/open?id=1UYj3WJR1TK70u9FoTBhu8uzqVxYqwH6g&usp=drive_copy)**
-- **[Business Report SQL](https://drive.google.com/open?id=1FN7VXW1BpQ2HYhGS7HGnza3vmk9cfGBH&usp=drive_copy)**
-- **[Tableau Workbook](https://drive.google.com/open?id=1Xe0Qfpds1BaoRYznPKqvB2F35bEesUzX&usp=drive_copy)**
-- **[Business Report Tableau](https://drive.google.com/open?id=1en8iZDI2DK98OUHbRTS1XgipmrvW4qFj&usp=drive_copy)**
+- **[Biker’s Paradise SQL Script](https://drive.google.com/open?id=1UYj3WJR1TK70u9FoTBhu8uzqVxYqwH6g&usp=drive_copy)**
+- **[Biker’s Paradise Business Report SQL](https://drive.google.com/open?id=1FN7VXW1BpQ2HYhGS7HGnza3vmk9cfGBH&usp=drive_copy)**
+- **[Biker’s Paradise Tableau Workbook](https://drive.google.com/open?id=1Xe0Qfpds1BaoRYznPKqvB2F35bEesUzX&usp=drive_copy)**
+- **[Biker’s Paradise Business Report Tableau](https://drive.google.com/open?id=1en8iZDI2DK98OUHbRTS1XgipmrvW4qFj&usp=drive_copy)**
 
