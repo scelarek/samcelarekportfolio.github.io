@@ -49,5 +49,5 @@ Sam Celarek
 
 ## 💡 Links to Resources (Request Only)
 
-- **[Cloud Accessing PDF](https://drive.google.com/open?id=1jIwBjTqvK-9eIx_4G-Z6zintvgG4AOtn&usp=drive_copy)**
-- **[PySpark Notebook](https://drive.google.com/open?id=1DZz80i-wWcKl6-LmogkRd7I5NpsL628u&usp=drive_copy)**
+- **[Data in the Clouds: Cloud Accessing PDF](https://drive.google.com/open?id=1jIwBjTqvK-9eIx_4G-Z6zintvgG4AOtn&usp=drive_copy)**
+- **[Data in the Clouds: PySpark Notebook](https://drive.google.com/open?id=1DZz80i-wWcKl6-LmogkRd7I5NpsL628u&usp=drive_copy)**
