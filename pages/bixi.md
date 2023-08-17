@@ -21,10 +21,13 @@ The primary dataset for this project is the BIXI bike dataset, which contains ov
 ## 📶 Exploratory Data Analysis (EDA)
 The EDA was primarily conducted using Tableau, which offered a rich visual platform for dissecting and understanding the data. Through various visualizations, I was able to discern peak bike usage times, popular stations, ride durations, and user trends. These insights can be instrumental in optimizing bike station placements, determining peak supply needs, and tailoring marketing strategies.
 
+<img src="https://github.com/scelarek/scelarek.github.io/assets/115444760/f1b0d7c0-9346-4f77-8f79-ac0308aa17d5" alt="Biker's Paradise Image">
+
 ## 📈 Analysis
 Deployed SQL with Tableau to craft an EDA dashboard and strategic report on BIXI bike usage. Key findings from the analysis include insights into usage patterns, year over year growth, monthly variation, ride duration variation, popular destinations, and different clusters of station usage. A number of business strategies such as dynamic pricing and partnerships along with targeted marketing campaigns to non-member riders were recommended from these observations. 
 
 Thank you for your interest in **Making a Biker’s Paradise**. If you wish to delve deeper into the analysis or have further inquiries, please explore the resources below or contact me at scelarek@gmail.com.
+
 
 <div align="center">
 
