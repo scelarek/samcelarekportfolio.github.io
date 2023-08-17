@@ -31,6 +31,8 @@ Given the enormity of the dataset and the specific focus on the word 'data', the
 ## 📶 Exploratory Data Analysis (EDA)
 
 Using PySpark's capabilities, the EDA phase involved plotting the frequency trend of the word 'data' over the past five hundred years. This revealed interesting insights about the word's historical significance and its growing importance in recent times.
+    
+<img src="https://github.com/scelarek/scelarek.github.io/assets/115444760/751e72f4-76bb-4628-b4bb-c07bcd602fe3" alt="Google Engrams Image">
 
 ## 📈 Analysis
 
