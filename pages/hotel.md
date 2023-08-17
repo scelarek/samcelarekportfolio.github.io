@@ -50,10 +50,8 @@ Sam Celarek
 
 ---
 
-## 💡 Other Resources
+## 💡 Links to Resources (Request Only)
 
-- **[Full Github Repository](https://github.com/scelarek/Hotel-Review-Prediction)**
-- **[Jupyter Notebook - Data Cleaning](/Hotel_pt1_Data_Cleaning.ipynb)**
-- **[Jupyter Notebook - Preprocessing with NLP](/Hotel_pt2_Preprocessing_with_NLP.ipynb)**
-- **[Jupyter Notebook - Hyperparameter Tuning](/Hotel_pt3_Hyperparameter_Tuning.ipynb)**
-
+- **[Jupyter Notebook - Data Cleaning](https://drive.google.com/open?id=1t7dimSdQPDU3SrGy3FITCh0j6LzQ6-gz&usp=drive_copy)**
+- **[Jupyter Notebook - Preprocessing with NLP](https://drive.google.com/open?id=1z8XND87wFi7f5F4gOOEtLNVrn5qpzjAM&usp=drive_copy)**
+- **[Jupyter Notebook - Hyperparameter Tuning](https://drive.google.com/open?id=1z8XND87wFi7f5F4gOOEtLNVrn5qpzjAM&usp=drive_copy)**
