@@ -4,7 +4,7 @@
 
 <div align="center">
     <h2><a href="/pages/covid.html">CovidCast: Predict to Protect</a></h2>
-    <p style="font-size: 0.8em;">Time Series Forecasting &bull; Hyperparameter Tuning &bull; Feature Engineering &bull; Data Wrangling &bull; EDA</p>
+    <p style="font-size: 0.95em;">Time Series Forecasting &bull; Hyperparameter Tuning &bull; Feature Engineering &bull; Data Wrangling &bull; EDA</p>
     <div style="background-color: #E0E0E0; padding: 20px; border-radius: 10px; margin: 10px 0; font-weight: bold;">
         "Like a weather forecast for pandemics, COVIDCast leverages state-of-the-art machine learning and epidemiological models to deliver precise outbreak predictions."
     </div>
@@ -15,9 +15,9 @@
 
 <div align="center">
     <h2><a href="/pages/sidebard.html">SideBard for Google</a></h2>
-    <p style="font-size: 0.8em;">Retrieval Augmented AI Text Generation &bull; LLMs &bull; Interdisciplinary Team</p>
+    <p style="font-size: 0.95em;">Retrieval Augmented AI Text Generation &bull; LLMs &bull; Data Communication &bull; Hackathon &bull; Interdisciplinary Team</p>
     <div style="background-color: #E0E0E0; padding: 20px; border-radius: 10px; margin: 10px 0; font-weight: bold;">
-        "Collaborated with my team, AInsight, to develop a Chatbot in the Sidebar with Retrieval Augmented Generation for Google"
+        "Collaborated with my team, AInsight, of UX/UI, web devs, and data scientists to develop a figma prototype of a Chatbot in the Sidebar with Retrieval Augmented Generation for Google in 24hrs"
     </div>
     <img src="https://github.com/scelarek/scelarek.github.io/assets/115444760/c92477af-6723-4dbf-b471-711889ed3808" alt="SideBard Image">
 </div>
@@ -25,7 +25,7 @@
 
 <div align="center">
     <h2><a href="/pages/twitter.html">Puppularity Contest</a></h2>
-    <p style="font-size: 0.8em;">Web Scraping &bull; API &bull; Regression &bull; Classification</p>
+    <p style="font-size: 0.95em;">Web Scraping &bull; API &bull; Regression &bull; Classification</p>
     <div style="background-color: #E0E0E0; padding: 20px; border-radius: 10px; margin: 10px 0; font-weight: bold;">
         "Extracted "We Rate Dogs" tweets using API calls and BeautifulSoup, then evaluated comedic vs. aesthetic feature influence on engagement through regression models."
     </div>
@@ -35,7 +35,7 @@
 
 <div align="center">
     <h2><a href="/pages/google.html">Google Engrams: Data in the Clouds</a></h2>
-    <p style="font-size: 0.8em;">Hadoop &bull; AWS &bull; PySpark &bull; EDA</p>
+    <p style="font-size: 0.95em;">Hadoop &bull; AWS &bull; PySpark &bull; EDA</p>
     <div style="background-color: #E0E0E0; padding: 20px; border-radius: 10px; margin: 10px 0; font-weight: bold;">
         "Utilized the power of Hadoop, AWS, and PySpark on 260+ million entries in Google's corpus of books to analyze the frequency of the word 'data' over the past five hundred years."
     </div>
@@ -45,7 +45,7 @@
 
 <div align="center">
     <h2><a href="/pages/kickstart.html">Kickstarter: The Business Behind Dreams</a></h2>
-    <p style="font-size: 0.8em;">SQL &bull; Data Wrangling &bull; EDA &bull; Classification</p>
+    <p style="font-size: 0.95em;">SQL &bull; Data Wrangling &bull; EDA &bull; Classification</p>
     <div style="background-color: #E0E0E0; padding: 20px; border-radius: 10px; margin: 10px 0; font-weight: bold;">
         "Crafted a thorough business report using SQL, EDA, and classification models on 150,000+ entries to set viable fundraising targets for a tabletop board game campaign on Kickstarter."
     </div>
@@ -55,7 +55,7 @@
 
 <div align="center">
     <h2><a href="/pages/hotel.html">Predicting Hotel Ratings from Reviews</a></h2>
-    <p style="font-size: 0.8em;">Feature Engineering &bull; Classification &bull; NLP &bull; Hyperparameter Tuning</p>
+    <p style="font-size: 0.95em;">Feature Engineering &bull; Classification &bull; NLP &bull; Hyperparameter Tuning</p>
     <div style="background-color: #E0E0E0; padding: 20px; border-radius: 10px; margin: 10px 0; font-weight: bold;">
         "Applied data preprocessing, feature engineering, NLP, and hyperparameter tuned classification models on 500,000+ hotel reviews to predict positive ratings at an accuracy of 78.4%."
     </div>
@@ -65,7 +65,7 @@
 
 <div align="center">
     <h2><a href="/pages/wnv.html">West Nile Watch</a></h2>
-    <p style="font-size: 0.8em;">Feature Engineering &bull; Data Wrangling &bull; EDA &bull; Hypothesis Testing</p>
+    <p style="font-size: 0.95em;">Feature Engineering &bull; Data Wrangling &bull; EDA &bull; Hypothesis Testing</p>
     <div style="background-color: #E0E0E0; padding: 20px; border-radius: 10px; margin: 10px 0; font-weight: bold;">
         "Deployed hypothesis tests and classification models on 18,000+ entries to pinpoint West Nile Virus hotspots and high-risk species to guide community health interventions."
     </div>
@@ -75,7 +75,7 @@
 
 <div align="center">
     <h2><a href="/pages/reference.html">DS Templates and ML Guides</a></h2>
-    <p style="font-size: 0.8em;">Regression &bull; Classification &bull; Clustering &bull; Pipelines &bull; Grid Search</p>
+    <p style="font-size: 0.95em;">Regression &bull; Classification &bull; Clustering &bull; Pipelines &bull; Grid Search</p>
     <div style="background-color: #E0E0E0; padding: 20px; border-radius: 10px; margin: 10px 0; font-weight: bold;">
         "Streamlined machine learning workflow using pipelines to grid search across the performance of various regression, classification, and clustering models on toy datasets."
     </div>
@@ -88,7 +88,7 @@
 
 <div align="center">
     <h2><a href="pages/eternal.html">Eternal Growth, Immortal Inequality</a></h2>
-    <p style="font-size: 0.8em;">Data Wrangling &bull; EDA &bull; Correlation Analysis</p>
+    <p style="font-size: 0.95em;">Data Wrangling &bull; EDA &bull; Correlation Analysis</p>
     <div style="background-color: #E0E0E0; padding: 20px; border-radius: 10px; margin: 10px 0; font-weight: bold;">
         "Performed data tidying, feature engineering and EDA on Gapminder data to discern correlations between a nation's wealth, inequality, and well-being."
     </div>
@@ -98,7 +98,7 @@
 
 <div align="center">
     <h2><a href="/pages/global.html">Local vs Global Warming</a></h2>
-    <p style="font-size: 0.8em;">SQL &bull; EDA &bull; Trend Analysis</p>
+    <p style="font-size: 0.95em;">SQL &bull; EDA &bull; Trend Analysis</p>
     <div style="background-color: #E0E0E0; padding: 20px; border-radius: 10px; margin: 10px 0; font-weight: bold;">
         "Analyzed historical global and city temperatures trends using SQL, Python, descriptive statistics, and employed linear regression to highlight patterns."
     </div>
@@ -108,7 +108,7 @@
 
 <div align="center">
     <h2><a href="/pages/bixi.html">BIXI: Making a Biker's Paradise</a></h2>
-    <p style="font-size: 0.8em;">SQL &bull; Tableau &bull; Dashboards</p>
+    <p style="font-size: 0.95em;">SQL &bull; Tableau &bull; Dashboards</p>
     <div style="background-color: #E0E0E0; padding: 20px; border-radius: 10px; margin: 10px 0; font-weight: bold;">
         "Deployed SQL with Tableau to craft an EDA dashboard and strategic report on BIXI bike usage from 500,000+ entries to enhance urban mobility in Montreal Canada."
     </div>
