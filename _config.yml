@@ -69,8 +69,8 @@ description: >
     </style>
 
     <div class="sidebar-content">
-        <div id="name-box">
-            <h1><a href="https://scelarek.github.io">Sam Celarek</a></h1>
+        <div id="name-box" style="font-size: 1.5em;">
+            <a href="https://scelarek.github.io">Sam Celarek</a>
         </div>
         
         <img src="/images/Circle Sam.png?raw=true" alt="Sam Celarek">
