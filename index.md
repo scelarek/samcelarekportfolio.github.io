@@ -9,21 +9,21 @@
 <body>
     <section>
         <!-- Featured Project -->
-        <div class="footer-quote">
+        <div>
             <h2><a href="/pages/covid.html" class="view-project">Featured Project: CovidCast</a></h2>
             <p class="project-description">A comprehensive data-driven approach to tracking and analyzing the spread of COVID-19. Leveraging state-of-the-art tools and machine learning techniques, CovidCast provides valuable insights to researchers, policymakers, and the general public. Features include trend prediction, regional analysis, and data visualization.</p>
         </div>
-        <div class="footer-quote">
+        <div>
             <h2><a href="/dsport.html" class="view-project">Data Science Projects</a></h2>
             <p class="project-description">Time Series Forecasting &bull; Hyperparameter Tuning &bull; Feature Engineering &bull; Web Scraping &bull; Regression &bull; Classification &bull; Clustering &bull; Deep Learning &bull; NLP &bull; Pipelines &bull; Grid Search &bull; Retrieval Augmented AI Text Generation &bull; LLMs </p>
         </div>
         <!-- Data Analysis Projects in Gray -->
-        <div class="footer-quote">
+        <div>
             <h2><a href="/daport.html" class="view-project">Data Analysis Projects</a></h2>
             <p class="project-description">Databases &bull; SQL &bull; Data Wrangling &bull; Data Cleaning &bull; Data Tidying &bull; Cloud Computation &bull; EDA &bull; Descriptive Statistics &bull; Correlation Analysis &bull; Trend Analysis &bull; Tableau &bull; Dashboards &bull; Business Reports &bull; Data Visualization &bull; Data Communication </p>
         </div>
         <!-- Effective Altruism Projects in Green -->
-        <div class="footer-quote">
+        <div>
             <h2><a href="https://portlandear.wordpress.com/" class="view-project">Effective Altruism Projects</a></h2>
             <p class="project-description">Community Building &bull; Leadership &bull; Agenda Setting &bull; Volunteer Work &bull; Presentations &bull; Outreach &bull; Philosophy &bull; Economics &bull; Research</p>
         </div>
