@@ -1,3 +1,4 @@
+<!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
@@ -6,33 +7,31 @@
     <link rel="stylesheet" href="styles.css">
 </head>
 <body>
-    <header>
-        <h1>Sam Celarek</h1>
-        <p>Data Scientist | Machine Learning Enthusiast | Impact Driven</p>
-    </header>
+    <div id="name-box">Sam Celarek</div>
+    <p class="description">Data Scientist | Machine Learning Enthusiast | Impact Driven</p>
     <section>
         <h2>Projects</h2>
         <div class="project">
-        <a href="/dsport.html"><h3>Data Science Projects</h3></a>
-<p style="font-size: 0.95em;">Time Series Forecasting &bull; Hyperparameter Tuning &bull; Feature Engineering &bull; Web Scraping &bull; Regression &bull; Classification &bull; Clustering &bull; Deep Learning &bull; NLP &bull; Pipelines &bull; Grid Search &bull; Retrieval Augmented AI Text Generation &bull; LLMs </p>
+            <a href="/dsport.html" class="project-header">Data Science Projects</a>
+            <p class="project-description">Time Series Forecasting &bull; Hyperparameter Tuning &bull; Feature Engineering &bull; Web Scraping &bull; Regression &bull; Classification &bull; Clustering &bull; Deep Learning &bull; NLP &bull; Pipelines &bull; Grid Search &bull; Retrieval Augmented AI Text Generation &bull; LLMs </p>
         </div>
         <div class="project">
             <h3>Data Analysis Projects</h3>
-            <p style="font-size: 0.95em;">Databases &bull;  SQL &bull; Data Wrangling &bull; Data Cleaning &bull; Data Tidying &bull; Cloud Computation &bull; EDA &bull; Descriptive Statistics &bull; Correlation Analysis &bull; Trend Analysis &bull; Tableau &bull; Dashboards &bull; Business Reports &bull; Data Visualization &bull; Data Communication </p>
-            <a href="/dsport.html">View Projects</a>
+            <p class="project-description">Databases &bull;  SQL &bull; Data Wrangling &bull; Data Cleaning &bull; Data Tidying &bull; Cloud Computation &bull; EDA &bull; Descriptive Statistics &bull; Correlation Analysis &bull; Trend Analysis &bull; Tableau &bull; Dashboards &bull; Business Reports &bull; Data Visualization &bull; Data Communication </p>
+            <a href="/dsport.html" class="view-project">View Projects</a>
         </div>
         <div class="project">
             <h3>Effective Altruism Projects</h3>
-            <p style="font-size: 0.95em;">Community Building &bull; Leadership &bull; Agenda Setting &bull; Volunteer Work &bull; Presentations &bull; Outreach &bull; Philosophy &bull; Economics &bull; Research</p>
-            <a href="https://portlandear.wordpress.com/">View Project</a>
+            <p class="project-description">Community Building &bull; Leadership &bull; Agenda Setting &bull; Volunteer Work &bull; Presentations &bull; Outreach &bull; Philosophy &bull; Economics &bull; Research</p>
+            <a href="https://portlandear.wordpress.com/" class="view-project">View Project</a>
         </div>
     </section>
     <footer>
-        <p>“Whether the future is wonderful or terrible is, in part, up to us.”
-― William MacAskill, What We Owe the Future</p>
+        <p class="footer-quote">“Whether the future is wonderful or terrible is, in part, up to us.” ― William MacAskill, What We Owe the Future</p>
     </footer>
 </body>
 </html>
+
 
 <!-- 
 # **Data Science Portfolio**
