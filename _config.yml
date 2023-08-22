@@ -64,7 +64,7 @@ description: >
     </style>
     <div class="sidebar-content">
         <div id="name-box">
-            <a href="https://scelarek.github.io">{{ site.title | default: site.github.repository_name }}</a>
+            <h1><a href="https://scelarek.github.io">Sam Celarek</a></h1>
         </div>
     
         <img src="/images/Circle Sam.png?raw=true" alt="Sam Celarek">
