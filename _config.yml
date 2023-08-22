@@ -50,7 +50,6 @@ description: >
     .smaller-btn {
         font-size: 0.8em;
         padding: 6px 6px;
-        border: 2px solid white;
     }
 
     .linkedin:hover, .github:hover, .resume:hover {
