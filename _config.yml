@@ -56,6 +56,16 @@ description: >
     .linkedin:hover, .github:hover, .resume:hover {
         opacity: 0.9;
     }
+    }
+    .footer-quote {
+        text-align: center;
+        background-color: #fff;
+        padding: 20px;
+        border-radius: 5px;
+        margin-top: 40px;
+        box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);
+        font-style: italic;
+    }
     </style>
 
     <div id="name-box">Data Scientist | Impact Driven</div>
