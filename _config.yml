@@ -74,6 +74,9 @@ description: >
         <a class="resume smaller-btn" href="https://drive.google.com/file/d/18-0YCTe0lGkdnlEGMKZrPplvkbVkRVR3/view?usp=drive_link">My Resume</a>
         <a class="resume smaller-btn" href="mailto:scelarek@gmail.com">Email Me!</a>
     </div>
+    <footer>
+        <p class="footer-quote">“Whether the future is wonderful or terrible is, in part, up to us.” ― William MacAskill, What We Owe the Future</p>
+    </footer>
 
 remote_theme: pages-themes/minimal@v0.2.0
 plugins:
