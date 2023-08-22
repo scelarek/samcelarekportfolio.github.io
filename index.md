@@ -1,6 +1,4 @@
-<!DOCTYPE html>
 <html lang="en">
-
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -66,22 +64,19 @@
 </head>
 
 <body>
-    <div id="name-box">Sam Celarek</div>
-    <p class="description">Data Scientist | Machine Learning Enthusiast | Impact Driven</p>
     <section>
         <div class="project">
             <a href="/dsport.html" class="project-header">Data Science Projects</a>
             <p class="project-description">Time Series Forecasting &bull; Hyperparameter Tuning &bull; Feature Engineering &bull; Web Scraping &bull; Regression &bull; Classification &bull; Clustering &bull; Deep Learning &bull; NLP &bull; Pipelines &bull; Grid Search &bull; Retrieval Augmented AI Text Generation &bull; LLMs </p>
         </div>
         <div class="project">
+            <a href="/daport.html" class="project-header">Data Analysis Projects</a>
             <h3>Data Analysis Projects</h3>
             <p class="project-description">Databases &bull; SQL &bull; Data Wrangling &bull; Data Cleaning &bull; Data Tidying &bull; Cloud Computation &bull; EDA &bull; Descriptive Statistics &bull; Correlation Analysis &bull; Trend Analysis &bull; Tableau &bull; Dashboards &bull; Business Reports &bull; Data Visualization &bull; Data Communication </p>
-            <a href="/dsport.html" class="view-project">View Projects</a>
         </div>
         <div class="project">
-            <h3>Effective Altruism Projects</h3>
+            <a href="https://portlandear.wordpress.com/" class="project-header">Effective Altruism Projects</a>
             <p class="project-description">Community Building &bull; Leadership &bull; Agenda Setting &bull; Volunteer Work &bull; Presentations &bull; Outreach &bull; Philosophy &bull; Economics &bull; Research</p>
-            <a href="https://portlandear.wordpress.com/" class="view-project">View Project</a>
         </div>
     </section>
     <footer>
