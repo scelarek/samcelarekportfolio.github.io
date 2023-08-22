@@ -106,7 +106,6 @@
             transform: translateY(-3px); /* Matching hover behavior */
             text-decoration: underline;  /* Underline on hover for the title */
         }
-
     </style>
 </head>
 
