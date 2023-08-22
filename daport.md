@@ -109,6 +109,7 @@
     </style>
 </head>
 <body>
+    <hr>
     <section>
     <div id="name-box">
         Data Analysis Portfolio
