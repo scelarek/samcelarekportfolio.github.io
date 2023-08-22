@@ -15,7 +15,7 @@
         /* Global styles */
         body {
             font-family: 'Roboto', sans-serif;
-            background-color: #CEFFE4;  /* Updated background color here */
+            background-color: #E6FFF1;  /* Updated background color here */
             padding: 40px 20px;
             color: #333;
         }
@@ -47,7 +47,7 @@
         }
         .view-project {
             display: inline-block;
-            background-color: #7AE582;
+            background-color: #5DA46B;
             padding: 10px 20px;
             border-radius: 30px;
             color: white;
@@ -57,16 +57,6 @@
         }
         .view-project:hover {
             background-color: #0056b3;
-        }
-        .footer-quote {
-            text-align: center;
-            background-color: #fff;
-            padding: 20px;
-            border-radius: 5px;
-            margin-top: 40px;
-            box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);
-            font-style: italic;
-        }
     </style>
 
 </head>
