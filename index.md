@@ -1,23 +1,81 @@
 <!DOCTYPE html>
 <html lang="en">
+
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Sam Celarek's Portfolio</title>
-    <link rel="stylesheet" href="styles.css">
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #f5f5f5;
+            padding: 20px;
+            margin: 0;
+        }
+        #name-box {
+            background-color: gray;
+            padding: 10px;
+            font-weight: bold;
+            border-radius: 5px;
+            text-align: center;
+            color: white;
+            margin-bottom: 20px;
+        }
+        .description,
+        .project-description {
+            margin: 20px 0;
+            padding: 10px;
+            border-radius: 5px;
+            background-color: rgba(240, 240, 240, 0.7);
+            text-align: center;
+        }
+        .project-header {
+            display: block;
+            background-color: #007BFF;
+            padding: 10px 20px;
+            text-align: center;
+            border-radius: 5px;
+            color: white;
+            text-decoration: none;
+            margin-bottom: 10px;
+        }
+        .view-project {
+            display: inline-block;
+            background-color: #388E3C;
+            padding: 5px 15px;
+            border-radius: 5px;
+            color: white;
+            text-decoration: none;
+            margin-top: 10px;
+        }
+        .view-project:hover {
+            opacity: 0.9;
+        }
+        h2,
+        h3 {
+            text-align: center;
+            color: gray;
+        }
+        .footer-quote {
+            text-align: center;
+            background-color: rgba(240, 240, 240, 0.7);
+            padding: 10px;
+            border-radius: 5px;
+            margin-top: 20px;
+        }
+    </style>
 </head>
+
 <body>
     <div id="name-box">Sam Celarek</div>
     <p class="description">Data Scientist | Machine Learning Enthusiast | Impact Driven</p>
     <section>
-        <h2>Projects</h2>
         <div class="project">
             <a href="/dsport.html" class="project-header">Data Science Projects</a>
             <p class="project-description">Time Series Forecasting &bull; Hyperparameter Tuning &bull; Feature Engineering &bull; Web Scraping &bull; Regression &bull; Classification &bull; Clustering &bull; Deep Learning &bull; NLP &bull; Pipelines &bull; Grid Search &bull; Retrieval Augmented AI Text Generation &bull; LLMs </p>
         </div>
         <div class="project">
             <h3>Data Analysis Projects</h3>
-            <p class="project-description">Databases &bull;  SQL &bull; Data Wrangling &bull; Data Cleaning &bull; Data Tidying &bull; Cloud Computation &bull; EDA &bull; Descriptive Statistics &bull; Correlation Analysis &bull; Trend Analysis &bull; Tableau &bull; Dashboards &bull; Business Reports &bull; Data Visualization &bull; Data Communication </p>
+            <p class="project-description">Databases &bull; SQL &bull; Data Wrangling &bull; Data Cleaning &bull; Data Tidying &bull; Cloud Computation &bull; EDA &bull; Descriptive Statistics &bull; Correlation Analysis &bull; Trend Analysis &bull; Tableau &bull; Dashboards &bull; Business Reports &bull; Data Visualization &bull; Data Communication </p>
             <a href="/dsport.html" class="view-project">View Projects</a>
         </div>
         <div class="project">
@@ -30,7 +88,9 @@
         <p class="footer-quote">“Whether the future is wonderful or terrible is, in part, up to us.” ― William MacAskill, What We Owe the Future</p>
     </footer>
 </body>
+
 </html>
+
 
 
 <!-- 
