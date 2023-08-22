@@ -63,7 +63,6 @@
         <div class="project-content">
             <h2><a href="/pages/covid.html" class="view-project">Featured Project: CovidCast</a></h2>
             <p class="project-description">Like a weather forecast for pandemics, COVIDCast leverages state-of-the-art machine learning and epidemiological models to deliver precise outbreak predictions.</p>
-            <p class="project-description">Time Series Forecasting &bull; Hyperparameter Tuning &bull; Feature Engineering &bull; Data Wrangling &bull; EDA</p>
             <img src="https://github.com/scelarek/scelarek.github.io/assets/115444760/00381f16-48b4-4b64-bcb8-3df639dca68d" alt="COVIDCast Image" style="max-width: 100%; border-radius: 10px; margin-top: 20px;">
         </div>
         <div class="project-content">
