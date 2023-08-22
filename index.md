@@ -6,6 +6,8 @@
     <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;700&family=Roboto:wght@300;400;700&display=swap" rel="stylesheet">
     <style>
         /* Reset some default browser styles */
+    <style>
+        /* Reset some default browser styles */
         body, h2, p {
             margin: 0;
             padding: 0;
@@ -13,7 +15,7 @@
         /* Global styles */
         body {
             font-family: 'Roboto', sans-serif;
-            background-color: #f6f8fa;
+            background-color: #CEFFE4;  /* Updated background color here */
             padding: 40px 20px;
             color: #333;
         }
