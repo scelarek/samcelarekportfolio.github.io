@@ -1,12 +1,9 @@
-<!DOCTYPE html>
 <html lang="en">
 
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <!-- Google Fonts -->
     <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;700&family=Roboto:wght@300;400;700&display=swap" rel="stylesheet">
-    <!-- Enhanced Styles -->
     <style>
         /* Reset some default browser styles */
         body, h2, p {
@@ -74,7 +71,6 @@
 
 <body>
     <section>
-        <hr>
         <div>
             <h2><a href="/pages/covid.html" class="view-project">Featured Project: CovidCast</a></h2>
             <p class="project-description">Like a weather forecast for pandemics, COVIDCast leverages state-of-the-art machine learning and epidemiological models to deliver precise outbreak predictions.</p>
