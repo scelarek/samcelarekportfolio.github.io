@@ -23,7 +23,7 @@ description: >
         margin-top: 10px;
         background-color: #004E64;  /* Matching the color with .github */
         border-radius: 15px;
-        padding: 10px 0;
+        padding: 10px 10px;
         display: inline-block;
     }
 
@@ -37,10 +37,12 @@ description: >
     }
 
     .linkedin {
+        font-size: 1.2em;
         background-color: #25A18E; 
     }
 
     .github {
+        font-size: 1.2em;
         background-color: #25A18E;
     }
 
@@ -70,8 +72,9 @@ description: >
 
     <div class="sidebar-content">
         <img src="/images/Circle Sam.png?raw=true" alt="Sam Celarek">
-        <div id="name-box">Sam Celarek</div>
+        <div id="name-box">Sam Celarek
         <div>Data Scientist | Impact Driven</div>
+        </div>
     
         <div>
             Avid Data Explorer<br>
