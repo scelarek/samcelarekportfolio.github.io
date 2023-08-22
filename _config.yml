@@ -7,23 +7,19 @@ description: >
         background-color: #9FFFCB;
     }
 
-    #name-box {
-        background-color: #004E64;
-        padding: 5px 10px;
-        font-weight: bold;
-        border-radius: 5px;
-        display: block;
-        margin: 20px auto;
-        text-align: center;
-        color: white;
-    }
-
-    .description {
-        margin: 20px auto;
+    .sidebar-content {
+        background-color: #E6FFF1; 
         padding: 10px;
         border-radius: 5px;
-        background-color: rgba(240, 240, 240, 0.7);
+        box-shadow: 0 2px 10px rgba(0, 0, 0, 0.2);
         text-align: center;
+        margin: 20px auto;
+    }
+
+    #name-box {
+        font-weight: bold;
+        color: #333;
+        margin-top: 10px;
     }
 
     .linkedin, .github, .resume {
@@ -67,26 +63,31 @@ description: >
     }
     </style>
 
-    <div id="name-box">Data Scientist | Impact Driven</div>
+    <div class="sidebar-content">
+        <img src="/images/Circle Sam.png?raw=true" alt="Sam Celarek">
+        <div id="name-box">Data Scientist | Impact Driven</div>
 
-    <div class="description">
-        Avid Data Explorer<br>
-        ML Enthusiast<br>
-        Coding Everyday<br>
-        Strong Medical Background<br>
-        Energetic Teammate
+        <div>
+            Avid Data Explorer<br>
+            ML Enthusiast<br>
+            Coding Everyday<br>
+            Strong Medical Background<br>
+            Energetic Teammate
+        </div>
+
+        <div>
+            <a class="linkedin" href="https://www.linkedin.com/in/sam-celarek/">LinkedIn</a>
+            <a class="github" href="https://github.com/scelarek">GitHub</a> <br>
+            <a class="resume smaller-btn" href="https://drive.google.com/file/d/18-0YCTe0lGkdnlEGMKZrPplvkbVkRVR3/view?usp=drive_link">My Resume</a>
+            <a class="resume smaller-btn" href="mailto:scelarek@gmail.com">Email Me!</a>
+        </div>
     </div>
 
-    <div style="text-align: center;">
-        <a class="linkedin" href="https://www.linkedin.com/in/sam-celarek/">LinkedIn</a>
-        <a class="github" href="https://github.com/scelarek">GitHub</a> <br>
-        <a class="resume smaller-btn" href="https://drive.google.com/file/d/18-0YCTe0lGkdnlEGMKZrPplvkbVkRVR3/view?usp=drive_link">My Resume</a>
-        <a class="resume smaller-btn" href="mailto:scelarek@gmail.com">Email Me!</a>
-    </div>
     <footer>
         <p class="footer-quote">“You can't actually feel the weight of the world. The human mind is not capable of that feat.
         But sometimes, you can catch a glimpse.” ― Nates Soares, On Caring</p>
     </footer>
+
 
 remote_theme: pages-themes/minimal@v0.2.0
 plugins:
