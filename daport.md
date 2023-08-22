@@ -75,7 +75,7 @@
 
 <body>
     <!-- Data Analysis Portfolio Section -->
-    <div class="name-box"><h2>Data Analysis Portfolio</h2> </div>
+    <div id="name-box"><h2>Data Analysis Portfolio</h2> </div>
     <hr>
     <div class="content-box">
         <h2><a href="/pages/google.html">Google Engrams: Data in the Clouds</a></h2>
