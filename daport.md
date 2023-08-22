@@ -101,6 +101,7 @@
 
 <body>
     <section>
+    <h1></h1>
         <div style="text-align:center;" id="name-box">
         Data Analysis Portfolio
     </div>
