@@ -99,7 +99,7 @@
 </head>
 
 <body>
-    <!-- Data Science Portfolio Section -->
+    <!-- Data Analysis Portfolio Section -->
     <div style="text-align:center;" id="name-box">
         Data Science Portfolio
     </div>
