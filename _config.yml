@@ -27,6 +27,11 @@ description: >
             display: inline-block;
             font-size: 1.5em; /* Increased font size */
         }
+        
+        #name-box h1 {  /* New style to target the h1 inside name-box */
+            font-size: 2.2em; /* Adjust this value as per your preference */
+            margin: 0;  /* To reset default margin of h1 */
+        }
 
         #name-box a, #title-box a {
             color: white;
@@ -69,8 +74,8 @@ description: >
     </style>
 
     <div class="sidebar-content">
-        <div id="name-box" style="font-size: 1.5em;">
-            <a href="https://scelarek.github.io">Sam Celarek</a>
+        <div id="name-box">
+            <h1><a href="https://scelarek.github.io">Sam Celarek</a></h1>
         </div>
         
         <img src="/images/Circle Sam.png?raw=true" alt="Sam Celarek">
