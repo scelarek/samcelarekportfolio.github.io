@@ -89,22 +89,24 @@
             outline: none;
             border: none;
         }
-        h2 {
-            font-family: 'Poppins', sans-serif;
-            text-align: center;
-            color: #25A18E;
-            margin-bottom: 20px;
+        .project-title {
+            display: inline-block;
+            background-color: #25A18E;
+            padding: 10px 10px;
+            border-radius: 15px;
+            color: white;
             font-weight: bold;
-            transition: transform 0.3s, opacity 0.3s;
+            margin: 10px 0;
+            font-family: 'Poppins', sans-serif;
+            transition: all 0.3s ease;
+            text-decoration: none; /* To remove any default underlining for anchor tags */
         }
-        h2 a {
-            color: #25A18E; /* Changed to match the background color of view-project */
-        }
-        h2 a:hover {
+        .project-title:hover {
             opacity: 0.9;
-            transform: translateY(-3px);
-            text-decoration: underline;
+            transform: translateY(-3px); /* Matching hover behavior */
+            text-decoration: underline;  /* Underline on hover for the title */
         }
+
     </style>
 </head>
 
@@ -116,7 +118,7 @@
         </div>
     <!-- Entry 1: CovidCast -->
     <div class="content-box">
-        <h2><a href="/pages/covid.html">CovidCast: Predict to Protect</a></h2>
+        <h2><a href="/pages/covid.html" class="project-title">CovidCast: Predict to Protect</a></h2>
         <p class="skill-description">Time Series Forecasting &bull; Hyperparameter Tuning &bull; Feature Engineering &bull; Data Wrangling &bull; EDA</p>
         <p class="description">"Like a weather forecast for pandemics, COVIDCast leverages state-of-the-art machine learning and epidemiological models to deliver precise outbreak predictions."</p>
         <img class="featured-image" src="https://github.com/scelarek/scelarek.github.io/assets/115444760/00381f16-48b4-4b64-bcb8-3df639dca68d" alt="COVIDCast Image">
