@@ -60,22 +60,25 @@ description: >
             box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);
             font-style: italic;
         }
+        
     </style>
-
     <div class="sidebar-content">
-        <h1>Sam Celarek</h1> <!-- This is your title -->
+        <div id="name-box">
+            <a href="https://scelarek.github.io">{{ site.title | default: site.github.repository_name }}</a>
+        </div>
+    
         <img src="/images/Circle Sam.png?raw=true" alt="Sam Celarek">
         <div id="name-box">Data Scientist</div>
-        
+    
         <div>
             Avid Data Explorer<br>
             ML Enthusiast<br>
             Coding Everyday<br>
-            Strong Medical Background<br>
+            Medical Background<br>
             Energetic Teammate<br>
             Impact Driven<br>
         </div>
-        
+    
         <div>
             <a class="linkedin" href="https://www.linkedin.com/in/sam-celarek/">LinkedIn</a>
             <a class="github" href="https://github.com/scelarek">GitHub</a><br>
@@ -85,8 +88,7 @@ description: >
     </div>
     
     <footer>
-        <p class="footer-quote">“You can't actually feel the weight of the world. The human mind is not capable of that feat.
-        But sometimes, you can catch a glimpse.” ― Nates Soares, On Caring</p>
+        <p class="footer-quote">“You can't actually feel the weight of the world. The human mind is not capable of that feat. But sometimes, you can catch a glimpse.” ― Nates Soares, On Caring</p>
     </footer>
 
 remote_theme: pages-themes/minimal@v0.2.0
