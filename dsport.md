@@ -65,7 +65,7 @@
             margin-top: 20px;
         }
         #name-box {
-            align: "center";
+            text-align: center;
             font-weight: bold;
             color: white;
             margin: 20px 0;
@@ -101,7 +101,7 @@
 
 <body>
     <!-- Data Science Portfolio Section -->
-    <div align="center" id="name-box">
+    <div id="name-box">
         Data Science Portfolio
     </div>
     <hr>
