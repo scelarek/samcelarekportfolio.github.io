@@ -98,9 +98,10 @@
     </style>
 </head>
 
+
 <body>
-    <!-- Data Analysis Portfolio Section -->
-    <div style="text-align:center;" id="name-box">
+    <section>
+        <div style="text-align:center;" id="name-box">
         Data Analysis Portfolio
     </div>
     <hr>
@@ -143,5 +144,6 @@
         <img class="featured-image" src="https://github.com/scelarek/scelarek.github.io/assets/115444760/209c121a-1bca-4d00-b70e-907fcd8d298c" alt="Global Warming Image">
         <a href="/pages/global.html" class="view-project">Read More</a> <!-- Added this button -->
     </div>
+    </section>
 </body>
 </html>
