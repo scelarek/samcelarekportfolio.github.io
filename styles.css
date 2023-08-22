@@ -25,22 +25,11 @@ body {
     text-align: center;
 }
 
-.project-header {
-    display: block;
-    background-color: #007BFF;
-    padding: 10px 20px;
-    text-align: center;
-    border-radius: 5px;
-    color: white;
-    text-decoration: none;
-    margin-bottom: 10px;
-}
-
 .view-project {
     display: inline-block;
     background-color: #388E3C;
     padding: 5px 15px;
-    border-radius: 5px;
+    border-radius: 15px;
     color: white;
     text-decoration: none;
     margin-top: 10px;
@@ -63,29 +52,3 @@ h3 {
     border-radius: 5px;
     margin-top: 20px;
 }
-.da-project {
-    background-color: gray;
-}
-
-.ea-project {
-    background-color: green;
-}
-
-.featured-project {
-    background-color: #FFC0CB; /* Light Red */
-    margin-top: 20px;
-    margin-bottom: 20px;
-    padding: 20px;
-    border-radius: 5px;
-}
-footer {
-    background-color: gray;
-    padding: 10px 0;  /* Optional: Add some padding for better appearance */
-    border-radius: 5px; /* Optional: To match other elements' rounded corners */
-}
-/* If you want the headers to be even bigger than the description, you can separate them: */
-.project-header {
-    font-size: 1.8em; /* Adjust the size as necessary */
-}
-
-
