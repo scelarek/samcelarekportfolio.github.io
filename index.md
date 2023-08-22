@@ -9,24 +9,24 @@
 <body>
     <header>
         <h1>Sam Celarek</h1>
-        <p>Data Scientist | Machine Learning Enthusiast</p>
+        <p>Data Scientist | Machine Learning Enthusiast | Impact Driven</p>
     </header>
     <section>
         <h2>Projects</h2>
         <div class="project">
-            <h3>Github</h3>
-            <p>Welcome to Sam's Playground</p>
-            <a href="https://github.com/scelarek">View on GitHub</a>
-        </div>
-        <div class="project">
             <h3>Data Science Projects</h3>
-            <p>Check out my data science focused projects.</p>
-            <a href="/dsport.html">View on GitHub</a>
+<p style="font-size: 0.95em;">Time Series Forecasting &bull; Hyperparameter Tuning &bull; Feature Engineering &bull; Web Scraping &bull; Regression &bull; Classification &bull; Clustering &bull; Deep Learning &bull; NLP &bull; Pipelines &bull; Grid Search &bull; Retrieval Augmented AI Text Generation &bull; LLMs </p>
+            <a href="/dsport.html">View Projects</a>
         </div>
         <div class="project">
             <h3>Data Analysis Projects</h3>
-            <p>Check out my data analysis focused projects.</p>
-            <a href="/dsport.html">View on GitHub</a>
+            <p style="font-size: 0.95em;">Databases &bull;  SQL &bull; Data Wrangling &bull; Data Cleaning &bull; Data Tidying &bull; Cloud Computation &bull; EDA &bull; Descriptive Statistics &bull; Correlation Analysis &bull; Trend Analysis &bull; Tableau &bull; Dashboards &bull; Business Reports &bull; Data Visualization &bull; Data Communication </p>
+            <a href="/dsport.html">View Projects</a>
+        </div>
+        <div class="project">
+            <h3>Effective Altruism Projects</h3>
+            <p style="font-size: 0.95em;">Community Building &bull; Leadership &bull; Agenda Setting &bull; Volunteer Work &bull; Presentations &bull; Outreach &bull; Philosophy &bull; Economics &bull; Research</p>
+            <a href="https://portlandear.wordpress.com/">View Project</a>
         </div>
     </section>
     <footer>
