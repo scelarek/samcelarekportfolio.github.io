@@ -71,7 +71,7 @@
         </div>
         <div class="project-content">
             <h2><a href="/daport.html" class="view-project">Data Analysis Portfolio</a></h2>
-            <p class="project-description">Databases &bull; SQL &bull; Data Wrangling &bull; Data Cleaning &bull; Data Tidying &bull; Cloud Computation &bull; EDA &bull; Descriptive Statistics &bull; Correlation Analysis &bull; Trend Analysis &bull; Tableau &bull; Dashboards &bull; Business Reports &bull; Data Visualization &bull; Data Communication </p>
+            <p class="project-description">Databases &bull; SQL &bull; Data Wrangling &bull; Data Cleaning &bull; Cloud Computation &bull; EDA &bull; Descriptive Statistics &bull; Time Series Analysis &bull; Tableau &bull; Dashboards &bull; Business Reports &bull; Data Visualization </p>
         </div>
         <div class="project-content">
             <h2><a href="https://portlandear.wordpress.com/" class="view-project">Effective Altruism Portfolio</a></h2>
