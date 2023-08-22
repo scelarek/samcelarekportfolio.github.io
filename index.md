@@ -14,9 +14,8 @@
     <section>
         <h2>Projects</h2>
         <div class="project">
-            <h3>Data Science Projects</h3>
+            <a href="/dsport.html"><h3>Data Science Projects</h3></a>
 <p style="font-size: 0.95em;">Time Series Forecasting &bull; Hyperparameter Tuning &bull; Feature Engineering &bull; Web Scraping &bull; Regression &bull; Classification &bull; Clustering &bull; Deep Learning &bull; NLP &bull; Pipelines &bull; Grid Search &bull; Retrieval Augmented AI Text Generation &bull; LLMs </p>
-            <a href="/dsport.html">View Projects</a>
         </div>
         <div class="project">
             <h3>Data Analysis Projects</h3>
