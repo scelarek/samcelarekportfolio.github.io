@@ -60,12 +60,22 @@
             border-radius: 10px;
             margin-top: 20px;
         }
+        #name-box {
+        font-weight: bold;
+        color: white;
+        margin: 20px 0;
+        background-color: #004e64ff; /* Midnight-green */
+        border-radius: 15px;
+        padding: 15px 20px;
+        display: inline-block;
+        font-size: 1.5em; /* Increased font size */
+        }
     </style>
 </head>
 
 <body>
     <!-- Data Analysis Portfolio Section -->
-    <h2>Data Analysis Portfolio</h2>
+    <div class="name-box"><h2>Data Analysis Portfolio</h2> </div>
     <hr>
     <div class="content-box">
         <h2><a href="/pages/google.html">Google Engrams: Data in the Clouds</a></h2>
