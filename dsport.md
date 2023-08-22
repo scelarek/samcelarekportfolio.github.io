@@ -78,10 +78,11 @@
     </style>
 </head>
 
+
 <body>
     <!-- Data Science Portfolio Section -->
     <div id="name-box">
-        <h2>Data Science Portfolio</h2>
+        Data Science Portfolio
     </div>
     <!-- Entry 1: CovidCast -->
     <div class="content-box">
