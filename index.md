@@ -52,7 +52,7 @@
             transition: all 0.3s ease;
         }
         .view-project:hover {
-            background-color: rgba(37, 161, 142, 0.7);
+            opacity: 0.7;
         }
     </style>
 </head>
