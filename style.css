@@ -1,0 +1,13 @@
+/* CSS HEX */
+--midnight-green: #004e64ff;
+--pacific-cyan: #00a5cfff;
+--honeydew: #e6fff1ff;
+--persian-green: #25a18eff;
+--jade: #5da46bff;
+
+/* CSS HSL */
+--midnight-green: hsla(193, 100%, 20%, 1);
+--pacific-cyan: hsla(192, 100%, 41%, 1);
+--honeydew: hsla(146, 100%, 95%, 1);
+--persian-green: hsla(171, 63%, 39%, 1);
+--jade: hsla(132, 28%, 50%, 1);
