@@ -13,7 +13,6 @@
         /* Global styles */
         body {
             font-family: 'Roboto', sans-serif;
-/*             background-color: #E6FFF1;  /* Updated background color */ */
             padding: 40px 20px;
             color: #333;
         }
