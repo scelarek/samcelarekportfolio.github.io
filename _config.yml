@@ -28,9 +28,8 @@ description: >
             font-size: 1.5em;
         }
         
-        #name-box h1 {
-            font-size: 1.2em;
-            margin: 0;
+        #name-box {
+            font-size: 1.4em;
         }
 
         #name-box a, #title-box a, .linkedin, .github, .resume {
@@ -39,7 +38,7 @@ description: >
             transition: transform 0.3s, opacity 0.3s;
         }
 
-        #name-box a:hover, #title-box a:hover, .linkedin:hover, .github:hover, .resume:hover {
+        #name-box h1:hover, #title-box a:hover, .linkedin:hover, .github:hover, .resume:hover {
             opacity: 0.9;
             transform: translateY(-3px);
             text-decoration: underline;  /* Added underline on hover */
