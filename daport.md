@@ -17,12 +17,6 @@
             color: #333;
             padding: 40px 20px;
         }
-        h2 {
-            font-family: 'Poppins', sans-serif;
-            text-align: center;
-            color: #555;
-            margin-bottom: 20px;
-        }
         a {
             color: #007BFF;
             text-decoration: none;
@@ -95,6 +89,22 @@
             outline: none;
             border: none;
         }
+        h2 {
+            font-family: 'Poppins', sans-serif;
+            text-align: center;
+            color: #25A18E;
+            margin-bottom: 20px;
+            font-weight: bold;
+            transition: transform 0.3s, opacity 0.3s;
+        }
+        h2 a {
+            color: #25A18E; /* Changed to match the background color of view-project */
+        }
+        h2 a:hover {
+            opacity: 0.9;
+            transform: translateY(-3px);
+            text-decoration: underline;
+        }
     </style>
 </head>
 
@@ -102,7 +112,7 @@
 <body>
     <section>
     <h1></h1>
-        <div style="text-align:center;" id="name-box">
+    <div style="text-align:center;" id="name-box">
         Data Analysis Portfolio
     </div>
     <hr>
