@@ -29,7 +29,7 @@ description: >
         }
         
         #name-box h1 {  /* New style to target the h1 inside name-box */
-            font-size: 2.2em; /* Adjust this value as per your preference */
+            font-size: 1.2em; /* Adjust this value as per your preference */
             margin: 0;  /* To reset default margin of h1 */
         }
 
