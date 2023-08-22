@@ -1,5 +1,3 @@
-title: Sam Celarek
-
 description: >
     <style>
         body {
@@ -65,6 +63,7 @@ description: >
     </style>
 
     <div class="sidebar-content">
+        <h1>Sam Celarek</h1> <!-- This is your title -->
         <img src="/images/Circle Sam.png?raw=true" alt="Sam Celarek">
         <div id="name-box">Data Scientist</div>
         
