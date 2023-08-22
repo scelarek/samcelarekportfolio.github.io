@@ -38,7 +38,7 @@ description: >
             transition: transform 0.3s, opacity 0.3s;
         }
 
-        #name-box h1:hover, #title-box a:hover, .linkedin:hover, .github:hover, .resume:hover {
+        #name-box a:hover, #title-box a:hover, .linkedin:hover, .github:hover, .resume:hover {
             opacity: 0.9;
             transform: translateY(-3px);
             text-decoration: underline;  /* Added underline on hover */
