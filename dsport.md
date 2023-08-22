@@ -75,7 +75,7 @@
 
 <body>
     <!-- Data Analysis Portfolio Section -->
-    <div class="name-box"><h2>Data Science Portfolio</h2> </div>
+    <div id="name-box"><h2>Data Science Portfolio</h2> </div>
     <!-- Entry 1: CovidCast -->
     <div class="content-box">
         <h2><a href="/pages/covid.html">CovidCast: Predict to Protect</a></h2>
