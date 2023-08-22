@@ -108,11 +108,9 @@
         }
     </style>
 </head>
-
 <body>
     <section>
-        <h1></h1>
-        <div style="text-align:center;" id="name-box">
+        <div id="name-box">
             Data Science Portfolio
         </div>
     <!-- Entry 1: CovidCast -->
