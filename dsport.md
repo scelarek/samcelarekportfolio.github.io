@@ -34,26 +34,6 @@
 <hr>
 
 <div align="center">
-    <h2><a href="/pages/google.html">Google Engrams: Data in the Clouds</a></h2>
-    <p style="font-size: 0.95em;">Hadoop &bull; AWS &bull; PySpark &bull; EDA</p>
-    <div style="background-color: #E0E0E0; padding: 20px; border-radius: 10px; margin: 10px 0; font-weight: bold;">
-        "Utilized the power of Hadoop, AWS, and PySpark on 260+ million entries in Google's corpus of books to analyze the frequency of the word 'data' over the past five hundred years."
-    </div>
-    <img src="https://github.com/scelarek/scelarek.github.io/assets/115444760/751e72f4-76bb-4628-b4bb-c07bcd602fe3" alt="Google Engrams Image">
-</div>
-<hr>
-
-<div align="center">
-    <h2><a href="/pages/kickstart.html">Kickstarter: The Business Behind Dreams</a></h2>
-    <p style="font-size: 0.95em;">SQL &bull; Data Wrangling &bull; EDA &bull; Classification</p>
-    <div style="background-color: #E0E0E0; padding: 20px; border-radius: 10px; margin: 10px 0; font-weight: bold;">
-        "Crafted a thorough business report using SQL, EDA, and classification models on 150,000+ entries to set viable fundraising targets for a tabletop board game campaign on Kickstarter."
-    </div>
-    <img src="https://github.com/scelarek/scelarek.github.io/assets/115444760/a07d8ef9-987d-45d5-8542-be7dbeee4a59" alt="Kickstarter Image">
-</div>
-<hr>
-
-<div align="center">
     <h2><a href="/pages/hotel.html">Predicting Hotel Ratings from Reviews</a></h2>
     <p style="font-size: 0.95em;">Feature Engineering &bull; Classification &bull; NLP &bull; Hyperparameter Tuning</p>
     <div style="background-color: #E0E0E0; padding: 20px; border-radius: 10px; margin: 10px 0; font-weight: bold;">
@@ -80,5 +60,25 @@
         "Streamlined machine learning workflow using pipelines to grid search across the performance of various regression, classification, and clustering models on toy datasets."
     </div>
     <img src="https://github.com/scelarek/scelarek.github.io/assets/115444760/c8cbf178-a154-4637-9aae-9f55a7204c6a" alt="DS Templates Image">
+</div>
+<hr>
+
+<div align="center">
+    <h2><a href="/pages/kickstart.html">Kickstarter: The Business Behind Dreams</a></h2>
+    <p style="font-size: 0.95em;">SQL &bull; Data Wrangling &bull; EDA &bull; Classification</p>
+    <div style="background-color: #E0E0E0; padding: 20px; border-radius: 10px; margin: 10px 0; font-weight: bold;">
+        "Crafted a thorough business report using SQL, EDA, and classification models on 150,000+ entries to set viable fundraising targets for a tabletop board game campaign on Kickstarter."
+    </div>
+    <img src="https://github.com/scelarek/scelarek.github.io/assets/115444760/a07d8ef9-987d-45d5-8542-be7dbeee4a59" alt="Kickstarter Image">
+</div>
+<hr>
+
+<div align="center">
+    <h2><a href="/pages/google.html">Google Engrams: Data in the Clouds</a></h2>
+    <p style="font-size: 0.95em;">Hadoop &bull; AWS &bull; PySpark &bull; EDA</p>
+    <div style="background-color: #E0E0E0; padding: 20px; border-radius: 10px; margin: 10px 0; font-weight: bold;">
+        "Utilized the power of Hadoop, AWS, and PySpark on 260+ million entries in Google's corpus of books to analyze the frequency of the word 'data' over the past five hundred years."
+    </div>
+    <img src="https://github.com/scelarek/scelarek.github.io/assets/115444760/751e72f4-76bb-4628-b4bb-c07bcd602fe3" alt="Google Engrams Image">
 </div>
 <hr>
