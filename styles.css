@@ -1,4 +1,3 @@
-
 body {
     font-family: Arial, sans-serif;
     background-color: #f5f5f5;
@@ -21,7 +20,7 @@ body {
     margin: 20px 0;
     padding: 10px;
     border-radius: 5px;
-    background-color: rgba(240, 240, 240, 0.7);
+    background-color: rgba(240, 240, 240, 0.9); /* Adjusted for a more visible gray box */
     text-align: center;
 }
 
@@ -33,21 +32,21 @@ body {
     color: white;
     text-decoration: none;
     margin-top: 10px;
+    font-size: 1.5em; /* Increase font size for the 'View Project' links */
 }
 
 .view-project:hover {
     opacity: 0.9;
 }
 
-h2,
-h3 {
+h2, h3 {
     text-align: center;
     color: gray;
 }
 
 .footer-quote {
     text-align: center;
-    background-color: rgba(240, 240, 240, 0.7);
+    background-color: rgba(220, 220, 220, 0.9); /* Adjusted for a more visible gray box in footer */
     padding: 10px;
     border-radius: 5px;
     margin-top: 20px;
