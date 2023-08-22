@@ -7,7 +7,7 @@ description: >
             padding: 40px 20px;
             margin: 0;
         }
-    
+
         .sidebar-content {
             background-color: #E6FFF1;
             padding: 20px;
@@ -16,8 +16,8 @@ description: >
             text-align: center;
             margin: 20px auto;
         }
-    
-        #name-box {
+
+        #name-box, #title-box {
             font-weight: bold;
             color: white;
             margin: 20px 0;
@@ -27,7 +27,18 @@ description: >
             display: inline-block;
             font-size: 1.5em; /* Increased font size */
         }
-    
+
+        #name-box a, #title-box a {
+            color: white;
+            text-decoration: none;
+            transition: transform 0.3s, opacity 0.3s;
+        }
+
+        #name-box a:hover, #title-box a:hover, .linkedin:hover, .github:hover, .resume:hover {
+            opacity: 0.9;
+            transform: translateY(-3px);
+        }
+
         .linkedin, .github, .resume {
             font-weight: bold;
             margin: 10px;
@@ -38,19 +49,13 @@ description: >
             display: inline-block;
             font-size: 1.1em;
             background-color: #25A18E;
-            transition: transform 0.3s, opacity 0.3s;
         }
-    
-        .linkedin:hover, .github:hover, .resume:hover {
-            opacity: 0.9;
-            transform: translateY(-3px);
-        }
-    
+
         .smaller-btn {
             font-size: 0.9em;
             padding: 8px 8px;
         }
-    
+
         .footer-quote {
             text-align: center;
             background-color: #F3FFF8;
@@ -62,14 +67,16 @@ description: >
         }
         
     </style>
+
     <div class="sidebar-content">
         <div id="name-box">
             <h1><a href="https://scelarek.github.io">Sam Celarek</a></h1>
         </div>
-    
+        
         <img src="/images/Circle Sam.png?raw=true" alt="Sam Celarek">
-        <div id="name-box">Data Scientist</div>
-    
+        
+        <div id="title-box">Data Scientist</div>
+        
         <div>
             Avid Data Explorer<br>
             ML Enthusiast<br>
@@ -78,7 +85,7 @@ description: >
             Energetic Teammate<br>
             Impact Driven<br>
         </div>
-    
+        
         <div>
             <a class="linkedin" href="https://www.linkedin.com/in/sam-celarek/">LinkedIn</a>
             <a class="github" href="https://github.com/scelarek">GitHub</a><br>
