@@ -65,6 +65,7 @@
             margin-top: 20px;
         }
         #name-box {
+            align: "center";
             font-weight: bold;
             color: white;
             margin: 20px 0;
@@ -80,7 +81,7 @@
 <body>
     <!-- Data Analysis Portfolio Section -->
     <div id="name-box">
-        <h2>Data Analysis Portfolio</h2>
+        Data Analysis Portfolio
     </div>
     <hr>
     <div class="content-box">
