@@ -1,6 +1,118 @@
-# **Data Analysis Portfolio**
-<hr>
+<html lang="en">
 
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;700&family=Roboto:wght@300;400;700&display=swap" rel="stylesheet">
+    <style>
+        /* Reset some default browser styles */
+        body, h2, p {
+            margin: 0;
+            padding: 0;
+        }
+        /* Global styles */
+        body {
+            font-family: 'Roboto', sans-serif;
+            background-color: #fff;
+            color: #333;
+            padding: 40px 20px;
+        }
+        h2 {
+            font-family: 'Poppins', sans-serif;
+            text-align: center;
+            color: #555;
+            margin-bottom: 20px;
+        }
+        a {
+            color: #007BFF;
+            text-decoration: none;
+        }
+        a:hover {
+            text-decoration: underline;
+        }
+        .content-box {
+            background-color: #E6FFF1;
+            padding: 20px;
+            border-radius: 10px;
+            box-shadow: 0 2px 10px rgba(0, 0, 0, 0.2);
+            text-align: center;
+            margin-bottom: 30px;
+        }
+        .description {
+            font-size: 0.9em;
+            margin: 5px 0;
+        }
+        .view-project {
+            display: inline-block;
+            background-color: #5DA46B;
+            padding: 10px 10px;
+            border-radius: 15px;
+            color: white;
+            font-weight: bold;
+            margin: 10px 0;
+            transition: all 0.3s ease;
+        }
+        .view-project:hover {
+            opacity: 0.7;
+        }
+        .featured-image {
+            max-width: 100%;
+            border-radius: 10px;
+            margin-top: 20px;
+        }
+    </style>
+</head>
+
+<body>
+    <!-- Data Analysis Portfolio Section -->
+    <h2>Data Analysis Portfolio</h2>
+    <hr>
+    <div class="content-box">
+        <h2><a href="/pages/google.html">Google Engrams: Data in the Clouds</a></h2>
+        <p class="description">Hadoop &bull; AWS &bull; PySpark &bull; EDA</p>
+        <div>
+            "Utilized the power of Hadoop, AWS, and PySpark on 260+ million entries in Google's corpus of books to analyze the frequency of the word 'data' over the past five hundred years."
+        </div>
+        <img src="https://github.com/scelarek/scelarek.github.io/assets/115444760/751e72f4-76bb-4628-b4bb-c07bcd602fe3" alt="Google Engrams Image" class="featured-image">
+    </div>
+    <hr>
+    <div class="content-box">
+        <h2><a href="/pages/bixi.html">BIXI: Making a Biker's Paradise</a></h2>
+        <p class="description">SQL &bull; Tableau &bull; Dashboards</p>
+        <div>
+            "Deployed SQL with Tableau to craft an EDA dashboard and strategic report on BIXI bike usage from 500,000+ entries to enhance urban mobility in Montreal Canada."
+        </div>
+        <img src="https://github.com/scelarek/scelarek.github.io/assets/115444760/f1b0d7c0-9346-4f77-8f79-ac0308aa17d5" alt="Biker's Paradise Image" class="featured-image">
+    </div>
+    <hr>
+    <div class="content-box">
+        <h2><a href="/pages/kickstart.html">Kickstarter: The Business Behind Dreams</a></h2>
+        <p class="description">SQL &bull; Data Wrangling &bull; EDA &bull; Classification</p>
+        <div>
+            "Crafted a thorough business report using SQL, EDA, and classification models on 150,000+ entries to set viable fundraising targets for a tabletop board game campaign on Kickstarter."
+        </div>
+        <img src="https://github.com/scelarek/scelarek.github.io/assets/115444760/a07d8ef9-987d-45d5-8542-be7dbeee4a59" alt="Kickstarter Image" class="featured-image">
+    </div>
+    <hr
+    <div class="content-box">
+        <h2><a href="pages/eternal.html">Eternal Growth, Immortal Inequality</a></h2>
+        <p class="description">Data Wrangling &bull; EDA &bull; Correlation Analysis</p>
+        <div class="description" style="background-color: #E0E0E0; padding: 20px; border-radius: 10px; margin: 10px 0; font-weight: bold;">
+            "Performed data tidying, feature engineering and EDA on Gapminder data to discern correlations between a nation's wealth, inequality, and well-being."
+        </div>
+        <img class="featured-image" src="https://github.com/scelarek/scelarek.github.io/assets/115444760/2c8ec283-452c-448a-96d3-330932912d67" alt="Eternal Growth Image">
+    </div>
+    <div class="content-box">
+        <h2><a href="/pages/global.html">Local vs Global Warming</a></h2>
+        <p class="description">SQL &bull; EDA &bull; Trend Analysis</p>
+        <div class="description" style="background-color: #E0E0E0; padding: 20px; border-radius: 10px; margin: 10px 0; font-weight: bold;">
+            "Analyzed historical global and city temperatures trends using SQL, Python, descriptive statistics, and employed linear regression to highlight patterns."
+        </div>
+        <img class="featured-image" src="https://github.com/scelarek/scelarek.github.io/assets/115444760/209c121a-1bca-4d00-b70e-907fcd8d298c" alt="Global Warming Image">
+    </div>
+
+
+<!--
 <div align="center">
     <h2><a href="/pages/google.html">Google Engrams: Data in the Clouds</a></h2>
     <p style="font-size: 0.95em;">Hadoop &bull; AWS &bull; PySpark &bull; EDA</p>
