@@ -83,11 +83,6 @@ footer {
     padding: 10px 0;  /* Optional: Add some padding for better appearance */
     border-radius: 5px; /* Optional: To match other elements' rounded corners */
 }
-
-.project-header, .project-description {
-    font-size: 1.5em; /* Adjust the size as necessary */
-}
-
 /* If you want the headers to be even bigger than the description, you can separate them: */
 .project-header {
     font-size: 1.8em; /* Adjust the size as necessary */
