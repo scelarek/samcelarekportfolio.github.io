@@ -5,16 +5,6 @@ body {
     margin: 0;
 }
 
-#name-box {
-    background-color: gray;
-    padding: 10px;
-    font-weight: bold;
-    border-radius: 5px;
-    text-align: center;
-    color: white;
-    margin-bottom: 20px;
-}
-
 .description,
 .project-description {
     margin: 20px 0;
@@ -26,7 +16,7 @@ body {
 
 .view-project {
     display: inline-block;
-    background-color: #388E3C;
+    background-color: gray;
     padding: 5px 15px;
     border-radius: 15px;
     color: white;
