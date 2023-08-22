@@ -93,7 +93,7 @@
         </div>
         <img src="https://github.com/scelarek/scelarek.github.io/assets/115444760/a07d8ef9-987d-45d5-8542-be7dbeee4a59" alt="Kickstarter Image" class="featured-image">
     </div>
-    <hr
+    <hr>
     <div class="content-box">
         <h2><a href="pages/eternal.html">Eternal Growth, Immortal Inequality</a></h2>
         <p class="description">Data Wrangling &bull; EDA &bull; Correlation Analysis</p>
