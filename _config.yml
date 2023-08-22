@@ -56,7 +56,7 @@ description: >
     .linkedin:hover, .github:hover, .resume:hover {
         opacity: 0.9;
     }
-    }
+
     .footer-quote {
         text-align: center;
         background-color: #fff;
