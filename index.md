@@ -1,3 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Sam Celarek's Portfolio</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <h1>Sam Celarek</h1>
+        <p>Data Scientist | Machine Learning Enthusiast</p>
+    </header>
+    <section>
+        <h2>Projects</h2>
+        <div class="project">
+            <h3>Github</h3>
+            <p>Welcome to Sam's Playground</p>
+            <a href="https://github.com/scelarek">View on GitHub</a>
+        </div>
+        <div class="project">
+            <h3>Data Science Projects</h3>
+            <p>Check out my data science focused projects.</p>
+            <a href="/dsport.html">View on GitHub</a>
+        </div>
+        <div class="project">
+            <h3>Data Analysis Projects</h3>
+            <p>Check out my data analysis focused projects.</p>
+            <a href="/dsport.html">View on GitHub</a>
+        </div>
+    </section>
+    <footer>
+        <p>“Whether the future is wonderful or terrible is, in part, up to us.”
+― William MacAskill, What We Owe the Future</p>
+    </footer>
+</body>
+</html>
+
+<!-- 
 # **Data Science Portfolio**
 
 ---
@@ -116,4 +155,4 @@
 </div>
 <hr>
 
-<p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
+-->
