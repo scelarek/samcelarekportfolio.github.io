@@ -63,3 +63,34 @@ h3 {
     border-radius: 5px;
     margin-top: 20px;
 }
+.da-project {
+    background-color: gray;
+}
+
+.ea-project {
+    background-color: green;
+}
+
+.featured-project {
+    background-color: #FFC0CB; /* Light Red */
+    margin-top: 20px;
+    margin-bottom: 20px;
+    padding: 20px;
+    border-radius: 5px;
+}
+footer {
+    background-color: gray;
+    padding: 10px 0;  /* Optional: Add some padding for better appearance */
+    border-radius: 5px; /* Optional: To match other elements' rounded corners */
+}
+
+.project-header, .project-description {
+    font-size: 1.5em; /* Adjust the size as necessary */
+}
+
+/* If you want the headers to be even bigger than the description, you can separate them: */
+.project-header {
+    font-size: 1.8em; /* Adjust the size as necessary */
+}
+
+
