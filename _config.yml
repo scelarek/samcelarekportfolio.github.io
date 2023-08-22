@@ -88,17 +88,24 @@ description: >
             Energetic Teammate<br>
             Impact Driven<br>
         </div>
+    
         <div>
             <a class="linkedin" href="https://www.linkedin.com/in/sam-celarek/">LinkedIn</a>
             <a class="github" href="https://github.com/scelarek">GitHub</a><br>
-            <a class="resume smaller-btn" href="">My Resume</a>
-            <a class="resume smaller-btn" href="mailto:scelarek@gmail.com">Contact Me</a>
+            <a class="resume smaller-btn" href="https://drive.google.com/file/d/1efDKQhfODJLj5-FZS7EEePUJkgCsBtUr/view?usp=sharing">My Resume</a>
+            <a class="resume smaller-btn" href="mailto:scelarek@gmail.com">Email Me!</a>
         </div>
     </div>
+    
     <footer>
         <p class="footer-quote">“You can't actually feel the weight of the world. The human mind is not capable of that feat. 
         But sometimes, you can catch a glimpse.” <br> ― Nates Soares, On Caring</p>
     </footer>
+
+remote_theme: pages-themes/minimal@v0.2.0
+plugins:
+  - jekyll-remote-theme
+google_analytics: G-Y2C3F7G3VW
 
 remote_theme: pages-themes/minimal@v0.2.0
 plugins:
