@@ -101,7 +101,7 @@
 
 <body>
     <!-- Data Science Portfolio Section -->
-    <div id="name-box">
+    <div style="text-align:center;" id="name-box">
         Data Science Portfolio
     </div>
     <hr>
