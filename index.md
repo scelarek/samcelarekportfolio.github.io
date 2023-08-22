@@ -1,4 +1,5 @@
 <html lang="en">
+
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -7,15 +8,22 @@
 
 <body>
     <section>
-        <div class="project">
+        <!-- Featured Project -->
+        <div class="project featured-project">
+            <a href="/covidcast.html" class="project-header">Featured Project: CovidCast</a>
+            <p class="project-description">A comprehensive data-driven approach to tracking and analyzing the spread of COVID-19. Leveraging state-of-the-art tools and machine learning techniques, CovidCast provides valuable insights to researchers, policymakers, and the general public. Features include trend prediction, regional analysis, and data visualization.</p>
+        </div>
+        <div class="project ds-project">
             <a href="/dsport.html" class="project-header">Data Science Projects</a>
             <p class="project-description">Time Series Forecasting &bull; Hyperparameter Tuning &bull; Feature Engineering &bull; Web Scraping &bull; Regression &bull; Classification &bull; Clustering &bull; Deep Learning &bull; NLP &bull; Pipelines &bull; Grid Search &bull; Retrieval Augmented AI Text Generation &bull; LLMs </p>
         </div>
-        <div class="project">
+        <!-- Data Analysis Projects in Gray -->
+        <div class="project da-project">
             <a href="/daport.html" class="project-header">Data Analysis Projects</a>
             <p class="project-description">Databases &bull; SQL &bull; Data Wrangling &bull; Data Cleaning &bull; Data Tidying &bull; Cloud Computation &bull; EDA &bull; Descriptive Statistics &bull; Correlation Analysis &bull; Trend Analysis &bull; Tableau &bull; Dashboards &bull; Business Reports &bull; Data Visualization &bull; Data Communication </p>
         </div>
-        <div class="project">
+        <!-- Effective Altruism Projects in Green -->
+        <div class="project ea-project">
             <a href="https://portlandear.wordpress.com/" class="project-header">Effective Altruism Projects</a>
             <p class="project-description">Community Building &bull; Leadership &bull; Agenda Setting &bull; Volunteer Work &bull; Presentations &bull; Outreach &bull; Philosophy &bull; Economics &bull; Research</p>
         </div>
