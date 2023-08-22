@@ -1,3 +1,4 @@
+title: Sam Celarek
 description: >
     <style>
     body {
@@ -19,7 +20,7 @@ description: >
     
     #name-box {
         font-weight: bold;
-        color: #333;
+        color: white;
         margin-top: 10px;
         background-color: #004E64;  /* Matching the color with .github */
         border-radius: 15px;
@@ -28,6 +29,7 @@ description: >
     }
 
     .linkedin, .github, .resume {
+        font-weight: bold;
         margin: 15px;
         padding: 15px 45px;
         color: white;
@@ -72,9 +74,7 @@ description: >
 
     <div class="sidebar-content">
         <img src="/images/Circle Sam.png?raw=true" alt="Sam Celarek">
-        <div id="name-box">Sam Celarek
-        <div>Data Scientist | Impact Driven</div>
-        </div>
+        <div id="name-box">Data Scientist | Impact Driven</div>
     
         <div>
             Avid Data Explorer<br>
