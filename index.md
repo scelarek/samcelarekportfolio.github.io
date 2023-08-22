@@ -47,7 +47,7 @@
         }
         .view-project {
             display: inline-block;
-            background-color: #007BFF;
+            background-color: #7AE582;
             padding: 10px 20px;
             border-radius: 30px;
             color: white;
@@ -95,9 +95,6 @@
             <p class="project-description">Community Building &bull; Leadership &bull; Agenda Setting &bull; Volunteer Work &bull; Presentations &bull; Outreach &bull; Philosophy &bull; Economics &bull; Research</p>
         </div>
     </section>
-    <footer>
-        <p class="footer-quote">“Whether the future is wonderful or terrible is, in part, up to us.” ― William MacAskill, What We Owe the Future</p>
-    </footer>
 </body>
 
 </html>
