@@ -89,7 +89,7 @@
 
 <body>
     <!-- Data Analysis Portfolio Section -->
-    <div id="name-box">
+    <div align="center" id="name-box">
         Data Analysis Portfolio
     </div>
     <hr>
