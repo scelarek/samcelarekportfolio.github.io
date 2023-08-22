@@ -74,7 +74,7 @@
 </head>
 
 <body>
-    <!-- Data Analysis Portfolio Section -->
+    <!-- Data Science Portfolio Section -->
     <div id="name-box">
         <h2>Data Science Portfolio</h2>
     </div>
