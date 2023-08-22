@@ -13,7 +13,7 @@
         /* Global styles */
         body {
             font-family: 'Roboto', sans-serif;
-            background-color: #fff; /* Adjusted this line to set the background color to white */
+            background-color: #fff;
             padding: 40px 20px;
             color: #333;
         }
@@ -25,13 +25,15 @@
         }
         a {
             color: #007BFF;
-            text-decoration: none;
+            text-decoration: underline; /* Added underline to all links */
         }
         a:hover {
             text-decoration: underline;
+            opacity: 0.9;
+            transform: translateY(-3px); /* Added matching hover behavior */
         }
         .project-content {
-            background-color: #E6FFF1; /* #fff */
+            background-color: #E6FFF1;
             padding: 10px;
             border-radius: 5px;
             box-shadow: 0 2px 10px rgba(0, 0, 0, 0.2);
@@ -39,21 +41,29 @@
             margin-bottom: 30px;
         }
         .project-description {
-            font-size: 0.9em; /* Made the project description text smaller */
+            font-size: 0.9em;
             margin: 5px 0;
         }
         .view-project {
             display: inline-block;
-            background-color: #5DA46B;
+            background-color: #25A18E;
             padding: 10px 10px;
             border-radius: 15px;
             color: white;
             font-weight: bold;
             margin: 10px 0;
+            font-family: 'Poppins', sans-serif; /* Changed font for better legibility */
             transition: all 0.3s ease;
         }
         .view-project:hover {
-            opacity: 0.7;
+            opacity: 0.9;
+            transform: translateY(-3px); /* Matching hover behavior */
+        }
+        .project-content:first-child {
+            background-color: #CFF2FB; /* Changed the background color for the Featured Project */
+        }
+        .project-content:first-child .view-project {
+            background-color: #00A5CF; /* Changed the background color for the Featured Project's view project link */
         }
     </style>
 </head>
