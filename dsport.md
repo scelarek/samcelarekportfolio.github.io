@@ -99,7 +99,7 @@
 </head>
 
 <body>
-    <!-- Data Analysis Portfolio Section -->
+<section>
     <div style="text-align:center;" id="name-box">
         Data Science Portfolio
     </div>
@@ -168,4 +168,6 @@
         <a href="/pages/google.html" class="view-project">Read More</a>
     </div>
 </body>
+
+</section>
 </html>
