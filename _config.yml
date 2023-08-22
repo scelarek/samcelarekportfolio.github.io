@@ -30,6 +30,7 @@ description: >
         
         #name-box {
             font-size: 1.4em;
+            margin: 0px 0;
         }
     
         #name-box a, #title-box a, .linkedin, .github, .resume {
