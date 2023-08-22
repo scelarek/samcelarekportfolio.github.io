@@ -13,7 +13,7 @@
         /* Global styles */
         body {
             font-family: 'Roboto', sans-serif;
-            background-color: #E6FFF1;  /* Updated background color */
+/*             background-color: #E6FFF1;  /* Updated background color */ */
             padding: 40px 20px;
             color: #333;
         }
@@ -31,29 +31,29 @@
             text-decoration: underline;
         }
         .project-content {
-            background-color: #fff;
-            padding: 20px;
+            background-color: #E6FFF1; /* #fff */
+            padding: 10px;
             border-radius: 5px;
-            box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);
+            box-shadow: 0 2px 10px rgba(0, 0, 0, 0.2);
             text-align: center;
             margin-bottom: 30px;
         }
         .project-description {
             font-size: 0.9em; /* Made the project description text smaller */
-            margin: 10px 0;
+            margin: 5px 0;
         }
         .view-project {
             display: inline-block;
             background-color: #5DA46B;
-            padding: 10px 20px;
-            border-radius: 30px;
+            padding: 10px 10px;
+            border-radius: 15px;
             color: white;
             font-weight: bold;
-            margin: 20px 0;
+            margin: 10px 0;
             transition: all 0.3s ease;
         }
         .view-project:hover {
-            background-color: rgba(0, 91, 179, 0.8); /* Added translucent effect on hover */
+            background-color: rgba(37, 161, 142, 0.7);
         }
     </style>
 </head>
