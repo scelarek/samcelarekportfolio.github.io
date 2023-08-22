@@ -109,10 +109,12 @@
     </style>
 </head>
 <body>
+    <hr>
     <section>
-        <div id="name-box">
-            Data Science Portfolio
-        </div>
+    <div id="name-box">
+        Data Science Portfolio
+    </div>
+    <hr>
     <!-- Entry 1: CovidCast -->
     <div class="content-box">
         <h2><a href="/pages/covid.html" class="project-title">CovidCast: Predict to Protect</a></h2>
@@ -121,6 +123,7 @@
         <img class="featured-image" src="https://github.com/scelarek/scelarek.github.io/assets/115444760/00381f16-48b4-4b64-bcb8-3df639dca68d" alt="COVIDCast Image">
         <a href="/pages/covid.html" class="view-project">Read More</a>
     </div>
+    <hr>
     <!-- Entry 2: SideBard -->
     <div class="content-box">
         <h2><a href="/pages/sidebard.html" class="project-title">SideBard for Google</a></h2>
@@ -129,6 +132,8 @@
         <img class="featured-image" src="https://github.com/scelarek/scelarek.github.io/assets/115444760/c92477af-6723-4dbf-b471-711889ed3808" alt="SideBard Image">
         <a href="/pages/sidebard.html" class="view-project">Read More</a>
     </div>
+    <hr>
+    <hr>
     <!-- Entry 3: Puppularity Contest -->
     <div class="content-box">
         <h2><a href="/pages/twitter.html" class="project-title">Puppularity Contest</a></h2>
@@ -137,6 +142,7 @@
         <img class="featured-image" src="https://github.com/scelarek/scelarek.github.io/assets/115444760/f37fb5d6-2f11-48b3-8ebf-7328e7e13c28" alt="Twitter API Image">
         <a href="/pages/twitter.html" class="view-project">Read More</a>
     </div>
+    <hr>
     <!-- Entry 4: Predicting Hotel Ratings from Reviews -->
     <div class="content-box">
         <h2><a href="/pages/hotel.html" class="project-title">Predicting Hotel Ratings from Reviews</a></h2>
@@ -145,6 +151,7 @@
         <img class="featured-image" src="https://github.com/scelarek/scelarek.github.io/assets/115444760/0db26b37-9d89-49d1-9900-0fe648e8215b" alt="Hotel Reviews Image">
         <a href="/pages/hotel.html" class="view-project">Read More</a>
     </div>
+    <hr>
     <!-- Entry 5: West Nile Watch -->
     <div class="content-box">
         <h2><a href="/pages/wnv.html" class="project-title">West Nile Watch</a></h2>
@@ -153,6 +160,7 @@
         <img class="featured-image" src="https://github.com/scelarek/scelarek.github.io/assets/115444760/dc1b5c27-eb6e-4f07-ac60-39734d601556" alt="West Nile Watch Image">
         <a href="/pages/wnv.html" class="view-project">Read More</a>
     </div>
+    <hr>
     <!-- Entry 6: DS Templates and ML Guides -->
     <div class="content-box">
         <h2><a href="/pages/reference.html" class="project-title">DS Templates and ML Guides</a></h2>
@@ -161,6 +169,7 @@
         <img class="featured-image" src="https://github.com/scelarek/scelarek.github.io/assets/115444760/c8cbf178-a154-4637-9aae-9f55a7204c6a" alt="DS Templates Image">
         <a href="/pages/reference.html" class="view-project">Read More</a>
     </div>
+    <hr>
     <!-- Entry 7: Kickstarter -->
     <div class="content-box">
         <h2><a href="/pages/kickstart.html" class="project-title">Kickstarter: The Business Behind Dreams</a></h2>
@@ -169,6 +178,7 @@
         <img class="featured-image" src="https://github.com/scelarek/scelarek.github.io/assets/115444760/a07d8ef9-987d-45d5-8542-be7dbeee4a59" alt="Kickstarter Image">
         <a href="/pages/kickstart.html" class="view-project">Read More</a>
     </div>
+    <hr>
     <!-- Entry 8: Google Engrams -->
     <div class="content-box">
         <h2><a href="/pages/google.html" class="project-title">Google Engrams: Data in the Clouds</a></h2>
