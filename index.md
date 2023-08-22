@@ -13,6 +13,7 @@
         /* Global styles */
         body {
             font-family: 'Roboto', sans-serif;
+            background-color: #fff; /* Adjusted this line to set the background color to white */
             padding: 40px 20px;
             color: #333;
         }
