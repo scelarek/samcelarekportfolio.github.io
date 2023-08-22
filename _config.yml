@@ -9,55 +9,56 @@ description: >
             padding: 40px 20px;
             margin: 0;
         }
-
+    
         .sidebar-content {
-            background-color: #E6FFF1; 
+            background-color: #E6FFF1;
             padding: 20px;
             border-radius: 5px;
             box-shadow: 0 2px 10px rgba(0, 0, 0, 0.2);
             text-align: center;
             margin: 20px auto;
         }
-
+    
         #name-box {
             font-weight: bold;
             color: white;
             margin: 20px 0;
-            background-color: #25A18E;
+            background-color: #004e64ff; /* Midnight-green */
             border-radius: 15px;
             padding: 15px 20px;
             display: inline-block;
+            font-size: 1.5em; /* Increased font size */
         }
-
+    
         .linkedin, .github, .resume {
             font-weight: bold;
             margin: 10px;
             padding: 12px 40px;
             color: white;
-            text-decoration: none;
+            text-decoration: underline; /* Added underline */
             border-radius: 15px;
             display: inline-block;
             font-size: 1.1em;
             background-color: #25A18E;
             transition: transform 0.3s, opacity 0.3s;
         }
-
+    
         .linkedin:hover, .github:hover, .resume:hover {
             opacity: 0.9;
             transform: translateY(-3px);
         }
-
+    
         .smaller-btn {
             font-size: 0.9em;
             padding: 8px 8px;
         }
-
+    
         .footer-quote {
             text-align: center;
             background-color: #fff;
             padding: 20px;
             border-radius: 5px;
-            margin-top: 40px;
+            margin-top: 60px; /* Increased space */
             box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);
             font-style: italic;
         }
