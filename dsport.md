@@ -101,7 +101,7 @@
 <body>
 <section>
     <div style="text-align:center;" id="name-box">
-        Data Science Portfolio
+        <h2>Data Science Portfolio</h2>
     </div>
     <!-- Entry 1: CovidCast -->
     <div class="content-box">
