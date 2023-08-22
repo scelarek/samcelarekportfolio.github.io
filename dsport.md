@@ -99,10 +99,10 @@
 </head>
 
 <body>
-<section>
-    <div style="text-align:center;" id="name-box">
-        <h2>Data Science Portfolio</h2>
-    </div>
+    <section>
+        <div style="text-align:center;" id="name-box">
+            <h2>Data Science Portfolio</h2>
+        </div>
     <!-- Entry 1: CovidCast -->
     <div class="content-box">
         <h2><a href="/pages/covid.html">CovidCast: Predict to Protect</a></h2>
