@@ -66,14 +66,15 @@ description: >
 
     <div class="sidebar-content">
         <img src="/images/Circle Sam.png?raw=true" alt="Sam Celarek">
-        <div id="name-box">Data Scientist | Impact Driven</div>
+        <div id="name-box">Data Scientist</div>
         
         <div>
             Avid Data Explorer<br>
             ML Enthusiast<br>
             Coding Everyday<br>
             Strong Medical Background<br>
-            Energetic Teammate
+            Energetic Teammate<br>
+            Impact Driven<br>
         </div>
         
         <div>
