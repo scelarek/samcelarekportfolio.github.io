@@ -95,7 +95,8 @@ description: >
     </div>
     
     <footer>
-        <p class="footer-quote">“You can't actually feel the weight of the world. The human mind is not capable of that feat. But sometimes, you can catch a glimpse.” ― Nates Soares, On Caring</p>
+        <p class="footer-quote">“You can't actually feel the weight of the world. The human mind is not capable of that feat. 
+        But sometimes, you can catch a glimpse.” <br> ― Nates Soares, On Caring</p>
     </footer>
 
 remote_theme: pages-themes/minimal@v0.2.0
