@@ -55,7 +55,7 @@ description: >
             padding: 12px 40px;
             border-radius: 15px;
             display: inline-block;
-            font-size: 1.8em;
+            font-size: 1.5em;
             background-color: #004e64ff;
         }
         .smaller-btn {
