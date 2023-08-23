@@ -192,7 +192,7 @@
             <img class="featured-image" src="https://github.com/scelarek/scelarek.github.io/assets/115444760/751e72f4-76bb-4628-b4bb-c07bcd602fe3" alt="Google Engrams Image">
         </div>
         <div>
-            <p class="footer-quote">““The broader intellectual world seems to wildly overestimate how long it will take A.I. systems to go from ‘large impact on the world’ to ‘unrecognizably transformed world.’”<br>― Paul Christiano</p>
+            <p class="footer-quote">“The first principle is that you must not fool yourself—and you are the easiest person to fool.”<br>― Richard Feynman</p>
         </div>
     </section>
 </body>
