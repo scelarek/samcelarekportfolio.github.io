@@ -105,11 +105,15 @@
             display: inline-block;
             font-size: 1.5em;
             background-color: #004e64ff;
+        }        
+        .invisible-text {
+        color: #fff; /* This is the color of your background, adjust if needed */
         }
     </style>
 </head>
 <body>
     <section>
+        <span class="invisible-text">This is some invisible text.</span>
         <div>
             <a class="title-box" href="https://scelarek.github.io">Data Analysis Portfolio</a>
         </div>
