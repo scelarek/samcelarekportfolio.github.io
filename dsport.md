@@ -44,6 +44,23 @@
             font-size: 0.9em;
             margin: 5px 0;
         }
+        .description {
+            font-size: 0.9em;
+            margin: 5px 0;
+            background-color: #E0E0E0;
+            padding: 20px;
+            border-radius: 10px;
+            font-weight: bold;
+        }
+        .skill-description {
+            font-size: 0.8em;        /* Smaller text */
+            font-weight: normal;     /* Non-bold font */
+            text-align: center;     /* Centered text */
+            background-color: transparent; /* No background */
+            margin: 5px 0;
+            padding: 10px;
+            border-radius: 10px;
+        }
         .view-project {
             display: inline-block;
             background-color: #25A18E;
@@ -54,14 +71,6 @@
             margin: 10px 0;
             font-family: 'Poppins', sans-serif; /* Changed font for better legibility */
             transition: all 0.3s ease;
-        }
-        .description {
-            font-size: 0.9em;
-            margin: 5px 0;
-            background-color: #E0E0E0;
-            padding: 20px;
-            border-radius: 10px;
-            font-weight: bold;
         }
         .view-project:hover {
             opacity: 0.9;
@@ -76,15 +85,6 @@
         }
         .project-content.featured h2 {
             color: #00A5CF; /* Added a different color for the Featured Project title */
-        }
-        .skill-description {
-            font-size: 0.8em;        /* Smaller text */
-            font-weight: normal;     /* Non-bold font */
-            text-align: center;     /* Centered text */
-            background-color: transparent; /* No background */
-            margin: 5px 0;
-            padding: 10px;
-            border-radius: 10px;
         }
     </style>
 </head>
