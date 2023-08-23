@@ -155,6 +155,10 @@
             <p class="description">"Analyzed historical global and city temperatures trends using SQL, Python, descriptive statistics, and employed linear regression to highlight patterns."</p>
             <img class="featured-image" src="https://github.com/scelarek/scelarek.github.io/assets/115444760/209c121a-1bca-4d00-b70e-907fcd8d298c" alt="Global Warming Image">
         </div>
+        <div>
+            <p class="footer-quote">“You can't actually feel the weight of the world. The human mind is not capable of that feat. 
+            But sometimes, you can catch a glimpse.” <br> ― Nates Soares, On Caring</p>
+        </div>
     </section>
 </body>
 </html>
