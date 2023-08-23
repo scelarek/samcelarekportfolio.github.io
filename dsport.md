@@ -5,106 +5,69 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;700&family=Roboto:wght@300;400;700&display=swap" rel="stylesheet">
     <style>
+        /* Reset some default browser styles */
         body, h2, p {
             margin: 0;
             padding: 0;
         }
+        /* Global styles */
         body {
             font-family: 'Roboto', sans-serif;
-            background-color: #f5f5f5;
-            color: #333;
+            background-color: #fff;
             padding: 40px 20px;
+            color: #333;
+        }
+        h2 {
+            font-family: 'Poppins', sans-serif;
+            text-align: center;
+            color: #555;
+            margin-bottom: 20px;
         }
         a {
             color: #007BFF;
-            text-decoration: none;
+            text-decoration: underline; /* Added underline to all links */
         }
         a:hover {
             text-decoration: underline;
+            opacity: 0.9;
+            transform: translateY(-3px); /* Added matching hover behavior */
         }
-        .content-box {
+        .project-content {
             background-color: #E6FFF1;
-            padding: 20px;
-            border-radius: 10px;
-            box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);
+            padding: 10px;
+            border-radius: 5px;
+            box-shadow: 0 2px 10px rgba(0, 0, 0, 0.2);
             text-align: center;
             margin-bottom: 30px;
         }
-        .description {
+        .project-description {
             font-size: 0.9em;
-            margin: 10px 0;
-            background-color: #f2f2f2;
-            padding: 15px;
-            border-radius: 10px;
+            margin: 5px 0;
         }
         .view-project {
             display: inline-block;
-            background-color: #5DA46B;
-            padding: 10px 20px;
-            border-radius: 10px;
+            background-color: #25A18E;
+            padding: 10px 10px;
+            border-radius: 15px;
             color: white;
             font-weight: bold;
             margin: 10px 0;
+            font-family: 'Poppins', sans-serif; /* Changed font for better legibility */
             transition: all 0.3s ease;
         }
         .view-project:hover {
-            opacity: 0.8;
-        }
-        .featured-image {
-            max-width: 100%;
-            border-radius: 10px;
-            margin-top: 20px;
-        }
-        #name-box {
-            text-align: center;
-            font-weight: bold;
-            color: white;
-            margin: 20px 0;
-            background-color: #004e64ff;
-            border-radius: 10px;
-            padding: 15px 20px;
-            display: inline-block;
-        }
-        .skill-description {
-            font-size: 0.8em;
-            text-align: center;
-            background-color: transparent;
-            margin: 5px 0;
-            padding: 10px;
-            border-radius: 10px;
-        }
-        .expand-btn {
-            background-color: #5da46bff;
-            color: white;
-            padding: 5px 15px;
-            border-radius: 5px;
-            cursor: pointer;
-            font-weight: bold;
-            margin-top: 10px;
-            outline: none;
-            border: none;
-        }
-        .project-title {
-            display: inline-block;
-            background-color: #25A18E;
-            padding: 10px 20px;
-            border-radius: 10px;
-            color: white;
-            font-weight: bold;
-            margin: 10px 0;
-            font-family: 'Poppins', sans-serif;
-            transition: all 0.3s ease;
-        }
-        .project-title:hover {
             opacity: 0.9;
-            transform: translateY(-3px);
+            transform: translateY(-3px); /* Matching hover behavior */
         }
-        .project-content:first-child {
-            background-color: #CFF2FB;
-            box-shadow: 0 2px 20px rgba(0, 123, 255, 0.25);
+        /* Styling for the Featured Project */
+        .project-content.featured {
+            background-color: #CFF2FB; 
         }
-        .project-content:first-child .project-title {
-            background-color: #00A5CF;
+        .project-content.featured .view-project {
+            background-color: #00A5CF; 
+        }
+        .project-content.featured h2 {
+            color: #00A5CF; /* Added a different color for the Featured Project title */
         }
     </style>
 </head>
@@ -113,7 +76,8 @@
         <div id="name-box">Data Science Portfolio</div>
         <hr>
         <!-- Entry 1: CovidCast -->
-        <div class="content-box">
+        <div class="project-content featured">
+            <h2>Featured Project</h2>
             <h2><a href="/pages/covid.html" class="project-title">CovidCast: Predict to Protect</a></h2>
             <p class="skill-description">Time Series Forecasting &bull; Hyperparameter Tuning &bull; Feature Engineering &bull; Data Wrangling &bull; EDA</p>
             <p class="description">"Like a weather forecast for pandemics, COVIDCast leverages state-of-the-art machine learning and epidemiological models to deliver precise outbreak predictions."</p>
