@@ -106,6 +106,12 @@
             transform: translateY(-3px); /* Matching hover behavior */
             text-decoration: underline;  /* Underline on hover for the title */
         }
+        .project-content:first-child {
+            background-color: #CFF2FB; /* Changed the background color for the Featured Project */
+        }
+        .project-content:first-child .project-title {
+            background-color: #00A5CF; /* Changed the background color for the Featured Project's view project link */
+        }
     </style>
 </head>
 <body>
