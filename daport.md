@@ -82,7 +82,7 @@
             <p class="skill-description">Hadoop &bull; AWS &bull; PySpark &bull; EDA</p>
             <p class="description">Utilized Hadoop, AWS, and PySpark on 260+ million entries in Google's corpus of books to analyze the frequency of the word 'data' over the past five hundred years.</p>
             <img src="https://github.com/scelarek/scelarek.github.io/assets/115444760/751e72f4-76bb-4628-b4bb-c07bcd602fe3" alt="Google Engrams Image" class="featured-image">
-        </div>
+        </div> </div> 
         <hr>
         <div class="content-box">
             <h2><a href="/pages/kickstart.html" class="project-title">Kickstarter: The Business Behind Dreams</a></h2>
