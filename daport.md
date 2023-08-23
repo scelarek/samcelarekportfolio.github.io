@@ -125,9 +125,16 @@
         <div class="center-container">
             <a class="title-box" href="https://scelarek.github.io">Data Analysis Portfolio</a>
         </div>
-        <hr>
+        <hr>      
         <div class="project-content featured">
             <h2>Featured Project</h2>
+            <h2><a href="/pages/bixi.html">BIXI: Making a Biker's Paradise</a></h2>
+            <p class="skill-description">SQL &bull; Tableau &bull; Dashboards</p>
+            <p class="description">"Deployed SQL with Tableau to craft an EDA dashboard and strategic report on BIXI bike usage from 500,000+ entries to enhance urban mobility in Montreal Canada."</p>
+            <img src="https://github.com/scelarek/scelarek.github.io/assets/115444760/f1b0d7c0-9346-4f77-8f79-ac0308aa17d5" alt="Biker's Paradise Image">
+        </div>
+        <hr>
+        <div class="project-content">
             <h2><a href="/pages/google.html" class="project-title">Google Engrams: Data in the Clouds</a></h2>
             <p class="skill-description">Hadoop &bull; AWS &bull; PySpark &bull; EDA</p>
             <p class="description">Utilized Hadoop, AWS, and PySpark on 260+ million entries in Google's corpus of books to analyze the frequency of the word 'data' over the past five hundred years.</p>
