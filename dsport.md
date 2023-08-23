@@ -86,17 +86,16 @@
         .project-content.featured h2 {
             color: #00A5CF; /* Added a different color for the Featured Project title */
         }
+        .center-container {
+            display: flex;
+            justify-content: center; /* Horizontal centering */
+            align-items: center;     /* Vertical centering */
+            height: 100vh;           /* Take up the full viewport height */
+        }
         .title-box {
             color: white;
             text-decoration: none;
             transition: transform 0.3s, opacity 0.3s;
-        }
-        .title-box:hover {
-            opacity: 0.9;
-            transform: translateY(-3px);
-            text-decoration: underline;  /* Consistent underline on hover */
-        }
-        .title-box {     
             text-align: center;
             font-weight: bold;
             margin: 10px;
@@ -105,16 +104,17 @@
             display: inline-block;
             font-size: 1.5em;
             background-color: #004e64ff;
-        }    
-        .invisible-text {
-        color: #fff; /* This is the color of your background, adjust if needed */
+        }
+        .title-box:hover {
+            opacity: 0.9;
+            transform: translateY(-3px);
+            text-decoration: underline; 
         }
     </style>
 </head>
 <body>
     <section>
-        <span class="invisible-text">This is some invisible text.</span>
-        <div>
+        <div class="center-container">
             <a class="title-box" href="https://scelarek.github.io">Data Science Portfolio</a>
         </div>
         <hr>
