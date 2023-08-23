@@ -90,7 +90,6 @@
             display: flex;
             justify-content: center; /* Horizontal centering */
             align-items: center;     /* Vertical centering */
-            height: 100vh;           /* Take up the full viewport height */
         }
         .title-box {
             color: white;
