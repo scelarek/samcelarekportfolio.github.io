@@ -110,7 +110,9 @@
 </head>
 <body>
     <section>
-        <div class="title-box" href="https://scelarek.github.io">Data Science Portfolio</div>
+        <div>
+            <a class="title-box" href="https://scelarek.github.io">Data Science Portfolio</a>
+        </div>
         <hr>
         <!-- Entry 1: CovidCast -->
         <div class="project-content featured">
