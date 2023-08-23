@@ -17,7 +17,7 @@ description: >
             margin: 20px auto;
         }
     
-        #name-box, #title-box {
+        #title-box {
             font-weight: bold;
             color: white;
             margin: 10px 0 10px 0; /* Adjusted the margin to have 10px at the bottom */
@@ -27,25 +27,20 @@ description: >
             display: inline-block;
             font-size: 1.5em;
         }
-    
-        #name-box {
-            font-size: 1.4em;
-            margin: 0px 0; /* Equal margin top and bottom */
-        }
-    
-        #name-box a, #title-box a, .linkedin, .github, .resume {
+        
+        #title-box a, .linkedin, .github, .resume {
             color: white;
             text-decoration: none;
             transition: transform 0.3s, opacity 0.3s;
         }
     
-        #name-box a:hover, #title-box a:hover, .linkedin:hover, .github:hover, .resume:hover {
+        #title-box a:hover, .linkedin:hover, .github:hover, .resume:hover {
             opacity: 0.9;
             transform: translateY(-3px);
             text-decoration: underline;  /* Consistent underline on hover */
         }
     
-        .linkedin, .github, .resume {
+        .linkedin, .resume {
             font-weight: bold;
             margin: 10px;
             padding: 12px 40px;
@@ -55,6 +50,12 @@ description: >
             background-color: #25A18E;
         }
         .github {            
+            font-weight: bold;
+            margin: 10px;
+            padding: 12px 40px;
+            border-radius: 15px;
+            display: inline-block;
+            font-size: 1.8em;
             background-color: #004e64ff;
         }
         .smaller-btn {
