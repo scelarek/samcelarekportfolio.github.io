@@ -110,7 +110,7 @@
 </head>
 <body>
     <section>
-        <div class="title-box">Data Analysis Portfolio</div>
+        <div class="title-box" href="https://scelarek.github.io">Data Analysis Portfolio</div>
         <hr>
         <div class="project-content featured">
             <h2>Featured Project</h2>
