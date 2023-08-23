@@ -65,6 +65,15 @@
         .project-content:first-child .view-project {
             background-color: #00A5CF; /* Changed the background color for the Featured Project's view project link */
         }
+        .footer-quote {
+            text-align: center;
+            background-color: #F3FFF8;
+            padding: 20px;
+            border-radius: 5px;
+            margin-top: 30px;
+            box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);
+            font-style: italic;
+        }
     </style>
 </head>
 
@@ -87,7 +96,12 @@
             <h2><a href="https://portlandear.wordpress.com/" class="view-project">Effective Altruism Portfolio</a></h2>
             <p class="project-description">Community Building &bull; Leadership &bull; Agenda Setting &bull; Volunteer Work &bull; Presentations &bull; Outreach &bull; Philosophy &bull; Economics &bull; Research</p>
         </div>
+        <div>
+            <p class="footer-quote">“You can't actually feel the weight of the world. The human mind is not capable of that feat. 
+            But sometimes, you can catch a glimpse.” <br> ― Nates Soares, On Caring</p>
+        </div>
     </section>
 </body>
+
 
 </html>
