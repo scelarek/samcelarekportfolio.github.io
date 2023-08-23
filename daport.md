@@ -99,16 +99,25 @@
             text-align: center;
             font-weight: bold;
             margin: 10px;
-            padding: 12px 40px;
-            border-radius: 15px;
+            padding: 10px 10px;
+            border-radius: 10px;
             display: inline-block;
-            font-size: 1.5em;
+            font-size: 1.3em;
             background-color: #004e64ff;
         }
         .title-box:hover {
             opacity: 0.9;
             transform: translateY(-3px);
             text-decoration: underline; 
+        }
+        .footer-quote {
+            text-align: center;
+            background-color: #F3FFF8;
+            padding: 20px;
+            border-radius: 5px;
+            margin-top: 30px;
+            box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);
+            font-style: italic;
         }
     </style>
 </head>
