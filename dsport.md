@@ -5,15 +5,13 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;700&family=Roboto:wght@300;400;700&display=swap" rel="stylesheet">
     <style>
-        /* Reset some default browser styles */
         body, h2, p {
             margin: 0;
             padding: 0;
         }
-        /* Global styles */
         body {
             font-family: 'Roboto', sans-serif;
-            background-color: #fff;
+            background-color: #f5f5f5;
             color: #333;
             padding: 40px 20px;
         }
@@ -28,30 +26,29 @@
             background-color: #E6FFF1;
             padding: 20px;
             border-radius: 10px;
-            box-shadow: 0 2px 10px rgba(0, 0, 0, 0.2);
+            box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);
             text-align: center;
             margin-bottom: 30px;
         }
         .description {
             font-size: 0.9em;
-            margin: 5px 0;
-            background-color: #E0E0E0;
-            padding: 20px;
+            margin: 10px 0;
+            background-color: #f2f2f2;
+            padding: 15px;
             border-radius: 10px;
-            font-weight: bold;
         }
         .view-project {
             display: inline-block;
             background-color: #5DA46B;
-            padding: 10px 10px;
-            border-radius: 15px;
+            padding: 10px 20px;
+            border-radius: 10px;
             color: white;
             font-weight: bold;
             margin: 10px 0;
             transition: all 0.3s ease;
         }
         .view-project:hover {
-            opacity: 0.7;
+            opacity: 0.8;
         }
         .featured-image {
             max-width: 100%;
@@ -63,23 +60,21 @@
             font-weight: bold;
             color: white;
             margin: 20px 0;
-            background-color: #004e64ff; /* Midnight-green */
-            border-radius: 15px;
+            background-color: #004e64ff;
+            border-radius: 10px;
             padding: 15px 20px;
             display: inline-block;
-            font-size: 1.5em; /* Increased font size */
         }
         .skill-description {
-            font-size: 0.8em;        /* Smaller text */
-            font-weight: normal;     /* Non-bold font */
-            text-align: center;     /* Centered text */
-            background-color: transparent; /* No background */
+            font-size: 0.8em;
+            text-align: center;
+            background-color: transparent;
             margin: 5px 0;
             padding: 10px;
             border-radius: 10px;
         }
         .expand-btn {
-            background-color: #5da46bff; /* Choose any of the provided colors */
+            background-color: #5da46bff;
             color: white;
             padding: 5px 15px;
             border-radius: 5px;
@@ -92,25 +87,24 @@
         .project-title {
             display: inline-block;
             background-color: #25A18E;
-            padding: 10px 10px;
-            border-radius: 15px;
+            padding: 10px 20px;
+            border-radius: 10px;
             color: white;
             font-weight: bold;
             margin: 10px 0;
             font-family: 'Poppins', sans-serif;
             transition: all 0.3s ease;
-            text-decoration: none; /* To remove any default underlining for anchor tags */
         }
         .project-title:hover {
             opacity: 0.9;
-            transform: translateY(-3px); /* Matching hover behavior */
-            text-decoration: underline;  /* Underline on hover for the title */
+            transform: translateY(-3px);
         }
         .project-content:first-child {
-            background-color: #CFF2FB; /* Changed the background color for the Featured Project */
+            background-color: #CFF2FB;
+            box-shadow: 0 2px 20px rgba(0, 123, 255, 0.25);
         }
         .project-content:first-child .project-title {
-            background-color: #00A5CF; /* Changed the background color for the Featured Project's view project link */
+            background-color: #00A5CF;
         }
     </style>
 </head>
