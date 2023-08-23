@@ -86,11 +86,31 @@
         .project-content.featured h2 {
             color: #00A5CF; /* Added a different color for the Featured Project title */
         }
+        .title-box {
+            color: white;
+            text-decoration: none;
+            transition: transform 0.3s, opacity 0.3s;
+        }
+        .title-box:hover {
+            opacity: 0.9;
+            transform: translateY(-3px);
+            text-decoration: underline;  /* Consistent underline on hover */
+        }
+        .title-box {     
+            text-align: center;
+            font-weight: bold;
+            margin: 10px;
+            padding: 12px 40px;
+            border-radius: 15px;
+            display: inline-block;
+            font-size: 1.5em;
+            background-color: #004e64ff;
+        }
     </style>
 </head>
 <body>
     <section>
-        <div id="name-box">Data Science Portfolio</div>
+        <div class="title-box">Data Science Portfolio</div>
         <hr>
         <!-- Entry 1: CovidCast -->
         <div class="project-content featured">
