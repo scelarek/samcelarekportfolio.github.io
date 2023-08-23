@@ -192,6 +192,9 @@
             <p class="description">"Utilized the power of Hadoop, AWS, and PySpark on 260+ million entries in Google's corpus of books to analyze the frequency of the word 'data' over the past five hundred years."</p>
             <img class="featured-image" src="https://github.com/scelarek/scelarek.github.io/assets/115444760/751e72f4-76bb-4628-b4bb-c07bcd602fe3" alt="Google Engrams Image">
         </div>
+        <div>
+            <p class="footer-quote">““The broader intellectual world seems to wildly overestimate how long it will take A.I. systems to go from ‘large impact on the world’ to ‘unrecognizably transformed world.’”<br>― Paul Christiano</p>
+        </div>
     </section>
 </body>
 </html>
