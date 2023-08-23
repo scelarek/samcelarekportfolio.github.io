@@ -82,7 +82,7 @@
             <p class="skill-description">Time Series Forecasting &bull; Hyperparameter Tuning &bull; Feature Engineering &bull; Data Wrangling &bull; EDA</p>
             <p class="description">"Like a weather forecast for pandemics, COVIDCast leverages state-of-the-art machine learning and epidemiological models to deliver precise outbreak predictions."</p>
             <img class="featured-image" src="https://github.com/scelarek/scelarek.github.io/assets/115444760/00381f16-48b4-4b64-bcb8-3df639dca68d" alt="COVIDCast Image">
-        </div>
+        </div> </div> 
         <hr>
         <!-- Entry 2: SideBard -->
         <div class="content-box">
