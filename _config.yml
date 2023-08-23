@@ -20,7 +20,7 @@ description: >
         #name-box, #title-box {
             font-weight: bold;
             color: white;
-            margin: 20px 0 10px 0; /* Adjusted the margin to have 10px at the bottom */
+            margin: 10px 0 10px 0; /* Adjusted the margin to have 10px at the bottom */
             background-color: #004e64ff;
             border-radius: 15px;
             padding: 15px 20px;
@@ -30,7 +30,7 @@ description: >
     
         #name-box {
             font-size: 1.4em;
-            margin: 15px 0; /* Equal margin top and bottom */
+            margin: 0px 0; /* Equal margin top and bottom */
         }
     
         #name-box a, #title-box a, .linkedin, .github, .resume {
@@ -54,7 +54,9 @@ description: >
             font-size: 1.1em;
             background-color: #25A18E;
         }
-    
+        .github {            
+            background-color: #004e64ff;
+        }
         .smaller-btn {
             font-size: 0.9em;
             padding: 8px 8px;
@@ -72,8 +74,8 @@ description: >
     </style>
     
     <div class="sidebar-content">
-        <div id="name-box">
-            <h1><a href="https://scelarek.github.io">Sam Celarek</a></h1>
+        <div>
+            <a class="github" href="href="https://scelarek.github.io">Sam Celarek</a>
         </div>
     
         <img src="/images/Circle Sam.png?raw=true" alt="Sam Celarek">
@@ -90,7 +92,7 @@ description: >
         </div>
     
         <div>
-            <a class="linkedin" href="https://www.linkedin.com/in/sam-celarek/">LinkedIn</a>
+            <a class="github" href="https://www.linkedin.com/in/sam-celarek/">LinkedIn</a>
             <a class="github" href="https://github.com/scelarek">GitHub</a><br>
             <a class="resume smaller-btn" href="https://drive.google.com/file/d/1efDKQhfODJLj5-FZS7EEePUJkgCsBtUr/view?usp=sharing">My Resume</a>
             <a class="resume smaller-btn" href="mailto:scelarek@gmail.com">Email Me!</a>
