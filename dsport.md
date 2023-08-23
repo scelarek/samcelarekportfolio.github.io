@@ -82,10 +82,10 @@
             <p class="skill-description">Time Series Forecasting &bull; Hyperparameter Tuning &bull; Feature Engineering &bull; Data Wrangling &bull; EDA</p>
             <p class="description">"Like a weather forecast for pandemics, COVIDCast leverages state-of-the-art machine learning and epidemiological models to deliver precise outbreak predictions."</p>
             <img class="featured-image" src="https://github.com/scelarek/scelarek.github.io/assets/115444760/00381f16-48b4-4b64-bcb8-3df639dca68d" alt="COVIDCast Image">
-        </div> </div> 
+        </div>
         <hr>
         <!-- Entry 2: SideBard -->
-        <div class="content-box">
+        <div class="project-content">
             <h2><a href="/pages/sidebard.html" class="project-title">SideBard for Google</a></h2>
             <p class="skill-description">Retrieval Augmented AI Text Generation &bull; LLMs &bull; Data Communication &bull; Hackathon &bull; Interdisciplinary Team</p>
             <p class="description">"Collaborated with my team, AInsight, of UX/UI, web devs, and data scientists to develop a figma prototype of a Chatbot in the Sidebar with Retrieval Augmented Generation for Google in 24hrs"</p>
@@ -94,7 +94,7 @@
         <hr>
         <hr>
         <!-- Entry 3: Puppularity Contest -->
-        <div class="content-box">
+        <div class="project-content">
             <h2><a href="/pages/twitter.html" class="project-title">Puppularity Contest</a></h2>
             <p class="skill-description">Web Scraping &bull; API &bull; Regression &bull; Classification</p>
             <p class="description">"Extracted "We Rate Dogs" tweets using API calls and BeautifulSoup, then evaluated comedic vs. aesthetic feature influence on engagement through regression models."</p>
@@ -102,7 +102,7 @@
         </div>
         <hr>
         <!-- Entry 4: Predicting Hotel Ratings from Reviews -->
-        <div class="content-box">
+        <div class="project-content">
             <h2><a href="/pages/hotel.html" class="project-title">Predicting Hotel Ratings from Reviews</a></h2>
             <p class="skill-description">Feature Engineering &bull; Classification &bull; NLP &bull; Hyperparameter Tuning</p>
             <p class="description">"Applied data preprocessing, feature engineering, NLP, and hyperparameter tuned classification models on 500,000+ hotel reviews to predict positive ratings at an accuracy of 78.4%."</p>
@@ -110,7 +110,7 @@
         </div>
         <hr>
         <!-- Entry 5: West Nile Watch -->
-        <div class="content-box">
+        <div class="project-content">
             <h2><a href="/pages/wnv.html" class="project-title">West Nile Watch</a></h2>
             <p class="skill-description">Feature Engineering &bull; Data Wrangling &bull; EDA &bull; Hypothesis Testing</p>
             <p class="description">"Deployed hypothesis tests and classification models on 18,000+ entries to pinpoint West Nile Virus hotspots and high-risk species to guide community health interventions."</p>
@@ -118,7 +118,7 @@
         </div>
         <hr>
         <!-- Entry 6: DS Templates and ML Guides -->
-        <div class="content-box">
+        <div class="project-content">
             <h2><a href="/pages/reference.html" class="project-title">DS Templates and ML Guides</a></h2>
             <p class="skill-description">Regression &bull; Classification &bull; Clustering &bull; Pipelines &bull; Grid Search</p>
             <p class="description">"Streamlined machine learning workflow using pipelines to grid search across the performance of various regression, classification, and clustering models on toy datasets."</p>
@@ -126,7 +126,7 @@
         </div>
         <hr>
         <!-- Entry 7: Kickstarter -->
-        <div class="content-box">
+        <div class="project-content">
             <h2><a href="/pages/kickstart.html" class="project-title">Kickstarter: The Business Behind Dreams</a></h2>
             <p class="skill-description">SQL &bull; Data Wrangling &bull; EDA &bull; Classification</p>
             <p class="description">"Crafted a thorough business report using SQL, EDA, and classification models on 150,000+ entries to set viable fundraising targets for a tabletop board game campaign on Kickstarter."</p>
@@ -134,7 +134,7 @@
         </div>
         <hr>
         <!-- Entry 8: Google Engrams -->
-        <div class="content-box">
+        <div class="project-content">
             <h2><a href="/pages/google.html" class="project-title">Google Engrams: Data in the Clouds</a></h2>
             <p class="skill-description">Hadoop &bull; AWS &bull; PySpark &bull; EDA</p>
             <p class="description">"Utilized the power of Hadoop, AWS, and PySpark on 260+ million entries in Google's corpus of books to analyze the frequency of the word 'data' over the past five hundred years."</p>
