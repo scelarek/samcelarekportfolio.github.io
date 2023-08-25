@@ -47,7 +47,7 @@ description: >
             border-radius: 15px;
             display: inline-block;
             font-size: 1.1em;
-            background-color: #25A18E;
+            background-color: #004e64ff;
         }
         .github {            
             font-weight: bold;
