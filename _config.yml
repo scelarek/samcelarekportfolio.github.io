@@ -39,7 +39,14 @@ description: >
             display: inline-block;
             font-size: 1.1em;
         }
-            
+
+        .big-box {
+            width: 150px; /* or whatever width you desire */
+            height: 50px; /* or whatever height you desire */
+            text-align: center; /* to center the content horizontally */
+            line-height: 50px; /* to center the content vertically, it should be the same as the height */
+        }
+
         .big-box, .small-box {
             font-weight: bold;
             margin: 10px;
@@ -49,10 +56,6 @@ description: >
             display: inline-block;
             font-size: 1.1em;
             background-color: #00536A;
-            width: 150px; /* added */
-            height: 50px; /* added */
-            text-align: center; /* added */
-            line-height: 50px; /* added */
         }
         
         .name-box {            
