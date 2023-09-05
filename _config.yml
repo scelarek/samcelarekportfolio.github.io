@@ -41,10 +41,8 @@ description: >
         }
 
         .big-box {
-            width: 150px; /* or whatever width you desire */
-            height: 50px; /* or whatever height you desire */
+            width: 80px; /* or whatever width you desire */
             text-align: center; /* to center the content horizontally */
-            line-height: 50px; /* to center the content vertically, it should be the same as the height */
         }
 
         .big-box, .small-box {
