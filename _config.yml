@@ -49,6 +49,10 @@ description: >
             display: inline-block;
             font-size: 1.1em;
             background-color: #00536A;
+            width: 150px; /* added */
+            height: 50px; /* added */
+            text-align: center; /* added */
+            line-height: 50px; /* added */
         }
         
         .name-box {            
